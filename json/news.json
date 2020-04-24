@@ -1,0 +1,110 @@
+{
+    "PhD Admission - Application":{
+        "description": "PhD Admission at IIIT Tiruchirappalli",
+        "url": "http://phdadmission.iiittevents.in",
+        "isNew" : true
+    },
+    "Tender for Laptop":{
+        "description": "Tender for Laptop",
+        "url": "/downloads/Tender_Laptops-2020.pdf",
+        "isNew" : true
+    },
+    "Tender for Video Coverage":{
+        "description": "Tender for Video Coverage",
+        "url": "/downloads/Tender.videography.pdf",
+        "isNew" : false
+    },
+    
+    "Tender for Photography":{
+        "description": "Tender for Photography",
+        "url": "/downloads/Tender.Photography.pdf",
+        "isNew" : false
+    },
+    "Tender for hiring of vehicle":{
+        "description": "Tender for hiring of vehicle",
+        "url": "/downloads/notices/Tender-Hiring-of-Vehicle.pdf",
+        "isNew" : false
+    },
+"Date Extended for Manpower Agengy Tender":{
+        "description": "Date Extended for Manpower Agengy Tender",
+        "url": "/downloads/notices/NOTICE-HR_TENDER-DATE-EXTENDED.pdf",
+        "isNew" : false
+    },
+    "Tender for hiring of bus Updated":{
+        "description": "Tender for hiring of bus services Updated",
+        "url": "/downloads/tender-bus-ext.pdf",
+        "isNew" : false
+    },
+"Tender for Car hire":{
+        "description": "Tender for Car hire",
+        "url": "/downloads/notices/TENDER-CAR-03.pdf",
+        "isNew" : false
+    },
+"Outsourcing of Manpower Services":{
+        "description": "Outsourcing of Manpower Services Updated",
+        "url": "/downloads/notices/Manpower-Tender.pdf",
+        "isNew" : false
+    },
+   "Tender for hiring of bus services":{
+        "description": "Tender for hiring of bus services",
+        "url": "/downloads/notices/Transport_Tender.pdf",
+        "isNew" : false
+    },
+    
+    "Tender Hiring of Vehicle":{
+        "description": "Tender Hiring of Vehicle",
+        "url": "/downloads/notices/Updated_Tender_Hiring_of_Vehicle-31.07.2019.pdf",
+        "isNew" : false
+    },
+
+   "Institute Reopen Circular":{
+        "description": "Institute Reopen Circular Updated",
+        "url": "/downloads/notices/Institute Reopen Circular.pdf",
+        "isNew" : false
+    }, 
+   "Tender for Hiring of Vehicles": {
+        "description": "Tender for Hiring of Vehicles updated",
+        "url": "downloads/VEHICLE-TENDER-04-07-2019.pdf",
+        "isNew": false
+    }, 
+    "IIITT/MS Office & Imagine-Quote Call for/2018 ": {
+        "description": "Tender for Office Std 2016 SNGL OLP NL Acdmc<br/> (Office Standard 2016 Single Open No level Academic) <br/>Microsoft Imagine Premium subscription <br/>(formerly known as Microsoft Dreamspark Premium) May 16, 2018  ",
+        "url": "downloads/MS Office & OS Tender Notification.pdf",
+        "isNew": false
+    },
+    "IIITT/Student desk-Quote Call for/2018  ": {
+        "description": "Tender for Steel bench & Desk Top; Wooden Novopen top with back rest, steel center plate full cover with attachment, May 10, 2018",
+        "url": "downloads/Student desk Tender Notification.pdf",
+        "isNew": false
+    },
+    "Opening and Closing Ranks in IIIT Tiruchirappalli": {
+        "description": "Opening and Closing Ranks in IIIT Tiruchirappalli",
+        "url": "downloads/admission/OpeningandClosingRank.pdf",
+        "isNew": false
+    },
+    "Minutes of The BOG Meetings": {
+        "description": "Minutes of The five BOG Meetings have been uploaded here.",
+        "url": "/administration",
+        "isNew": false
+    },
+    "Admission for B.Tech. program 2017": {
+        "description": "Physically Reporting period starts from 22nd to 26th July, 2017.",
+        "url": "/admission",
+        "isNew": false
+    },
+    "JoSAA Choice Filling": {
+        "description": "JoSAA Registration and Choice Filling starts from 15th to 26th June, 2017.",
+        "url": "http://josaa.nic.in",
+        "isNew": false
+    },
+    "Seminar Talk on The Technical Challenges and Opportunities in Banking Services after Demonetization": {
+        "description": "On 14th March 2017, seminar talk on The Technical Challenges and Opportunities in Banking Services after Demonetization will be delivered by Mr. Subramanian, Chief Information Officer & Head of Technology (South Asia), Citi Group.",
+        "url": "",
+        "isNew": false
+    },
+    "Seminar Talk on Protecting Indian Cyber Space and its Critical Information Infrastructure from Hackers": {
+        "description": "On 6th March 2017, a seminar talk on Protecting Indian Cyber Space and its Critical Information Infrastructure from hackers will be delivered by Mr. Ramanarayasamy, Co-founder of Senzwiz Technologies.",
+        "url":"",
+        "isNew": false
+    }
+}

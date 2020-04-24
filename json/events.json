@@ -1,0 +1,75 @@
+{
+    "A two-day Hands-on Training on “Building a Robot from Scratch” ":{
+        "description": "A two-day Hands-on Training on “Building a Robot from Scratch”",
+        "url": "/downloads/notices/Robotics_brochure.pdf",
+        "isNew" : true
+    }, 
+    
+    "Live streaming of First Convocation 2020 ":{
+        "description": "Live Streaming of First Convocation 2020",
+        "url": "http://streaming.iiitt.ac.in/",
+        "isNew" : true
+    }, 
+
+ "Fee structure for Even Semester  AY 2019-20 ":{
+        "description": "Fee structure for Even Semester  AY 2019-20",
+        "url": "/downloads/notices/Fee-Structure-(Even-Semester).pdf",
+        "isNew" : true
+    }, 
+
+    "Fee Structure for the AY 2019-20 ":{
+        "description": "Fee Structure for Higher Semesters (III, V, VII) for the AY 2019-20",
+        "url": "/downloads/notices/FeeStructure19-20.pdf",
+        "isNew" : true
+    },  
+    "Fee Structure for the AY 2019-20 (1 semester) ":{
+        "description": "Fee Structure for the AY 2019-20 (I semester) ",
+        "url": "/downloads/notices/Fee Structure 2019-20.pdf",
+        "isNew" : true
+    },  
+    "Fee Structure (2018 - 19) ": {
+        "description": "Fee Structure (2018 - 19)",
+        "url": "/downloads/notices/FeeStructure2018.pdf",
+        "isNew": false
+    },
+    "Reporting Details for B.Tech New Admission (2019-20) ": {
+        "description": "Reporting Details for B.Tech - New Admission (2019-20)",
+        "url": "/downloads/admission/ReportingDetails_IIITT_2019-20.pdf",
+        "isNew": false
+    },
+    "B.Tech-New Admission: Fee Structure-I Semester (2018-19) ": {
+        "description": "B.Tech - New Admission: Fee Structure - I Semester (2018-19)",
+        "url": "/downloads/admission/FeeStructure18-19.pdf",
+        "isNew": false
+    },
+    "Cycle Test and End Semester Schedule": {
+        "description": "Cycle Test and End Semester Schedule of AY 2017-18 for VI, IV and II Semester",
+        "url": "/downloads/EVEN_EXAM SCHEDULE_2017_18.pdf",
+        "isNew": false
+    },
+    "Inauguration of 2017-18 batch": {
+        "description": "Inauguration of 2017-18 batch scheduled on 3rd August, 2017.",
+        "url": "",
+        "isNew": false
+    },
+    "Orientation Program for 1st Year": {
+        "description": "Orientation Program for I year is scheduled on 3rd August, 2017.",
+        "url": "",
+        "isNew": false
+    },
+    "Atrang 2017": {
+        "description": "Atrang 2017 is on 13th April, 2017.",
+        "url": "http://atrang.org",
+        "isNew": false
+    },
+    "Institute Day": {
+        "description": "Institute Day is on 7th April, 2017.",
+        "url": "/festivals",
+        "isNew": false
+    },
+    "IIITDMJ inter-IIIT Techno Cultural Festival": {
+        "description": "Join inter- IIIT Techno - Cultural Fest, by IIITDMJ from 23rd to 26th March, 2017.",
+        "url":"http://iiitdmjfest.org/",
+        "isNew": false
+    }
+}
