@@ -90,8 +90,10 @@ animation-iteration-count: infinite;
 </head>
 <body style="">
     <div class="head-banner hidden-sm hidden-xs hidden-md">
-        <center>
-            <img src="images/logo-iiit.png" align="center" style=" padding-left:0px; padding-bottom: 20px;" height="120px" width="90%" alt="IIIT Trichy Logo" />
+        <center style="display: flex;">
+            <img src="images/logo.png" align="center" style=" padding-left:0px; padding-bottom: 20px;" height="120px" width="100px" alt="IIIT Trichy Logo" />
+            <h1 style="font-size: 60px;color: #1c4f7a;">Virtual Learning Academy</h1>
+            <img src="images/klogo.png" align="center" style=" padding-left:0px; padding-bottom: 20px;" height="120px" width="100px" alt="IIIT Trichy Logo" />
         </center>
     </div>
 
@@ -116,139 +118,20 @@ animation-iteration-count: infinite;
 
                 <ul class="nav navbar-nav">
                     <li id="btn-home" class="dropdown">
-                        <a title="Home" href="/" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-home"></i></a>
-                        </li>
-                    <!--
-                    Institute 
-                        ->About IIITT
-                        ->Administration
-                        ->Location
-                        ->Industry Partners
-                        ->Mentor Director of IIITT
-                        ->Mentor Director of IIITT
--->
-
-                    <li id="btn-institute" class="dropdown">
-                        <a href="#" title="Explore About, Administration, Location, Industry Partners and more about IIIT Trichy." class="menu-btn dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Institute</a>
-                        <ul class="dropdown-menu">
-                            <li role="separator" class="divider"></li>
-                            <li><a class="about-iiitt-btn" href="/about" data-toggle="collapse" data-target="#navbar-collapse-menu">About IIITT</a></li>
-                             <li class="dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Administration</a>
-        						<ul class="dropdown-menu">
-                                    <li><a href="/director">Director</a></li>
-									<li><a href="/registrar">Registrar</a></li>
-<!--									<li><a href="/deans">Deans</a></li>      -->
-								</ul>
-							</li>
-                            <li><a class="location-btn" href="/bog" data-toggle="collapse" data-target="#navbar-collapse-menu">BoG</a></li>
-                            <li><a class="tender-btn" href="/senate" data-toggle="collapse" data-target="#navbar-collapse-menu">Senate</a></li>
-                             <li><a class="tender-btn" href="/fc" data-toggle="collapse" data-target="#navbar-collapse-menu">FC</a></li>
-                            <li><a class="tender-btn" href="/bwc" data-toggle="collapse" data-target="#navbar-collapse-menu">BwC</a></li>
-                            <li><a class="mentor-director-message" href="/rti" data-toggle="collapse" data-target="#navbar-collapse-menu">RTI</a></li>
-                            <li><a class="industry-partners-btn" href="/partners" data-toggle="collapse" data-target="#navbar-collapse-menu">Industry Partners</a></li>
-                            <li role="separator" class="divider"></li>
-                        </ul>
+                        <a title="IIIT Trichy Home Page" href="/" role="button" aria-haspopup="true" aria-expanded="false">IIIT Trichy<i class="fa fa-home"></i></a>
+                    </li>
+                    <li>
+                        <a title="Back to IIIT Trichy Home page" href="/vla/" role="button" aria-haspopup="true" aria-expanded="false">Registration</a>
                     </li>
 
-                    <!--
-                    Academics
-                        -> Programs
-                        -> Departments
-                        -> Curriculum
-                        -> Calendar
-                    -->
-                    <li id="btn-academics" class="dropdown">
-                        <a title="Explore Programs, Departments, Curriculum, Calender and more about IIIT Trichy." href="#" class="menu-btn dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Academics </a>
-                        <ul class="dropdown-menu">
-                            <li role="separator" class="divider"></li>
-                            <li><a class="programs-btn" href="/programs" data-toggle="collapse" data-target="#navbar-collapse-menu">Programs</a></li>
-                            <li><a class="departments-btn" href="/departments" data-toggle="collapse" data-target="#navbar-collapse-menu">Departments</a></li>
-                            <li><a class="curriculum-btn" href="/curriculum" data-toggle="collapse" data-target="#navbar-collapse-menu">Curriculum</a></li>
-                            <li><a class="calender-btn" href="/calender" data-toggle="collapse" data-target="#navbar-collapse-menu">Calender</a></li>
-                            <li><a class="holidays-btn" href="/holidays" data-toggle="collapse" data-target="#navbar-collapse-menu">Holidays</a></li>
-                            <li role="separator" class="divider"></li>
-                        </ul>
+                    <li>
+                        <a title="Home" href="/vla" role="button" aria-haspopup="true" aria-expanded="false">Resources</a>
                     </li>
 
-                   <!--
-                    People
-                        -> Faculty
-                        -> Staff
-                    -->
-                    <li id="btn-faculty" class="dropdown">
-                        <a href="#" class="menu-btn dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">People </a>
-                        <ul class="dropdown-menu">
-                            <li role="separator" class="divider"></li>
-                            <li><a class="career-btn" href="/facultypeople" data-toggle="collapse" data-target="#navbar-collapse-menu">Faculty</a></li>
-                            <li><a class="cse-btn" href="/adminpeople" data-toggle="collapse" data-target="#navbar-collapse-menu">Staff</a></li>
-                            <li role="separator" class="divider"></li>
-                        </ul>
+                    <li>
+                        <a title="Home" href="/vla" role="button" aria-haspopup="true" aria-expanded="false">Upcoming Events</a>
                     </li>
 
-                    <!-- Admission-->
-
-                    <li id="btn-student" class="dropdown">
-                    <a title="Explore Undergraduate Program, Admission, FAQs and more about IIIT Trichy." href="/admission" class="menu-btn" role="button" aria-haspopup="true" aria-expanded="false">Admission </a>
-                    </li>
-                    
-                    <!--
-                    Notifications
-                        -> Careers
-                        -> Tenders
-                    -->
-                    <li id="btn-student" class="dropdown">
-                        <a title="Explore Tenders and Career Notifications" href="#" class="menu-btn dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Notifications </a>
-                        <ul class="dropdown-menu">
-                            <li role="separator" class="divider"></li>
-                            <li><a class="career-btn" href="/notices" data-toggle="collapse" data-target="#navbar-collapse-menu">General</a></li>
-                            <li><a class="tender-btn" href="/tender" data-toggle="collapse" data-target="#navbar-collapse-menu">Tenders</a></li>
-                            <li role="separator" class="divider"></li>
-                        </ul>
-                    </li>
-                    
-                    <!--
-                    Students
-                        -> B. Tech.
-                        -> FAQs
-                    -->
-                    <li id="btn-student" class="dropdown">
-                        <a title="Explore Undergraduate Program, Admission, FAQs and more about IIIT Trichy." href="#" class="menu-btn dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Students </a>
-                        <ul class="dropdown-menu">
-                            <li role="separator" class="divider"></li>
-                            <li><a class="undergraduate-btn" href="/undergraduate" data-toggle="collapse" data-target="#navbar-collapse-menu">Undergraduate</a></li>
-                            <li><a class="faqs-btn" href="/faqs" data-toggle="collapse" data-target="#navbar-collapse-menu">FAQs</a></li>
-                            <li role="separator" class="divider"></li>
-                        </ul>
-                    </li>
-
-                    <!--
-                    Campus Life
-                        -> Festivals
-                        -> Clubs
-                        -> Facilities
-                        -> Hostel ad Mess
-                    -->
-                    <li id="btn-campus-life" class="dropdown">
-                        <a title="Explore Festivals, Clubs, Facilities, Hostel and Mess, and more about IIIT Trichy." href="#" class="menu-btn dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Campus Life </a>
-                        <ul class="dropdown-menu">
-                            <li role="separator" class="divider"></li>
-                            <li><a class="festivals-btn" href="/festivals" data-toggle="collapse" data-target="#navbar-collapse-menu">Festivals </a></li>
-                            <li><a class="clubs-btn" href="/clubs" data-toggle="collapse" data-target="#navbar-collapse-menu">Clubs</a></li>
-<!--
-                            <li><a class="facilities-btn" href="/facilities" data-toggle="collapse" data-target="#navbar-collapse-menu">Facilities</a></li>
-                            <li><a class="hostel-mess-btn" href="/hostel-mess" data-toggle="collapse" data-target="#navbar-collapse-menu">Hostel and Mess</a></li>
--->
-                            <li role="separator" class="divider"></li>
-                        </ul>
-                    </li>
-                    
-                    
-                    
-                    <!-- Contact US-->
-
-                    <li id="btn-contact" class="dropdown">
-                    <a title="Explore Undergraduate Program, Admission, FAQs and more about IIIT Trichy." href="/location" class="menu-btn" role="button" aria-haspopup="true" aria-expanded="false">Contact us </a>
-                    </li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
                     <li><a title="Follow us on LinkedIn" href="https://www.linkedin.com/school/iiitt/" target="_blank" data-toggle="collapse" data-target="#navbar-collapse-menu"><i class="fa fa-linkedin"></i></a></li>
@@ -264,7 +147,7 @@ animation-iteration-count: infinite;
         <!-- /.container-fluid -->
     </nav>    
    <marquee class="blink" >
-     <a class="blink" href ="phdadmission.iiittevents.in">*PhD application last date extended </a>
+     <a class="blink" href ="phdadmission.iiittevents.in">*Registration for Virtual Leraning Academy Started</a>
       <a class="blink" href ="downloads/mhrd/crowdbpo.jpg">*Crowd sourcing of innovative ideas to boost e-learning in India - Bharat Padhe Online: Intensifying Online Education </a>
       <!-- <a class="blink" href ="">Team IIITT Pledges to observe Janata curfew on 22nd March 2020</a> -->
       <!-- <a class="blink" href ="http://iiitt.ac.in/downloads/notices/Even-Semester-2019-20-Academic-calender.pdf">Academic Calender...</a> -->
@@ -291,21 +174,10 @@ animation-iteration-count: infinite;
                     <!-- Indicators -->
                     <ol class="carousel-indicators">
                         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                        <li data-target="#myCarousel" data-slide-to="10"></li>
+
                         <li data-target="#myCarousel" data-slide-to="1"></li>
                         <li data-target="#myCarousel" data-slide-to="2"></li>
-                        <li data-target="#myCarousel" data-slide-to="3"></li>
-                        <li data-target="#myCarousel" data-slide-to="4"></li>
-                        <li data-target="#myCarousel" data-slide-to="5"></li>
-                        <li data-target="#myCarousel" data-slide-to="6"></li>
-                        <li data-target="#myCarousel" data-slide-to="7"></li>
-                        <li data-target="#myCarousel" data-slide-to="8"></li>
-                        <li data-target="#myCarousel" data-slide-to="9"></li>
-                        <li data-target="#myCarousel" data-slide-to="11"></li>
-                        <li data-target="#myCarousel" data-slide-to="12"></li>
-                        <li data-target="#myCarousel" data-slide-to="13"></li>
-                        <li data-target="#myCarousel" data-slide-to="14"></li>
-                        <li data-target="#myCarousel" data-slide-to="15"></li>
+
 <!--                        <li data-target="#myCarousel" data-slide-to="10"></li>-->
                     </ol>
 
@@ -321,15 +193,21 @@ animation-iteration-count: infinite;
                         </figure>
 -->
                         <figure class="item active">
-                            <img class="img-responsive img-center" src="images/slide/001.JPG" style="height: 405px; width: 720px;" alt="">
+                            <img class="img-responsive img-center" src="images/vla/vla2.png" style="height: 405px; width: 720px;" alt="">
                             <figcaption class="text-center carousel-caption">
-                               MOU
+                              Virtul Learning Academy
                             </figcaption>
                         </figure>
                         <figure class="item">
-                            <img class="img-responsive img-center" src="images/slide/002.JPG" style="height: 405px; width: 720px;" alt="">
+                            <img class="img-responsive img-center" src="images/vla/vla.jpg" style="height: 405px; width: 720px;" alt="">
                             <figcaption class="text-center carousel-caption">
-                                MOU
+                                Leran Inspire Grow
+                            </figcaption>
+                        </figure>
+                        <figure class="item">
+                            <img class="img-responsive img-center" src="images/vla/vla3.jpg" style="height: 405px; width: 720px;" alt="">
+                            <figcaption class="text-center carousel-caption">
+                                Revolutionizing Education
                             </figcaption>
                         </figure>
                         <!--Removing for Dev
@@ -557,7 +435,7 @@ animation-iteration-count: infinite;
 				<ul class="list-group" style="min-height: 400px;">
 				<li class="list-group-item "><br>Indian Institute Of Information Technology Tiruchirappalli is the first among 17 RECs setup as joint venture of the Government of India and the state government.</li>
 				<li class="list-group-item "><br>Over the years, the college has established itself as a premier Institution imparting technical education of a very high standard leading to the B.Tech, M.Tech, M.Sc/M.Sc(tech), MCA, MBA and Ph.D degrees in various branches of Engineering, Science and Management. </li>
-				<li class="list-group-item "><br>The departments are recognized as excellence among all NITs in India and International reputation of excellence in teaching, research and services.</li>
+				<li class="list-group-item "><br>The departments are recognized as excellence among all NITs in India and International reputation of excellence in teaching, research and services.    </li>
 		</div>
 		</div>
 		<div class="clear"></div>
