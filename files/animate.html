@@ -86,6 +86,10 @@ animation-iteration-count: infinite;
     color:#fff !important;
 }
 
+#myVideo{
+    max-width: 90vw;
+}
+
     </style>
 </head>
 <body style="overflow: scroll !important;">
@@ -175,14 +179,23 @@ animation-iteration-count: infinite;
     </marquee> 
     
    <main class="content container" style="background-color: #f3f3f4;width:100%">
-     <a href="http://www.iiitt.ac.in/vla">
-       <img src="images/vla/banner.jpg">
-       </a>
+       <video src="images/vla.mov" type="video/mov" playsinline autoplay muted   id="myVideo" >
+        Video not supported on your browser :(
+        </video>
+
 	</main>
 
     <footer class="text-center">
         Jointly hosted by IIITDM Kurnool and IIIT Tiruchirappalli &nbsp;&nbsp;&nbsp; // &nbsp;&nbsp;&nbsp; Copyright &copy; by Web Devs Club, IIITT
     </footer>
+
+    <script type='text/javascript'>
+        document.getElementById('myVideo').addEventListener('ended',myHandler,false);
+        function myHandler(e) {
+            // What you want to do after the event
+            window.location= "http://www.iiitt.ac.in/vla";
+        }
+    </script>
 
 </body>
 
