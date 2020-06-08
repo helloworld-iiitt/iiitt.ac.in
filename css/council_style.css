@@ -1,0 +1,211 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Chettan+2|Inconsolata|Saira+Stencil+One&display=swap');
+:root {
+  --main-width-card: 255px;
+  --main-height-card: 258px;
+  --main-width-card-mini: 60px;
+  --main-decalage-desc: 44px;
+  --main-decalage-shadow: 6px;
+  --main-blue-color: #0e769e;
+  --main-white-color: #e6e4e3;
+  --main-red-color: #c5362b;
+}
+
+main { position: relative; width: 100vw; }
+
+#main { text-align: center; }
+
+h1 {
+  text-shadow: 2px 2px #d4d4d4;
+  display: block;
+  font-family: 'Acme', sans-serif;
+  text-align: center;
+  width: 400px;
+  margin: 20px auto;
+  color: black;
+  font-size: 64px;
+  position: relative;
+}
+
+h3 {
+  display: block;
+  text-align: center;
+  width: 400px;
+  margin: 20px auto 60px auto;
+  position: relative;
+}
+
+body {
+  /* height: 100vh; */
+  /* display: grid; */
+  /* font-family: 'Baloo Chettan 2', sans-serif; */
+}
+
+/* #body_cache {
+  background: #bfbfbf;
+  /* background:url(
+    data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAMklEQVQYV2NcOG/hfwYkICcrx8CILAgSePT4EUIQJgDSBFYJE4Cr3L97/3+QFhgASQAAt+YeE03jbBcAAAAASUVORK5CYII=
+  ) repeat; */
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  opacity: .5;
+} */
+
+/* h1::after {
+  content: "";
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  background: rgba(2,13,18,1);
+  background: -moz-linear-gradient(135deg, var(--main-blue-color) 0%, var(--main-white-color) 50%, var(--main-red-color) 100%);
+  background: -webkit-linear-gradient(135deg, var(--main-blue-color) 0%, var(--main-white-color) 50%, var(--main-red-color) 100%);
+  background: -o-linear-gradient(135deg, var(--main-blue-color) 0%, var(--main-white-color) 50%, var(--main-red-color) 100%);
+  background: -ms-linear-gradient(135deg, var(--main-blue-color) 0%, var(--main-white-color) 50%, var(--main-red-color) 100%);
+  background: linear-gradient(135deg, var(--main-blue-color) 0%, var(--main-white-color) 50%, var(--main-red-color));
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#020d12', endColorstr='#bce0ee', GradientType=1 );
+}
+
+h1::after {
+  height: 6px;
+  bottom: 0;
+} */
+
+svg path { fill: white; }
+
+.profile-card {
+  width: var(--main-width-card);
+  height: var(--main-height-card) ;
+  position: relative;
+  cursor: pointer;
+  display: inline-block;
+  margin: auto 50px 60px;
+  text-align: left;
+  /* color: #c5362b; */
+}
+
+.profile-card-description, .profile-card-image {
+  position: absolute;
+  /* margin-top: 50px; */
+  width: 100%;
+  height: 100%;
+  border-radius: 5px;
+}
+
+.profile-card-image {
+  z-index: 2;
+  top: 0;
+  left: 0;
+  /* bottom : 100  ; */
+  transition: top .3s, left .3s, width .3s .3s, height .3s .3s;
+}
+
+.profile-card-description {
+  background-color: white;
+  z-index: 1;
+  top: var(--main-decalage-desc)  ;
+  left: var(--main-decalage-desc) ;
+  overflow: hidden;
+  /* margin-top: 10px; */
+  transition: top .3s, left .3s, width .3s, height .3s;
+  border: 1px solid #bbb;
+  box-shadow: 0 2px 4px #555;
+}
+
+.profile-card-description-elements {
+  position: absolute;
+  top: calc(var(--main-width-card) - 40px);
+  padding: 0 10px;
+  transition: top .3s;
+}
+
+.profile-card-description-elements > h2 {
+  font-family: 'Inconsolata', cursive;
+  margin: 0;
+  font-weight: bold;
+  font-size: 17px;
+  color: #444444;
+  transition: font-size .3s .0s, padding-left .3s .0s;
+}
+
+.profile-card-description-elements > hr { opacity: 0; }
+
+.profile-card-description-elements > label {
+  font-family: 'Inconsolata', cursive;
+  margin: 0;
+  font-size: 16px;
+}
+
+.profile-card-description-elements > p {
+  margin: 0;
+  font-size: 14px;
+  color: grey;
+}
+/* Brings image little down and right just before hover animatiion */
+.profile-card:hover .profile-card-image {
+  top: 10px;
+  left: 10px;
+  width: var(--main-width-card-mini);
+  height: var(--main-width-card-mini);
+}
+
+.profile-card:hover .profile-card-description {
+  top: 0;
+  left: 0;
+  width: calc(var(--main-width-card) + 20px);
+  height: calc(var(--main-width-card) + 20px);
+  transition: top .3s, left .3s, width .3s .3s, height .3s .3s;
+}
+
+.profile-card:hover .profile-card-description-elements {
+  transition: top .3s .3s;
+  top: calc(var(--main-width-card-mini) - 45px);
+}
+
+.profile-card:hover .profile-card-description-elements > h2 {
+  font-size: 24px;
+}
+
+.profile-card:hover .profile-card-description-elements > h2, .profile-card:hover .profile-card-description-elements > label {
+  padding-left: 70px;
+  transition: font-size .3s .3s, padding-left .3s .3s;
+}
+
+#purposebox{
+  margin: 10px 100px 40px 100px;
+  text-align: center;
+  align-content: center;
+  border: 1px solid #bbb;
+  box-shadow: 0 4px 8px #aaa;
+  padding: 20px;
+}
+
+#purposebox > h3{
+  text-align: center;
+  align-content: center;
+  margin: 0px auto 30px auto;
+}
+
+#purpose{
+  margin-top: 2px ;
+  /*   */
+}
+
+#pagetitle{
+  margin: 20px auto;
+}
+
+#contactcouncil{
+  margin: 15px auto 10px auto;
+  width: 50%;
+  border: 1px solid #bbb;
+  box-shadow: 0 4px 8px #aaa;
+}
+
+#getintouch{
+  margin: 5px auto 30px auto;
+}
+
+#avatar { display: none; }
+
