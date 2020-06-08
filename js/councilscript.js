@@ -69,28 +69,28 @@ class Profile {
 var p1 = new Profile(
   "Priyanka Jacob",
   "President",
-  "She is the president",
-  "priyankaj16e@iiitt.ac.in",
+  "The Student President is the head of the student council... Feel free to contact in case of any issues... Also the other members for specific profiles, might help you with specific problems or ideas.. But do not hesitate to contact &#128516;",
+  "<i class=\"fa fa-envelope fa-2x\" style=\"margin-right: 10px;\"></i>priyankaj16e@iiitt.ac.in",
   "var(--main-blue-color)",
-  "images/student_council/daksh.webp"
+  "images/student_council/priyanka.webp"
 );
 p1.create();
 
 var p2 = new Profile(
   "Sairam",
   "Vice President",
-  "He is the vice president",
-  "sairam16e@iiitt.ac.in",
+  "I support the President and take charge in his/her absence. I assist incharges in budget formulation and monitor the use of college property. I ensure smooth communication between the council and the admin regarding any issues.",
+  "<i class=\"fa fa-envelope fa-2x\" style=\"margin-right: 10px;\"></i>sairam16e@iiitt.ac.in",
   "var(--main-white-color)",
-  "images/student_council/daksh.webp"
+  "images/student_council/sairam.webp"
 );
 p2.create();
 
 var p3 = new Profile(
   "Hitesh Daksh",
   "Administrative Representative",
-  "Got a problem with admin..contact this guy",
-  "hiteshd17c@iiitt.ac.in",
+  "Hi! Found any administrative actions unbeneficial for students or issues to should look into, approach me. Usually, a quote comes here from The Office \"I am running away from my responsibilities. And it feels good\".",
+  "<i class=\"fa fa-envelope fa-2x\" style=\"margin-right: 10px;\"></i>hiteshd17c@iiitt.ac.in",
   "var(--main-red-color)",
   "images/student_council/daksh.webp"
 );
@@ -99,8 +99,8 @@ p3.create();
 var p4 = new Profile(
     "Abhishek Singhal",
     "Technical Representative",
-    "This guy will solve any technical problems related to the institute",
-    "abhisheks17c@iiitt.ac.in",
+    "I coordinate all tech activities, tech clubs, handle issues related to tech infrastructure. Feel free to contact me regarding any tech initiative.",
+    "<i class=\"fa fa-envelope fa-2x\" style=\"margin-right: 10px;\"></i>abhisheks17c@iiitt.ac.in",
     "var(--main-red-color)",
     "images/student_council/abhi.webp"
   );
@@ -109,19 +109,19 @@ var p4 = new Profile(
 var p5 = new Profile(
     "Vadisa Yamini",
     "Cultural Representative",
-    "Any issues related to cultural development...she is there",
-    "vadisay17e@iiitt.ac.in",
+    "Responsible for intra and inter college cultural events and student engagement in them. If you are looking for a place to share your creativity or showcase your talent, Come to me",
+    "<i class=\"fa fa-envelope fa-2x\" style=\"margin-right: 10px;\"></i>vadisay17e@iiitt.ac.in",
     "var(--main-red-color)",
-    "images/student_council/abhi.webp"
+    "images/student_council/yamini.webp"
   );
   p5.create();
 
   var p6 = new Profile(
     "Sai Teja",
     "Sports Representative",
-    "Wanna play a game...contact this guy",
-    "megawaths17c@iiitt.ac.in",
+    "To produce the minutes of Sports Exec meetings and Sports Standings, organise Club Photos, provide administration support and scrutinise sports clubs administration and procedures.",
+    "<i class=\"fa fa-envelope fa-2x\" style=\"margin-right: 10px;\"></i>megawaths17c@iiitt.ac.in",
     "var(--main-red-color)",
-    "images/student_council/abhi.webp"
+    "images/student_council/teja.webp"
   );
   p6.create();
