@@ -173,18 +173,17 @@ svg path { fill: white; }
 }
 
 #purposebox{
-  margin: 10px 100px 40px 100px;
+  margin: 8% 8% 40px 8%;
   text-align: center;
-  align-content: center;
   border: 1px solid #bbb;
   box-shadow: 0 4px 8px #aaa;
   padding: 20px;
 }
 
 #purposebox > h3{
-  text-align: center;
+  margin: auto;
+  width: auto;
   align-content: center;
-  margin: 0px auto 30px auto;
 }
 
 #purpose{
@@ -197,14 +196,13 @@ svg path { fill: white; }
 }
 
 #contactcouncil{
-  margin: 15px auto 10px auto;
-  width: 50%;
+  margin: 10%;
   border: 1px solid #bbb;
   box-shadow: 0 4px 8px #aaa;
 }
 
 #getintouch{
-  margin: 5px auto 30px auto;
+  width: auto;
 }
 
 #avatar { display: none; }
