@@ -1,13 +1,29 @@
 {
+    "Tender for Laptop - June 2020":{
+        "description": "Tender for Laptop - June 2020",
+        "url": "/downloads/news/Tender_Laptops_2020_2.pdf",
+        "isNew" : true
+    },
+    "The COVID-19 Journey: From Crisis Management to Rebuilding":{
+        "description": "The COVID-19 Journey: From Crisis Management to Rebuilding",
+        "url": "https://youtu.be/4ztXfka2hNI",
+        "isNew" : true
+    },
+    
+    "Recruitment for Officer on Special Duty":{
+        "description": "Recruitment for Officer on Special Duty",
+        "url": "/downloads/news/Advt_OSD.pdf",
+        "isNew" : false
+    },
     "PhD Admission - Application":{
         "description": "PhD Admission at IIIT Tiruchirappalli",
         "url": "http://phdadmission.iiittevents.in",
-        "isNew" : true
+        "isNew" : false
     },
     "Tender for Laptop":{
         "description": "Tender for Laptop",
         "url": "/downloads/Tender_Laptops-2020.pdf",
-        "isNew" : true
+        "isNew" : false
     },
     "Tender for Video Coverage":{
         "description": "Tender for Video Coverage",

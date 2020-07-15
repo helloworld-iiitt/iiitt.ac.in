@@ -1,59 +1,149 @@
-﻿{ 
+﻿{
+    "Regular exam instructions":{
+        "description": "Regular exam instructions",
+        "url": "/downloads/notices/19-20-S2-Regular-exam-Instructions2.pdf",
+        "isNew" : true
+    },
+    "Supplementary exam instructions":{
+        "description": "Supplementary exam instructions",
+        "url": "/downloads/notices/19-20-S2-Supply-exam-Instructions2.pdf",
+        "isNew" : true
+    },    
+    "Examination Timetable IV and VI Semester":{
+        "description": "Examination Timetable IV and VI Semester",
+        "url": "/downloads/notices/19-20-S2-Timetable-IVandVISemwithoutR_No.pdf",
+        "isNew" : true
+    },
+    "Examination Timetable II Semester":{
+        "description": "Examination Timetable II Semester",
+        "url": "/downloads/notices/19-20-S2-Timetable-IISem.pdf",
+        "isNew" : true
+    },
+    "Supplementary Examination Schedule":{
+        "description": "Supplementary Examination Schedule",
+        "url": "/downloads/notices/19-20-S2-Supplementary_schedule2.pdf",
+        "isNew" : true
+    },
+    "Lab Examinations (Even Semester) Schedule (Tentative)":{
+        "description": "Lab Examinations (Even Semester) Schedule (Tentative)",
+        "url": "/downloads/notices/19-20-S2-ALL-END-LAB-TENTATIVE.pdf",
+        "isNew" : true
+    },
+    "End Semester Examinations (Even Semester) Schedule (Tentative) Regular and Supplementary":{
+        "description": "End Semester Examinations (Even Semester) Schedule (Tentative) Regular and Supplementary",
+        "url": "/downloads/notices/19-20-S2-ALL-END-REG-SUPPLEMENTARY-TENTATIVE.pdf",
+        "isNew" : true
+    },
+    "COVID-19 Notice-9":{
+        "description": "COVID-19 Notice-9",
+        "url": "/downloads/notices/COVID19_Notice9.pdf",
+        "isNew" : true
+    },
+    "Final Year End Semester Regular examination":{
+        "description": "Final Year End Semester Regular examination",
+        "url": "/downloads/notices/19-20-S2-END-REGULAR.pdf",
+        "isNew" : false
+    },
+    "Final Year End Semester Supplementary examination":{
+        "description": "Final Year End Semester Supplementary examination",
+        "url": "/downloads/notices/19-20-S2-END-SUPPLY.pdf",
+        "isNew" : false
+    },
+    "REDO CT-II examination":{
+        "description": "REDO CT-II examination",
+        "url": "/downloads/notices/19-20-S2-REDO-CT-II.pdf",
+        "isNew" : false
+    },
+    "REDO End Semester examination":{
+        "description": "REDO End Semester examination",
+        "url": "/downloads/notices/19-20-S2-REDO-END.pdf",
+        "isNew" : false
+    },
+    "Final Year CT2 Circular":{
+        "description": "Final Year CT2 Circular",
+        "url": "/downloads/notices/19-20-S2-Finalyear_CT2_Circular.pdf",
+        "isNew" : false
+    },
+    "Social_Distancing_Circular":{
+        "description": "Circular on Social Distancing",
+        "url": "/downloads/notices/Social_Distancing_Circular.pdf",
+        "isNew" : true
+    },
+    "COVID-19 Notice-8":{
+        "description": "COVID-19 Notice-8",
+        "url": "/downloads/notices/COVID19_Notice8.pdf",
+        "isNew" : false
+    },
+    "COVID-19 Notice-7":{
+        "description": "COVID-19 Notice-7",
+        "url": "/downloads/notices/COVID19_Notice7.pdf",
+        "isNew" : false
+    },
+    "COVID-19 Notice-6":{
+        "description": "COVID-19 Notice-6",
+        "url": "/downloads/notices/COVID19_Notice6.pdf",
+        "isNew" : false
+    },
     "COVID-19 Notice-5":{
         "description": "COVID-19 Notice-5",
         "url": "/downloads/notices/COVID19_Notice5.pdf",
-        "isNew" : true
+        "isNew" : false
     },
     "COVID-19 Notice-4":{
         "description": "COVID-19 Notice-4",
         "url": "/downloads/notices/COVID19_Notice4.pdf",
-        "isNew" : true
+        "isNew" : false
     },
     "COVID-19 Notice-3":{
         "description": "COVID-19 Notice-3",
         "url": "/downloads/notices/COVID19_Notice3.pdf",
-        "isNew" : true
+        "isNew" : false
     },
     "COVID-19 Notice-2":{
         "description": "COVID-19 Notice-2",
         "url": "/downloads/notices/COVID19_Notice2.pdf",
-        "isNew" : true
+        "isNew" : false
     },
     "COVID-19 Notice":{
         "description": "COVID-19 Notice",
         "url": "/downloads/notices/COVID19_Notice.pdf",
-        "isNew" : true
+        "isNew" : false
     },
     "Exemption from Biometric attendance":{
         "description": "Exemption from Biometric attendance",
         "url": "/downloads/notices/Biometric_Exemption-2020.pdf",
         "isNew" : true
     },
+    "Requesting restriction on Holi celebration due to uncontrolled COVID19 spread":{
+        "description": "Requesting restriction on Holi celebration due to uncontrolled COVID19 spread",
+        "url": "/downloads/notices/COVID19_Holi_Circular.pdf",
+        "isNew" : false
+    },
     "BioMetric Attendance for Punctuality Maintenance":{
         "description": "BioMetric Attendance for Punctuality Maintenance",
         "url": "/downloads/notices/Circular- Bio_Metric_Attendance.pdf",
-        "isNew" : true
+        "isNew" : false
     },
     "Faculty Members Additional Roles.":{
         "description": "Faculty Members Additional Roles.",
         "url": "/downloads/notices/Faculty-Additional-Roles.pdf",
-        "isNew" : true
+        "isNew" : false
     },
     "2019-20 Even Semester Timetable.":{
         "description": "2019-20 Even Semester Timetable.",
         "url": "/downloads/notices/2019-20_Even sem_Timetable.pdf",
-        "isNew" : true
+        "isNew" : false
     },
     "Circular for attendance":{
         "description": "Circular for attendance",
         "url": "/downloads/notices/circular.pdf",
-        "isNew" : true
+        "isNew" : false
     },
     
     "Temporary Faculty Recruitment":{
         "description": "Temporary Faculty Recruitment",
         "url": "/downloads/notices/IIITT_Temp_faculty_recruitment_Dec_2019.pdf",
-        "isNew" : true
+        "isNew" : false
     },
  "Recruitment of Registrar/Assistant Registrar on Deputation basis":{
         "description": "Recruitment of Registrar/Assistant Registrar on Deputation basis",

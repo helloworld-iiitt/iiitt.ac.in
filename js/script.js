@@ -1,15 +1,17 @@
 $("document").ready(function(){
 
 	// Events for Home Page Events-Card
-	var urlEventsJSON = "/json/events.json";
-	var urlNewsJSON = "/json/news.json";
-	var urlNoticesJSON = "/json/notices.json";
-	var urlFacultyCareerJSON = "/json/facultycareer.json";
-	var urlOldTenderJSON = "/json/tenderold.json";
+    var urlEventsJSON = "/json/events.json";
+    var urlNewsJSON = "/json/news.json";
+    var urlNoticesJSON = "/json/notices.json";
+    var urlFacultyCareerJSON = "/json/facultycareer.json";
+    var urlOldTenderJSON = "/json/tenderold.json";
     var urlNewTenderJSON = "/json/tendernew.json";
-	var urlBOGMinutesJSON = "/json/bogminutes.json";
+    var urlBOGMinutesJSON = "/json/bogminutes.json";
     var urlSenateMinutesJSON = "/json/senateminutes.json";
-
+    var urlBwCMinutesJSON = "/json/bwcminutes.json";
+    var urlFCMinutesJSON = "/json/fcminutes.json";
+    
 	//Events for Home Page Events-Card
 	$.getJSON(urlEventsJSON, function(data){
 		$("#events-card").html("");
@@ -463,6 +465,36 @@ $("document").ready(function(){
 					'');
 		});
 	});
+
+    //BwC Minutes 
+    $.getJSON(urlBwCMinutesJSON, function(data){
+	$.each(data, function(key, val){
+	    $("#bwc-minutes").append('' + 
+				     '<a style="text-decoration: none;" href="'+ val["url"] + '">' + 
+				     '<h5 style="text-align: left; color: #1c4f7a; font-size: medium;">' + 
+				     '<strong>' + key +'</strong>' + 
+				     '</h5>'+
+				     '<p style="color: black; text-decoration: none; font-size: small;">' + val["description"]  + '</p></a>' + 
+				     '<hr/>' +
+				     '');
+	});
+    });
+
+
+    //FC Minutes 
+    $.getJSON(urlFCMinutesJSON, function(data){
+	$.each(data, function(key, val){
+	    $("#fc-minutes").append('' + 
+				     '<a style="text-decoration: none;" href="'+ val["url"] + '">' + 
+				     '<h5 style="text-align: left; color: #1c4f7a; font-size: medium;">' + 
+				     '<strong>' + key +'</strong>' + 
+				     '</h5>'+
+				     '<p style="color: black; text-decoration: none; font-size: small;">' + val["description"]  + '</p></a>' + 
+				     '<hr/>' +
+				     '');
+	});
+    });
+
     
     //senate minutes
     $.getJSON(urlSenateMinutesJSON, function(data){

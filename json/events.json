@@ -1,4 +1,17 @@
 {
+
+    "International Yoga Day 2020 ":{
+        "description": "International Yoga Day 2020",
+        "url": "downloads/events/International_yoga_day2020.pdf",
+        "isNew" : true
+    }, 
+    
+    "Streaming of First Convocation 2020 ":{
+        "description": "Recorded Streaming of First Convocation 2020",
+        "url": "https://youtu.be/w_50CAIASIc",
+        "isNew" : true
+    }, 
+
     "A two-day Hands-on Training on “Building a Robot from Scratch” ":{
         "description": "A two-day Hands-on Training on “Building a Robot from Scratch”",
         "url": "/downloads/notices/Robotics_brochure.pdf",
@@ -8,7 +21,7 @@
     "Live streaming of First Convocation 2020 ":{
         "description": "Live Streaming of First Convocation 2020",
         "url": "http://streaming.iiitt.ac.in/",
-        "isNew" : true
+        "isNew" : false
     }, 
 
  "Fee structure for Even Semester  AY 2019-20 ":{
