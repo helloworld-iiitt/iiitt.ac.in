@@ -1,13 +1,69 @@
 {
+    "PhD Admission Oct 2020":{
+        "description": "PhD Admission Oct 2020",
+        "url": "http://phdadmission.iiitt.ac.in",
+        "isNew" : true
+    },
+    "UG Admission 2020-21":{
+        "description": "UG Admission 2020-21",
+        "url": "admission",
+        "isNew" : true
+    },
+    "2nd Convocation on 21-Nov-2020 at 11:00 am":{
+	"description": "2nd Convocation on 21-Nov-2020 at 11:00 am",
+        "url": "/convocation",
+        "isNew" : true
+    },
+    "Recruitment of Registrar, Deputy Registrar and Assistant Registrars on deputation basis":{
+      "description": "Recruitment of Registrar, Deputy Registrar and Assistant Registrars on deputation basis",
+        "url": "/downloads/news/Non-Teaching-Recruitment-IIITT.doc",
+        "isNew" : true
+    },  
+
+    "Update: Ph.D - Interview date and time":{
+        "description": "Update: Ph.D - Interview date and time",
+        "url": "/downloads/news/PhD_Interview_date_and_time_updated_scheduleAug2020.pdf",
+        "isNew" : false
+    },
+    "Ph.D - instructions for applicants called for interview":{
+        "description": "Ph.D - instructions for applicants called for interview",
+        "url": "/downloads/news/Instructions_Interview-080820.pdf",
+        "isNew" : false
+    },
+    "List of Candidates shortlisted (Ph.D) for interview":{
+        "description": "List of Candidates shortlisted (Ph.D) for interview",
+        "url": "/downloads/news/ECE_CSE_MEC_SH-PhD_interview.pdf",
+        "isNew" : false
+    },
+    "Semester (II, IV, VI) Results":{
+        "description": "Semester (II, IV, VI) results published online",
+        "url": "http://results.iiitt.ac.in",
+        "isNew" : false
+    },
+    "7.Aug.2020 10AM onwards Conclave on Transformational Reforms in Higher Education under National Education Policy-2020":{
+        "description": "7.Aug.2020 10AM onwards Conclave on Transformational Reforms in Higher Education under National Education Policy-2020",
+        "url": "https://www.youtube.com/watch?v=3_BMC27AGG8",
+        "isNew" : false
+    },
+    "Ph.D - instructions for shortlisted applicants":{
+        "description": "Ph.D - instructions for shortlisted applicants",
+        "url": "/downloads/news/PhD-Instructions1.pdf",
+        "isNew" : false
+    },
+    "List of Candidates shortlisted (Ph.D) for online written examination":{
+        "description": "List of Candidates shortlisted (Ph.D) for online written examination",
+        "url": "/downloads/news/Ph.D_shortlisted_July_2020.pdf",
+        "isNew" : false
+    },
     "Tender for Laptop - June 2020: Deadline Extended to 23.07.2020":{
         "description": "Tender for Laptop - June 2020: Deadline Extended to 23.07.2020",
         "url": "/june2020_dateextention",
-        "isNew" : true
+        "isNew" : false
     },
     "Tender for Laptop - June 2020":{
         "description": "Tender for Laptop - June 2020",
         "url": "/downloads/news/Tender_Laptops_2020_2.pdf",
-        "isNew" : true
+        "isNew" : false
     },
     "The COVID-19 Journey: From Crisis Management to Rebuilding":{
         "description": "The COVID-19 Journey: From Crisis Management to Rebuilding",

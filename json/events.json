@@ -1,4 +1,9 @@
 {
+    "Launching Institute's first e-magazine 'AIKYAM' on 11 Sep 2020 at 10am. The magazine will be launched by our esteemed Director (login with your iiitt.ac.in email address to see the magazine).":{
+        "description": "Launching Institute's first e-magazine 'AIKYAM' on 11 Sep 2020 at 10am. The magazine will be launched by our esteemed Director (login with your iiitt.ac.in email address to see the magazine).",
+        "url": "https://drive.google.com/file/d/1LNGggmrTyNFtCJmQlOU7nLl1C-_2k5H-/view?usp=sharing",
+        "isNew" : true
+    }, 
 
     "International Yoga Day 2020 ":{
         "description": "International Yoga Day 2020",
@@ -15,7 +20,7 @@
     "A two-day Hands-on Training on “Building a Robot from Scratch” ":{
         "description": "A two-day Hands-on Training on “Building a Robot from Scratch”",
         "url": "/downloads/notices/Robotics_brochure.pdf",
-        "isNew" : true
+        "isNew" : false
     }, 
     
     "Live streaming of First Convocation 2020 ":{

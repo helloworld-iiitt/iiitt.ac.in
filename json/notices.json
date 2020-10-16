@@ -1,43 +1,103 @@
 ﻿{
+    "Exam Schedule CT1 2020-21 Ph.D I Semester":{
+        "description": "Exam Schedule CT1 2020-21 Ph.D I Semester",
+        "url": "/downloads/notices/Exam_Schedule_CT1_2020-21_Ph.D_I_sem.pdf",
+        "isNew" : true
+    },
+    "(REVISED 16.09.2020) Exam Schedule CT1 2020-21 Odd Semester":{
+        "description": "(REVISED 16.09.2020) Exam Schedule CT1 2020-21 Odd Semester",
+        "url": "/downloads/notices/Exam_Schedule_CT1_2020-21_ODD.pdf",
+        "isNew" : false
+    },
+    "COVID-19 Notice-11":{
+        "description": "COVID-19 Notice-11",
+        "url": "/downloads/notices/COVID19_Notice11.pdf",
+        "isNew" : true
+    },
+    "Revised Fee Structure ODD Sem 2020-21":{
+        "description": "Revised Fee Structure ODD Sem 2020-21",
+        "url": "/downloads/notices/Revised_Fee_Structure_2020-21_Odd.pdf",
+        "isNew" : false
+    },       
+    "List of selected candidates for Ph.D":{
+        "description": "List of selected candidates for Ph.D",
+        "url": "/downloads/notices/Final_Ph.D_2020_selected_list.pdf",
+        "isNew" : false
+    },
+    "74th Independence Day celebration":{
+        "description": "74th Independence Day celebration",
+        "url": "/downloads/notices/74thIndependenceDayCelebrations_circular.pdf",
+        "isNew" : false
+    },
+    "Ph.D Fee structure 2020 (With fine)":{
+        "description": "Ph.D Fee structure 2020 (With fine)",
+        "url": "/downloads/notices/Ph.D_fee_structure_2020_with_fine.pdf",
+        "isNew" : false
+    },
+    "COVID-19 Notice-10":{
+        "description": "COVID-19 Notice-10",
+        "url": "/downloads/notices/COVID19_Notice10.pdf",
+        "isNew" : false
+    },
+    "Academic Calendar ODD Sem 2020-21":{
+        "description": "Academic Calendar ODD Sem 2020-21",
+        "url": "/downloads/notices/Academic_CalendarODD_Semester_2020-2021.pdf",
+        "isNew" : false
+    },       
+    "Fee Structure ODD Sem 2020-21":{
+        "description": "Fee Structure ODD Sem 2020-21",
+        "url": "/downloads/notices/Fee_Structure_ODD_2020-2021.pdf",
+        "isNew" : false
+    },       
+    "Internship Review and Industrial Lecture Exam schedule":{
+        "description": "Internship Review and Industrial Lecture Exam schedule",
+        "url": "/downloads/notices/19-20-S2-VI-INTERN-INDUSLECTURE.pdf",
+        "isNew" : false
+    },
+    "Lab exam schedule":{
+        "description": "Lab exam schedule",
+        "url": "/downloads/notices/19-20-S2-ALL-END-LAB-FINAL.pdf",
+        "isNew" : false
+    },       
     "Regular exam instructions":{
         "description": "Regular exam instructions",
         "url": "/downloads/notices/19-20-S2-Regular-exam-Instructions2.pdf",
-        "isNew" : true
+        "isNew" : false
     },
     "Supplementary exam instructions":{
         "description": "Supplementary exam instructions",
         "url": "/downloads/notices/19-20-S2-Supply-exam-Instructions2.pdf",
-        "isNew" : true
+        "isNew" : false
     },    
     "Examination Timetable IV and VI Semester":{
         "description": "Examination Timetable IV and VI Semester",
         "url": "/downloads/notices/19-20-S2-Timetable-IVandVISemwithoutR_No.pdf",
-        "isNew" : true
+        "isNew" : false
     },
     "Examination Timetable II Semester":{
         "description": "Examination Timetable II Semester",
         "url": "/downloads/notices/19-20-S2-Timetable-IISem.pdf",
-        "isNew" : true
+        "isNew" : false
     },
     "Supplementary Examination Schedule":{
         "description": "Supplementary Examination Schedule",
         "url": "/downloads/notices/19-20-S2-Supplementary_schedule2.pdf",
-        "isNew" : true
+        "isNew" : false
     },
     "Lab Examinations (Even Semester) Schedule (Tentative)":{
         "description": "Lab Examinations (Even Semester) Schedule (Tentative)",
         "url": "/downloads/notices/19-20-S2-ALL-END-LAB-TENTATIVE.pdf",
-        "isNew" : true
+        "isNew" : false
     },
     "End Semester Examinations (Even Semester) Schedule (Tentative) Regular and Supplementary":{
         "description": "End Semester Examinations (Even Semester) Schedule (Tentative) Regular and Supplementary",
         "url": "/downloads/notices/19-20-S2-ALL-END-REG-SUPPLEMENTARY-TENTATIVE.pdf",
-        "isNew" : true
+        "isNew" : false
     },
     "COVID-19 Notice-9":{
         "description": "COVID-19 Notice-9",
         "url": "/downloads/notices/COVID19_Notice9.pdf",
-        "isNew" : true
+        "isNew" : false
     },
     "Final Year End Semester Regular examination":{
         "description": "Final Year End Semester Regular examination",
