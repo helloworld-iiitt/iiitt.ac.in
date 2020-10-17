@@ -67,7 +67,7 @@ animation-iteration-count: infinite;
 .navbar{
     margin-bottom: 0px;
 }
-        .head-banner {   
+        .head-banner {
     display:block;
 /*    padding-top: 10px;*/
 /*  padding-left: 20vh;*/
@@ -107,9 +107,9 @@ animation-iteration-count: infinite;
             <div class="collapse navbar-collapse" id="navbar-collapse-menu">
 
                 <ul class="nav navbar-nav">
-                    
+
                     <!--
-                    Institute 
+                    Institute
                         ->About IIITT
                         ->Administration
                         ->Location
@@ -127,7 +127,7 @@ animation-iteration-count: infinite;
         						<ul class="dropdown-menu">
                                     <li><a href="/director">Director</a></li>
 									<li><a href="/registrar">Registrar</a></li>
-									<li><a href="/deans">Deans</a></li>                                                              
+									<li><a href="/deans">Deans</a></li>
 								</ul>
 							</li>
                             <li><a class="location-btn" href="/bog" data-toggle="collapse" data-target="#navbar-collapse-menu">BoG</a></li>
@@ -177,12 +177,13 @@ animation-iteration-count: infinite;
                     <li id="btn-student" class="dropdown">
                     <a title="Explore Undergraduate Program, Admission, FAQs and more about IIIT Trichy." href="/admission" class="menu-btn" role="button" aria-haspopup="true" aria-expanded="false">Admission </a>
                     </li>
-                    
+
                     <!--
                     Notifications
                         -> Careers
                         -> Tenders
                     -->
+
                     <li id="btn-student" class="dropdown">
                         <a title="Explore Tenders and Career Notifications" href="#" class="menu-btn dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Notifications </a>
                         <ul class="dropdown-menu">
@@ -192,7 +193,7 @@ animation-iteration-count: infinite;
                             <li role="separator" class="divider"></li>
                         </ul>
                     </li>
-                    
+
                     <!--
                     Students
                         -> B. Tech.
@@ -226,9 +227,13 @@ animation-iteration-count: infinite;
                             <li role="separator" class="divider"></li>
                         </ul>
                     </li>
-                    
-                    
-                    
+
+                    <!-- Placement -->
+
+                    <li id="btn-home" class="dropdown">
+                     <a title="IIIT Placement Portal" href="http://placement.iiitt.ac.in/" role="button" aria-haspopup="true" aria-expanded="false" target="_blank">Placements</a>
+                    </li>
+
                     <!-- Contact US-->
 
                     <li id="btn-contact" class="dropdown">
@@ -241,14 +246,14 @@ animation-iteration-count: infinite;
                     <li><a title="Follow us on Twitter" href="https://twitter.com/IIITTrichy" target="_blank" data-toggle="collapse" data-target="#navbar-collapse-menu"><i class="fa fa-twitter"></i></a></li>
                     <li><a title="Contact us" href="/contact-us"><i class="fa fa-phone" data-toggle="collapse" data-target="#navbar-collapse-menu"></i></a></li>
                 </ul>
-                
+
 
             </div>
             <!-- /.navbar-collapse -->
         </div>
         <!-- /.container-fluid -->
-    </nav>    
-    <marquee class="blink" > 
+    </nav>
+    <marquee class="blink" >
         For hostel allotment, 1st year students should report to K.Ramakrishna College of Engineering, Samayapuram Toll Plaza from 18 Aug' 19 onwards. For Details contact Gokul(Hostel Steward) 9698648868,9489600131. The inaugural function for 1st year will be held on 19.08.2019.
 <!--Institute will Reopen on 13.08.2019 for III,V,VII Semester of AY2019-20... Class Commences on 19.08.2019 for first years...-->
 <!--        <a href ="http://www.iiittrichy.in" target="_blank">IIITT/R/1/2019-20: Notification for Regular Faculty Recruitment 2019</a>-->
@@ -277,7 +282,7 @@ animation-iteration-count: infinite;
 
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner">
-                        
+
 <!--
                         <figure class="item active">
                             <a href="event"><img class="img-responsive img-center" src="images/pariksha-banner.jpg" style="height: 405px;" alt="Pariksha Pe Charcha 2.0"></a>
@@ -287,7 +292,7 @@ animation-iteration-count: infinite;
                         </figure>
 -->
 
-                        
+
                         <figure class="item active">
                             <img class="img-responsive img-center" src="images/slide/01.jpg" style="height: 405px; width: 720px;" alt="">
                             <figcaption class="text-center carousel-caption">
@@ -309,49 +314,49 @@ animation-iteration-count: infinite;
                         <figure class="item">
                             <img class="img-responsive img-center" src="images/slide/03.jpg" style="height: 405px; width: 720px;" alt="">
                             <figcaption class="text-center carousel-caption">
-                                
+
                             </figcaption>
                         </figure>
                         <figure class="item">
                             <img class="img-responsive img-center" src="images/slide/04.jpg" style="height: 405px; width: 720px;" alt="">
                             <figcaption class="text-center carousel-caption">
-                                
+
                             </figcaption>
                         </figure>
                         <figure class="item">
                             <img class="img-responsive img-center" src="images/slide/05.jpg" style="height: 405px; width: 720px;" alt="">
                             <figcaption class="text-center carousel-caption">
-                                
+
                             </figcaption>
                         </figure>
                         <figure class="item">
                             <img class="img-responsive img-center" src="images/slide/06.jpg" style="height: 405px; width: 720px;" alt="">
                             <figcaption class="text-center carousel-caption">
-                                
+
                             </figcaption>
                         </figure>
                         <figure class="item">
                             <img class="img-responsive img-center" src="images/slide/07.jpg" style="height: 405px; width: 720px;" alt="">
                             <figcaption class="text-center carousel-caption">
-                                
+
                             </figcaption>
                         </figure>
                         <figure class="item">
                             <img class="img-responsive img-center" src="images/slide/08.jpg" style="height: 405px; width: 720px;" alt="">
                             <figcaption class="text-center carousel-caption">
-                                
+
                             </figcaption>
                         </figure>
                         <figure class="item">
                             <img class="img-responsive img-center" src="images/slide/09.jpg" style="height: 405px; width: 720px;" alt="">
                             <figcaption class="text-center carousel-caption">
-                                
+
                             </figcaption>
                         </figure>
                         <figure class="item">
                             <img class="img-responsive img-center" src="images/slide/010.jpg" style="height: 405px; width: 720px;" alt="">
                             <figcaption class="text-center carousel-caption">
-                                
+
                             </figcaption>
                         </figure>
 <!--
@@ -362,7 +367,7 @@ animation-iteration-count: infinite;
                             </figcaption>
                         </figure>
 -->
-                        
+
 <!--
                         <figure class="item">
                             <img class="img-responsive img-center" src="images/slide/13.JPG" style="height: 405px; width: 720px;">
@@ -426,7 +431,7 @@ animation-iteration-count: infinite;
                         <figure class="item">
                             <img class="img-responsive img-center" src="images/slide/6.2.jpg" style="height: 405px; " alt="">
                             <figcaption class="text-center carousel-caption">
-                                
+
                                     IIIT Trichy's first day at NIT Trichy.<br/>
                                     Happy? Confused?<br/>
                                     The most amazing journey was about to begin!
@@ -485,7 +490,7 @@ animation-iteration-count: infinite;
                             Opening and Closing Ranks in IIIT Tiruchirappalli
                         </h5>
                         <p style="color: white; text-decoration: none; font-size: small;" >
-                            Opening and Closing Ranks in IIIT Tiruchirappalli    
+                            Opening and Closing Ranks in IIIT Tiruchirappalli
                         </p>
                         </a>
                     </div>

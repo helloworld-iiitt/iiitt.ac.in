@@ -23,13 +23,13 @@
     <meta name="MobileOptimized" content="320">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
 
-    
+
     <!--
         Title of the Page
         -->
     <title>About | IIIT Trichy</title>
 
-    <!-- 
+    <!--
         Links
         ==============
         -->
@@ -52,27 +52,27 @@
    <!-- Icon -->
     <link id="favicon" rel="shortcut icon" href="images/favicon.ico">
     <script>
-    var deadline = new Date("jan 29, 2019 11:00:00").getTime();   
-var x = setInterval(function() { 
-  
-var now = new Date().getTime(); 
-var t = deadline - now; 
-//var days = Math.floor(t / (1000 * 60 * 60 * 24)); 
-var hours = Math.floor((t%(1000 * 60 * 60 * 24))/(1000 * 60 * 60)); 
-var minutes = Math.floor((t % (1000 * 60 * 60)) / (1000 * 60)); 
-var seconds = Math.floor((t % (1000 * 60)) / 1000); 
-//document.getElementById("day").innerHTML =days ; 
-document.getElementById("hour").innerHTML =hours; 
-document.getElementById("minute").innerHTML = minutes;  
-document.getElementById("second").innerHTML =seconds;  
-if (t < 0) { 
-        clearInterval(x); 
-        document.getElementById("demo").innerHTML = "TIME UP"; 
-//        document.getElementById("day").innerHTML ='0'; 
-        document.getElementById("hour").innerHTML ='0'; 
-        document.getElementById("minute").innerHTML ='0' ;  
-        document.getElementById("second").innerHTML = '0'; } 
-}, 1000); 
+    var deadline = new Date("jan 29, 2019 11:00:00").getTime();
+var x = setInterval(function() {
+
+var now = new Date().getTime();
+var t = deadline - now;
+//var days = Math.floor(t / (1000 * 60 * 60 * 24));
+var hours = Math.floor((t%(1000 * 60 * 60 * 24))/(1000 * 60 * 60));
+var minutes = Math.floor((t % (1000 * 60 * 60)) / (1000 * 60));
+var seconds = Math.floor((t % (1000 * 60)) / 1000);
+//document.getElementById("day").innerHTML =days ;
+document.getElementById("hour").innerHTML =hours;
+document.getElementById("minute").innerHTML = minutes;
+document.getElementById("second").innerHTML =seconds;
+if (t < 0) {
+        clearInterval(x);
+        document.getElementById("demo").innerHTML = "TIME UP";
+//        document.getElementById("day").innerHTML ='0';
+        document.getElementById("hour").innerHTML ='0';
+        document.getElementById("minute").innerHTML ='0' ;
+        document.getElementById("second").innerHTML = '0'; }
+}, 1000);
     </script>
 </head>
 
@@ -105,7 +105,7 @@ if (t < 0) {
                     <a title="Home" href="/" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-home"></i></a>
                     </li>
                     <!--
-                    Institute 
+                    Institute
                         ->About IIITT
                         ->Administration
                         ->Location
@@ -177,7 +177,7 @@ if (t < 0) {
                     <li id="btn-student" class="dropdown">
                     <a title="Explore Undergraduate Program, Admission, FAQs and more about IIIT Trichy." href="/admission" class="menu-btn" role="button" aria-haspopup="true" aria-expanded="false">Admission </a>
                     </li>
-                    
+
                     <!--
                     Notifications
                         -> Careers
@@ -192,7 +192,7 @@ if (t < 0) {
                             <li role="separator" class="divider"></li>
                         </ul>
                     </li>
-                    
+
                     <!--
                     Students
                         -> B. Tech.
@@ -228,7 +228,13 @@ if (t < 0) {
                             <li role="separator" class="divider"></li>
                         </ul>
                     </li>
-                                       
+
+                    <!-- Placement -->
+
+                    <li id="btn-home" class="dropdown">
+                     <a title="IIIT Placement Portal" href="http://placement.iiitt.ac.in/" role="button" aria-haspopup="true" aria-expanded="false" target="_blank">Placements</a>
+                    </li>
+                                                           
                     <!-- Contact US-->
 
                     <li id="btn-contact" class="dropdown">
@@ -241,7 +247,7 @@ if (t < 0) {
                     <li><a title="Follow us on Twitter" href="https://twitter.com/IIITTrichy" target="_blank" data-toggle="collapse" data-target="#navbar-collapse-menu"><i class="fa fa-twitter"></i></a></li>
                     <li><a title="Contact us" href="/contact-us"><i class="fa fa-phone" data-toggle="collapse" data-target="#navbar-collapse-menu"></i></a></li>
                 </ul>
-                
+
 
             </div>
             <!-- /.navbar-collapse -->
@@ -252,30 +258,30 @@ if (t < 0) {
     <header class="header container">
         <h1 id="page-header" class="text-center">
            Pariksha Pe Charcha 2.0
-            
+
         </h1>
         <hr/>
     </header>
    <div class=" container">
         <img src="images/pariksha-banner.jpg" width="100%" style="text-align: center"/>
        <br>
-  <div id="clockdiv" style="margin-top: 20px;"> 
-  <div> 
-    <span class="hours" id="hour"></span> 
-    <div class="smalltext">Hours</div> 
-  </div> 
-  <div> 
-    <span class="minutes" id="minute"></span> 
-    <div class="smalltext">Minutes</div> 
-  </div> 
-  <div> 
-    <span class="seconds" id="second"></span> 
-    <div class="smalltext">Seconds</div> 
-  </div> 
+  <div id="clockdiv" style="margin-top: 20px;">
+  <div>
+    <span class="hours" id="hour"></span>
+    <div class="smalltext">Hours</div>
+  </div>
+  <div>
+    <span class="minutes" id="minute"></span>
+    <div class="smalltext">Minutes</div>
+  </div>
+  <div>
+    <span class="seconds" id="second"></span>
+    <div class="smalltext">Seconds</div>
+  </div>
 </div>
-       <p id="demo"></p> 
+       <p id="demo"></p>
        <p style="font-size: 20px; text-align: center; padding-top: 10px; color:#217ff3; font-family: sans-serif; font-weight: bolder;">Watch live <span style="color: #f36f21;">PARIKSHA PE CHARCHA 2.0</span> at 11:00 AM, 29th January, 19</p>
-       
+
        <hr style="display: block;
   margin-top: 0.5em;
   margin-bottom: 0.5em;
@@ -284,11 +290,11 @@ if (t < 0) {
   border-style: inset;
   border-width: 1px;">
     </div>
-    
+
     <div style="font-size: 20px; padding-left: 10%; padding-top: 10px; font-family: sans-serif; font-weight: bolder;">NIC Webcast : <a href="http://webcast.nic.in/mhrd/">http://webcast.nic.in/mhrd/</a> </div>
 
     <div style="font-size: 20px; padding-left: 10%; padding-top: 10px; font-family: sans-serif; font-weight: bolder;">Youtube : <a href="https://www.youtube.com/user/HRDMinistry">https://www.youtube.com/user/HRDMinistry</a> </div>
-    
+
     <div style="font-size: 20px; padding-left: 10%; padding-top: 10px; font-family: sans-serif; font-weight: bolder;">Facebook : <a href="https://www.facebook.com/HRDMinistry">https://www.facebook.com/HRDMinistry</a> </div>
     <footer class="text-center">
         Copyright &copy; by Web Devs Club, IIITT
