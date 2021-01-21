@@ -1,8 +1,82 @@
 ﻿{
+    "CT1 Exam Schedule ODD Semester 2020-21":{
+        "description": "CT1 Exam Schedule ODD Semester 2020-21",
+        "url": "/downloads/notices/ExamSchedule_CT1_2020-21_ODDSem.pdf",
+        "isNew" : true
+    },
+    
+    "Revised Fee Structure 2020-21 (Even Semester)":{
+        "description": "Revised Fee Structure 2020-21 (Even Semester)",
+        "url": "/downloads/notices/RevisedFeeStructure2020-21-EvenSem.pdf",
+        "isNew" : true
+    },
+
+    "PhD Admission Even Semester 2020-21 list":{
+        "description": "PhD Admission Even Semester 2020-21 list",
+        "url": "/downloads/notices/PhdAdmission_Dec2020.pdf",
+        "isNew" : true
+    },
+
+    "PhD Admission Dec 2020: Interviews Schedule":{
+        "description": "PhD Admission Dec 2020: Interviews Schedule",
+        "url": "/downloads/notices/IIITT-PhD_Interviews-Schedule_2020.pdf",
+        "isNew" : true
+    },
+
+    "PhD Admission: List of shortlisted candidated for online interview":{
+        "description": "PhD Admission: List of shortlisted candidated for online interview",
+        "url": "/downloads/notices/phd_shortlisted_consolidated_dec2020.pdf",
+        "isNew" : true
+    },
+
+    "UG Admission: Students admitted (till 2-Dec-2020)":{
+        "description": "UG Admission: Students admitted (till 2-Dec-2020)",
+        "url": "/downloads/admission/students-admitted.pdf",
+        "isNew" : true
+    },
+    
+    "PhD Admission January 2021 session: Interview Schedule":{
+        "description": "PhD Admission January 2021 session: Interview Schedule",
+        "url": "/downloads/notices/PhD_Interviews-ScheduleJan2021.pdf",
+        "isNew" : true
+    },
+
+    "2020-21 Fee Structure (New Admission)":{
+        "description": "2020-21 Fee Structure (New Admission)",
+        "url": "/downloads/notices/2020-21-Fee_Structure_New_Admission.pdf",
+        "isNew" : true
+    },       
+
+    "PhD Admission January 2021 session: Candidates called for Written test":{
+        "description": "PhD Admission January 2021 session: Candidates called for Written test",
+        "url": "/downloads/notices/PhD_all_shortlisted-Dec_2020.pdf",
+        "isNew" : true
+    },
+    
+    "End (Odd) Semester (regular/supplementary) examinations (theory/laboratory), Nov-2020":{
+        "description": "End (Odd) Semester (regular/supplementary) examinations (theory/laboratory), Nov-2020",
+        "url": "/endsem2020-21-SemIschedule",
+        "isNew" : true
+    },
+    "Supplementary Exam Notice November 2020":{
+        "description": "Supplementary Exam Notice November 2020",
+        "url": "/downloads/notices/SupplementaryNoticeRegistrationFormDec2020.pdf",
+        "isNew" : false
+    },
+    "(Revised) Exam Schedule CT2 2020-21 Ph.D I Semester":{
+        "description": "(Revised) Exam Schedule CT2 2020-21 Ph.D I Semester",
+        "url": "/downloads/notices/ExamSchedule_CT2_2020-21_Ph.D_I_sem.pdf",
+        "isNew" : false
+    },
+    "Exam Schedule CT2 2020-21 B.Tech ODD Semester":{
+        "description": "Exam Schedule CT2 2020-21 B.Tech ODD Semester",
+        "url": "/downloads/notices/ExamSchedule_CT2_2020-21_BTECH_ODD.pdf",
+        "isNew" : false
+    },
     "Exam Schedule CT1 2020-21 Ph.D I Semester":{
         "description": "Exam Schedule CT1 2020-21 Ph.D I Semester",
         "url": "/downloads/notices/Exam_Schedule_CT1_2020-21_Ph.D_I_sem.pdf",
-        "isNew" : true
+        "isNew" : false
     },
     "(REVISED 16.09.2020) Exam Schedule CT1 2020-21 Odd Semester":{
         "description": "(REVISED 16.09.2020) Exam Schedule CT1 2020-21 Odd Semester",

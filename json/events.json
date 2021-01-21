@@ -1,20 +1,80 @@
 {
+    "National Mathematics Day-Invitation 22/12/2020":{
+        "description": "National Mathematics Day-Invitation 22/12/2020",
+        "url": "downloads/events/National_Mathematics_Day-Invitation_22_12_2020.pdf",
+        "isNew" : true
+    }, 
+
+    "Interaction with Prof. H C Verma at IIIT Tiruchirappalli 15/Dec/2020":{
+        "description": "Interaction with Prof. H C Verma at IIIT Tiruchirappalli 15/Dec/2020",
+        "url": "https://youtu.be/vAIA8LusZ6Q",
+        "isNew" : true
+    }, 
+    
+    "Recorded videos of Orientation Programme Dec 2-4 (virtual) for first year":{
+        "description": "Recorded videos of Orientation Programme Dec 2-4 (virtual) for first year",
+        "url": "https://www.youtube.com/playlist?list=PLYiSQoUYFko12mZRnrEqqLOdIAzfgii-I",
+        "isNew" : true
+    }, 
+    
+    "Orientation Programme Dec 2-4 (virtual) for first year":{
+        "description": "Orientation Programme Dec 2-4 (virtual) for first year",
+        "url": "downloads/events/OrientationProgramme2020-Invitation.pdf",
+        "isNew" : true
+    }, 
+    
+    "Constitution day celebrations 26.11.2020":{
+        "description": "Constitution day celebrations 26.11.2020",
+        "url": "constitution_day_2020",
+        "isNew" : true
+    }, 
+
+    "Live streaming of Second Convocation 2020 (21 Nov 2020 11 am)":{
+        "description": "Live streaming of First Convocation 2020 (21 Nov 2020 11 am)",
+        "url": "https://youtu.be/w4MlFxCVcwI",
+        "isNew" : true
+    }, 
+
+    "Second issue of e-magazine 'AIKYAM' (17 Nov 2020)":{
+        "description": "Second issue of e-magazine 'AIKYAM' (17 Nov 2020)",
+        "url": "https://drive.google.com/file/d/1AqUWKFRSpjYP7zgXnTsjfI7UTmX5gvc3/view?usp=sharing",
+        "isNew" : true
+    }, 
+
+    "AICTE Training and Learning (ATAL) Academy Sponsored Online Faculty Development Programme On '3D Printing and Design from 01.02.2020 to 05.02.2020'":{
+        "description": "AICTE Training and Learning (ATAL) Academy Sponsored Online Faculty Development Programme On '3D Printing and Design from 01.02.2021 to 05.02.2021'",
+        "url": "downloads/events/Brochure_FDP_3D_printing.pdf",
+        "isNew" : true
+    }, 
+    
+    "AICTE Training and Learning (ATAL) Academy Sponsored Online Faculty Development Programme On 'Challenges and Opportunities in Data Science - A Research Perspective' from 14.12.2020 to 18.12.2020'":{
+        "description": "AICTE Training and Learning (ATAL) Academy Sponsored Online Faculty Development Programme On 'Challenges and Opportunities in Data Science - A Research Perspective' from 14.12.2020 to 18.12.2020'",
+        "url": "downloads/events/Datascience_FDP.pdf",
+        "isNew" : true
+    }, 
+
+    "AICTE Training and Learning (ATAL) Academy Sponsored Online Faculty Development Programme On 'Design Challenges in VLSI and Embedded system for IoT Applications' from 23.11.2020 to 27.11.2020":{
+        "description": "AICTE Training and Learning (ATAL) Academy Sponsored Online Faculty Development Programme On 'Design Challenges in VLSI and Embedded system for IoT Applications' from 23.11.2020 to 27.11.2020",
+        "url": "downloads/events/ATAL_FDP_23-27-Nov-2020.pdf",
+        "isNew" : false
+    }, 
+
     "Launching Institute's first e-magazine 'AIKYAM' on 11 Sep 2020 at 10am. The magazine will be launched by our esteemed Director (login with your iiitt.ac.in email address to see the magazine).":{
         "description": "Launching Institute's first e-magazine 'AIKYAM' on 11 Sep 2020 at 10am. The magazine will be launched by our esteemed Director (login with your iiitt.ac.in email address to see the magazine).",
         "url": "https://drive.google.com/file/d/1LNGggmrTyNFtCJmQlOU7nLl1C-_2k5H-/view?usp=sharing",
-        "isNew" : true
+        "isNew" : false
     }, 
 
     "International Yoga Day 2020 ":{
         "description": "International Yoga Day 2020",
         "url": "downloads/events/International_yoga_day2020.pdf",
-        "isNew" : true
+        "isNew" : false
     }, 
     
     "Streaming of First Convocation 2020 ":{
         "description": "Recorded Streaming of First Convocation 2020",
         "url": "https://youtu.be/w_50CAIASIc",
-        "isNew" : true
+        "isNew" : false
     }, 
 
     "A two-day Hands-on Training on “Building a Robot from Scratch” ":{
