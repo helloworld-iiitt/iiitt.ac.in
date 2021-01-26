@@ -1,62 +1,68 @@
 ﻿{
+    "72nd Republic Day Celebration - 26.01.2021":{
+        "description": "72nd Republic Day Celebration - 26.01.2021",
+        "url": "/downloads/notices/CIRCULAR_Republic_day_26012021.pdf",
+        "isNew" : true
+    },
+
     "CT1 Exam Schedule ODD Semester 2020-21":{
         "description": "CT1 Exam Schedule ODD Semester 2020-21",
         "url": "/downloads/notices/ExamSchedule_CT1_2020-21_ODDSem.pdf",
-        "isNew" : true
+        "isNew" : false
     },
     
     "Revised Fee Structure 2020-21 (Even Semester)":{
         "description": "Revised Fee Structure 2020-21 (Even Semester)",
         "url": "/downloads/notices/RevisedFeeStructure2020-21-EvenSem.pdf",
-        "isNew" : true
+        "isNew" : false
     },
 
     "PhD Admission Even Semester 2020-21 list":{
         "description": "PhD Admission Even Semester 2020-21 list",
         "url": "/downloads/notices/PhdAdmission_Dec2020.pdf",
-        "isNew" : true
+        "isNew" : false
     },
 
     "PhD Admission Dec 2020: Interviews Schedule":{
         "description": "PhD Admission Dec 2020: Interviews Schedule",
         "url": "/downloads/notices/IIITT-PhD_Interviews-Schedule_2020.pdf",
-        "isNew" : true
+        "isNew" : false
     },
 
     "PhD Admission: List of shortlisted candidated for online interview":{
         "description": "PhD Admission: List of shortlisted candidated for online interview",
         "url": "/downloads/notices/phd_shortlisted_consolidated_dec2020.pdf",
-        "isNew" : true
+        "isNew" : false
     },
 
     "UG Admission: Students admitted (till 2-Dec-2020)":{
         "description": "UG Admission: Students admitted (till 2-Dec-2020)",
         "url": "/downloads/admission/students-admitted.pdf",
-        "isNew" : true
+        "isNew" : false
     },
     
     "PhD Admission January 2021 session: Interview Schedule":{
         "description": "PhD Admission January 2021 session: Interview Schedule",
         "url": "/downloads/notices/PhD_Interviews-ScheduleJan2021.pdf",
-        "isNew" : true
+        "isNew" : false
     },
 
     "2020-21 Fee Structure (New Admission)":{
         "description": "2020-21 Fee Structure (New Admission)",
         "url": "/downloads/notices/2020-21-Fee_Structure_New_Admission.pdf",
-        "isNew" : true
+        "isNew" : false
     },       
 
     "PhD Admission January 2021 session: Candidates called for Written test":{
         "description": "PhD Admission January 2021 session: Candidates called for Written test",
         "url": "/downloads/notices/PhD_all_shortlisted-Dec_2020.pdf",
-        "isNew" : true
+        "isNew" : false
     },
     
     "End (Odd) Semester (regular/supplementary) examinations (theory/laboratory), Nov-2020":{
         "description": "End (Odd) Semester (regular/supplementary) examinations (theory/laboratory), Nov-2020",
         "url": "/endsem2020-21-SemIschedule",
-        "isNew" : true
+        "isNew" : false
     },
     "Supplementary Exam Notice November 2020":{
         "description": "Supplementary Exam Notice November 2020",
@@ -86,7 +92,7 @@
     "COVID-19 Notice-11":{
         "description": "COVID-19 Notice-11",
         "url": "/downloads/notices/COVID19_Notice11.pdf",
-        "isNew" : true
+        "isNew" : false
     },
     "Revised Fee Structure ODD Sem 2020-21":{
         "description": "Revised Fee Structure ODD Sem 2020-21",
@@ -246,7 +252,7 @@
     "Exemption from Biometric attendance":{
         "description": "Exemption from Biometric attendance",
         "url": "/downloads/notices/Biometric_Exemption-2020.pdf",
-        "isNew" : true
+        "isNew" : false
     },
     "Requesting restriction on Holi celebration due to uncontrolled COVID19 spread":{
         "description": "Requesting restriction on Holi celebration due to uncontrolled COVID19 spread",

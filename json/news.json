@@ -21,33 +21,33 @@
     "B.Tech Semester (III, V, VII), Supplementary and PhD Results":{
         "description": "B.Tech Semester (III, V, VII) & Supplementary and PhD course work results are available online from 9pm 4/Dec/2020",
         "url": "http://results.iiitt.ac.in",
-        "isNew" : true
+        "isNew" : false
     },
     "Recruitment of Consultant(Accounts) & Site Engineer(Civil) - Temporary basis":{
         "description": "Recruitment of Consultant(Accounts) & Site Engineer(Civil) - Temporary basis",
         "url": "downloads/news/Consultant_SiteEnggNov2020.pdf",
-        "isNew" : true
+        "isNew" : false
     },
 
     "PhD Admission Oct 2020":{
         "description": "PhD Admission Oct 2020",
         "url": "http://phdadmission.iiitt.ac.in",
-        "isNew" : true
+        "isNew" : false
     },
     "UG Admission 2020-21":{
         "description": "UG Admission 2020-21",
         "url": "admission",
-        "isNew" : true
+        "isNew" : false
     },
     "2nd Convocation on 21-Nov-2020 at 11:00 am":{
 	"description": "2nd Convocation on 21-Nov-2020 at 11:00 am",
         "url": "/convocation",
-        "isNew" : true
+        "isNew" : false
     },
     "Recruitment of Registrar, Deputy Registrar and Assistant Registrars on deputation basis":{
       "description": "Recruitment of Registrar, Deputy Registrar and Assistant Registrars on deputation basis",
         "url": "/downloads/news/Non-Teaching-Recruitment-IIITT.doc",
-        "isNew" : true
+        "isNew" : false
     },  
 
     "Update: Ph.D - Interview date and time":{

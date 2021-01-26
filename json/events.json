@@ -1,38 +1,50 @@
 {
+    "eCalendar 2021 - IIIT Tiruchirappalli":{
+        "description": "eCalendar 2021 - IIIT Tiruchirappalli",
+        "url": "https://drive.google.com/file/d/12gxyhkRho-UT9hC-lXgGBUNgjy9E8BQW/view?usp=sharing",
+        "isNew" : true
+    }, 
+
+    "Third issue of e-magazine 'AIKYAM' (21 Jan 2021)":{
+        "description": "Third issue of e-magazine 'AIKYAM' (21 Jan 2021)",
+        "url": "https://drive.google.com/file/d/1QQudXKYk5c8Gp0V0MfGuz5HVCEUBsfcN/view?usp=sharing",
+        "isNew" : true
+    }, 
+    
     "National Mathematics Day-Invitation 22/12/2020":{
         "description": "National Mathematics Day-Invitation 22/12/2020",
         "url": "downloads/events/National_Mathematics_Day-Invitation_22_12_2020.pdf",
-        "isNew" : true
+        "isNew" : false
     }, 
 
     "Interaction with Prof. H C Verma at IIIT Tiruchirappalli 15/Dec/2020":{
         "description": "Interaction with Prof. H C Verma at IIIT Tiruchirappalli 15/Dec/2020",
         "url": "https://youtu.be/vAIA8LusZ6Q",
-        "isNew" : true
+        "isNew" : false
     }, 
     
     "Recorded videos of Orientation Programme Dec 2-4 (virtual) for first year":{
         "description": "Recorded videos of Orientation Programme Dec 2-4 (virtual) for first year",
         "url": "https://www.youtube.com/playlist?list=PLYiSQoUYFko12mZRnrEqqLOdIAzfgii-I",
-        "isNew" : true
+        "isNew" : false
     }, 
     
     "Orientation Programme Dec 2-4 (virtual) for first year":{
         "description": "Orientation Programme Dec 2-4 (virtual) for first year",
         "url": "downloads/events/OrientationProgramme2020-Invitation.pdf",
-        "isNew" : true
+        "isNew" : false
     }, 
     
     "Constitution day celebrations 26.11.2020":{
         "description": "Constitution day celebrations 26.11.2020",
         "url": "constitution_day_2020",
-        "isNew" : true
+        "isNew" : false
     }, 
 
     "Live streaming of Second Convocation 2020 (21 Nov 2020 11 am)":{
         "description": "Live streaming of First Convocation 2020 (21 Nov 2020 11 am)",
         "url": "https://youtu.be/w4MlFxCVcwI",
-        "isNew" : true
+        "isNew" : false
     }, 
 
     "Second issue of e-magazine 'AIKYAM' (17 Nov 2020)":{
@@ -50,7 +62,7 @@
     "AICTE Training and Learning (ATAL) Academy Sponsored Online Faculty Development Programme On 'Challenges and Opportunities in Data Science - A Research Perspective' from 14.12.2020 to 18.12.2020'":{
         "description": "AICTE Training and Learning (ATAL) Academy Sponsored Online Faculty Development Programme On 'Challenges and Opportunities in Data Science - A Research Perspective' from 14.12.2020 to 18.12.2020'",
         "url": "downloads/events/Datascience_FDP.pdf",
-        "isNew" : true
+        "isNew" : false
     }, 
 
     "AICTE Training and Learning (ATAL) Academy Sponsored Online Faculty Development Programme On 'Design Challenges in VLSI and Embedded system for IoT Applications' from 23.11.2020 to 27.11.2020":{
