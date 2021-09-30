@@ -31,7 +31,7 @@ app.get(/^(.+)$/, function(req, res){
     }
 });
 
-const portNumber = 3000;
+const portNumber = process.env.PORT || 3000 ;
 
 app.listen(portNumber, function(){
     console.log("Server running..");
