@@ -1,10 +1,81 @@
 {
+    "Non-Teaching Recruitment (Aug 21): Assistant Registrar":{
+        "description": "Non-Teaching Recruitment (Aug 21): Assistant Registrar",
+        "url": "downloads/news/advt-AR-Aug2021.pdf",
+        "isNew" : false
+    },
+    
+    "CCMT-2021":{
+        "description": "CCMT-2021",
+        "url": "https://ccmt.nic.in/",
+        "isNew" : false
+    },
+
+    "CCMT-CCMN-CSAB-DASA Promotions":{
+        "description": "CCMT-CCMN-CSAB-DASA Promotions",
+        "url": "http://couns-promo.mnit.ac.in",
+        "isNew" : false
+    },
+
+    "NIT for Engagement of Auditor":{
+        "description": "NIT for Engagement of Auditor",
+        "url": "tender",
+        "isNew" : false
+    },
+
+    "Non-Teaching Recruitment: Registrar and Assistant Registrar":{
+        "description": "Non-Teaching Recruitment: Registrar and Assistant Registrar",
+        "url": "downloads/news/Non-TeachingRecruitment-IIITT_2021May04.pdf",
+        "isNew" : false
+    },
+
+    "PhD Admission April 2021":{
+        "description": "PhD Admission April 2021",
+        "url": "http://phdadmission.iiitt.ac.in",
+        "isNew" : false
+    },
+
+    "Team IIITT encourages all the students and faculty to take the Jab and win the fight over COVID-19": {
+        "description": "Team IIITT encourages all the students and faculty to take the Jab and win the fight over COVID-19",
+        "url": "downloads/news/COVID-19_Vaccine.pdf",
+        "isNew": true
+    	},
+
+    "Pariksha Pe Charcha-2021 (7/April/2021 at 7pm) - mygov.in #PPC2021": {
+        "description": "Pariksha Pe Charcha-2021 (7/April/2021 at 7pm) - mygov.in #PPC2021",
+        "url": "https://www.youtube.com/playlist?list=PLGqF2Eq4iV7_UbbjH9Um4z-8QXBJQ6T7m",
+        "isNew": false
+    	},
+
+    "IIITT/2021/EEQ/2020/000327/Eq-01: Invitation for Quotations for supply of Debinding and Sintering unit with Electric Muffle Furnace, April 7, 2021": {
+        "description": "IIITT/2021/EEQ/2020/000327/Eq-01: Invitation for Quotations for supply of Debinding and Sintering unit with Electric Muffle Furnace, April 7, 2021",
+        "url": "/downloads/tenders/Debinding_and_sinteringunit16.03.2021.pdf",
+        "isNew": false
+    	},
+    
+    "IIITT/2021/EEQ/2020/000327/Eq-02: Invitation for Quotations for supply of Fused Filament Fabrication setup, April 7, 2021": {
+        "description": "IIITT/2021/EEQ/2020/000327/Eq-02: Invitation for Quotations for supply of Fused Filament Fabrication setup, April 7, 2021",
+        "url": "downloads/tenders/FFFsetup16.03.2021.pdf",
+        "isNew": false
+    },
+
+    "JRF recruitment Feb 2021: Candidates called for online interview":{
+        "description": "JRF recruitment Feb 2021: Candidates called for online interview",
+        "url": "downloads/news/Shortlisted_candidates_for_online_interview_JRF_recruitment_mechanical_16feb2021.pdf",
+        "isNew" : false
+    },
+    
+    "JRF recruitment_Feb 2021_Candidates called for Written Test":{
+        "description": "JRF recruitment_Feb 2021_Candidates called for Written Test",
+        "url": "downloads/news/JRF_Recruitment_February_2021_eligible_candidates_for_written_test.pdf",
+        "isNew" : false
+    },
+    
     "Wanted JRF in Mechanical Engineering Department, February 04, 2021":{
         "description": "Wanted JRF in Mechanical Engineering Department, February 04, 2021",
         "url": "downloads/news/JRFRecruitmentnotice_Application_IIITTMechanicalJan2021.pdf",
-        "isNew" : true
+        "isNew" : false
     },
-    
     
     "JRF Shortlisted candidates for interview under SERB-DST Sponsored Project":{
         "description": "JRF Shortlisted candidates for interview under SERB-DST Sponsored Project",

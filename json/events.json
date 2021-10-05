@@ -1,4 +1,58 @@
 {
+    "Sixth issue of e-magazine 'AIKYAM' (30 September 2021)":{
+        "description": "Sixth issue of e-magazine 'AIKYAM' (30 September 2021)",
+        "url": "https://drive.google.com/file/d/1WNN3jmUCvXLi5FclB96f09Ia3ZpuVG0a/view?usp=sharing",
+        "isNew" : true
+    }, 
+    
+    "हिंदी पखवाड़ा २०२१ (Hindi Pakhwada 2021)":{
+        "description": "हिंदी पखवाड़ा २०२१ (Hindi Pakhwada 2021)",
+        "url": "downloads/events/hindipakwada2021.jpg",
+        "isNew" : true
+    }, 
+
+    "Fifth issue of e-magazine 'AIKYAM' (27 July 2021)":{
+        "description": "Fifth issue of e-magazine 'AIKYAM' (27 July 2021)",
+        "url": "https://drive.google.com/file/d/1F_64W4xeFXCf_hf3vFIAuln3_97Mr41Q/view?usp=sharing",
+        "isNew" : true
+    }, 
+    
+    "International Yoga Day 2021 - June 21, 2021":{
+        "description": "International Yoga Day 2021 - June 21, 2021",
+        "url": "downloads/events/IYD21Brochure.pdf",
+        "isNew" : false
+    }, 
+
+    "Fourth issue of e-magazine 'AIKYAM' (23 Mar 2021)":{
+        "description": "Fourth issue of e-magazine 'AIKYAM' (23 Mar 2021)",
+        "url": "https://drive.google.com/file/d/1w6oBg_nUVD6TiSHiF9K4p2UTpIfihjbb/view?usp=sharing",
+        "isNew" : true
+    }, 
+
+        "Celebration of 75th anniversary -Azadi ka Amrut Mahotsav":{
+        "description": "Celebration of 75th anniversary -Azadi ka Amrut Mahotsav",
+        "url": "downloads/events/EBSB_Celebration_of_75thAnniversary.pdf",
+        "isNew" : false
+    },
+
+	"Women's Day Celebration":{
+        "description": "Women's Day Celebration",
+        "url": "downloads/events/Womens_Day_Brochure.pdf",
+        "isNew" : false
+    },
+
+	"National Science Day Celebration":{
+        "description": "National Science Day Celebration",
+        "url": "downloads/events/National_Science_Day_Invitation.pdf",
+        "isNew" : false
+    },
+
+	"Five days Workshop on NI Graphical System Design Platform for Engineering Education and Research":{
+        "description": "Five days Workshop on NI Graphical System Design Platform for Engineering Education and Research",
+        "url": "downloads/events/NI_Workshop_Updated.pdf",
+        "isNew" : false
+    },
+
     "eCalendar 2021 - IIIT Tiruchirappalli":{
         "description": "eCalendar 2021 - IIIT Tiruchirappalli",
         "url": "https://drive.google.com/file/d/12gxyhkRho-UT9hC-lXgGBUNgjy9E8BQW/view?usp=sharing",
