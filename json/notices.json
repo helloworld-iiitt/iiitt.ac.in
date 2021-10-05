@@ -1,9 +1,237 @@
 ﻿{
+    "Leave Form - Main campus address":{
+        "description": "Leave Form - Main campus address",
+        "url": "/downloads/notices/LeaveForm_main.pdf",
+        "isNew" : true
+    },
+
+    "PhD exam schedule End Semester 2021-22 ODD":{
+        "description": "PhD exam schedule End Semester 2021-22 ODD",
+        "url": "/downloads/notices/Ph.D-ExamSchedule_CT-2021-22_ODD.pdf",
+        "isNew" : true
+    },
+
+    "B.Tech (III semester) exam schedule CT1 Semester 2021-22 ODD":{
+        "description": "B.Tech (III semester) exam schedule CT1 Semester 2021-22 ODD",
+        "url": "/downloads/notices/B.TECH-CT1_thirdsem-ExamSchedule_2021-22_ODD.pdf",
+        "isNew" : true
+    },
+    
+    "Exam Schedule CT2 2021-22 B.Tech ODD Semester":{
+        "description": "Exam Schedule CT2 2021-22 B.Tech ODD Semester",
+        "url": "/downloads/notices/B.TECH-CTII-ExamSchedule_2021-22_ODD.pdf",
+        "isNew" : true
+    },
+
+    "Exam Schedule CT1 2021-22 B.Tech ODD Semester":{
+        "description": "Exam Schedule CT1 2021-22 B.Tech ODD Semester",
+        "url": "/downloads/notices/Exam_Schedule_CT1_2021-22_ODD_instructions_aug21.pdf",
+        "isNew" : false
+    },
+
+    "75th Independence Day celebration":{
+        "description": "75th Independence Day celebration",
+        "url": "/downloads/notices/IndependenceDayCircular2021.pdf",
+        "isNew" : false
+    },
+
+    "Fee Structure (AY 2021-22) Semester III":{
+        "description": "Fee Structure (AY 2021-22) Semester III",
+        "url": "/downloads/notices/FeeStructureAY2021-22_odd-updated_IIISem.pdf",
+        "isNew" : false
+    },       
+
+    "Fee Structure (AY 2021-22) Semester III":{
+        "description": "Fee Structure (AY 2021-22) Semester III",
+        "url": "/downloads/notices/FeeStructureAY2021-22_odd-updated_IIISem.pdf",
+        "isNew" : false
+    },       
+
+    "Supplementary Exam Schedule July 2021 ":{
+        "description": "Supplementary Exam Schedule July 2021",
+        "url": "/downloads/notices/Supplementary_schedule_July2021.pdf",
+        "isNew" : false
+    },       
+
+    "Lab Exam Schedule (I year B.Tech July 2021)":{
+        "description": "Lab Exam Schedule (I year B.Tech July 2021)",
+        "url": "/downloads/notices/Timetable_Lab_Final_exam_July2021.pdf",
+        "isNew" : false
+    },
+
+    "List of selected candidates for Ph.D June/July 2021":{
+        "description": "List of selected candidates for Ph.D June/July 2021",
+        "url": "/downloads/notices/Ph.D_shortlist_and_fee_structure_July2021.pdf",
+        "isNew" : false
+    },
+    
+    "B.Tech (II semester) exam schedule End Semester 2020-21 Even":{
+        "description": "B.Tech (II semester) exam schedule End Semester 2020-21 Even",
+        "url": "/downloads/notices/Exam_Schedule_END_2020-21_EVEN_SEM_II.pdf",
+        "isNew" : false
+    },
+
+    "Supplementary Exam Notice July 2021 ":{
+        "description": "Supplementary Exam Notice July 2021",
+        "url": "/downloads/notices/Notice-Supply-July2021.pdf",
+        "isNew" : false
+    },       
+
+    "(pdf) Supplementary exam notice-registration form-July2021":{
+        "description": "(pdf) Supplementary exam notice-registration form-July2021",
+        "url": "/downloads/notices/Supplementary_registration_form_July2021.pdf",
+        "isNew" : false
+    },
+
+    "(doc) Supplementary exam notice-registration form-July2021":{
+        "description": "(doc) Supplementary exam notice-registration form-July2021",
+        "url": "/downloads/notices/Supplementary_registration_form_July2021.doc",
+        "isNew" : false
+    },
+
+    "PhD Admission June 2021: List of shortlisted candidated for online interview":{
+        "description": "PhD Admission June 2021: List of shortlisted candidated for online interview",
+        "url": "/downloads/notices/ECE_CSE_MEC_SH-PhD_shortlisted_interview_june2021.pdf",
+        "isNew" : false
+    },
+    
+    "Revised Fee Structure (AY 2021-22) Odd Semester - Updated 29-06-2021":{
+        "description": "Revised Fee Structure (AY 2021-22) Odd Semester - Updated 29-06-2021",
+        "url": "/downloads/notices/FeeStructure2021-22_OddSem.pdf",
+        "isNew" : false
+    },       
+
+    "PhD Admission June 2021 session: Candidates called for Written test":{
+        "description": "PhD Admission June 2021 session: Candidates called for Written test",
+        "url": "/downloads/notices/PhD_all_shortlisted-June2021.pdf",
+        "isNew" : false
+    },
+
+    "B.Tech (II semester) exam schedule CT2 2020-21 Even":{
+        "description": "B.Tech (II semester) exam schedule CT2 2020-21 Even",
+        "url": "/downloads/notices/Exam_Schedule_CT2_2020-21_EVEN_Sem_FirstYear.pdf",
+        "isNew" : false
+    },
+    
+    "Activity Calendar: PhD July session":{
+        "description": "Activity Calendar: PhD July session",
+        "url": "/downloads/notices/Activity_calendar_PhD_website2021June.pdf",
+        "isNew" : false
+    },       
+
+    "Revised (25/5/21) B.Tech (II semester) exam schedule CT1 2020-21 Even":{
+        "description": "Revised (25/5/21) B.Tech (II semester) exam schedule CT1 2020-21 Even",
+        "url": "/downloads/notices/Exam_Schedule_CT1_2020-21_EVEN_2ndsem.pdf",
+        "isNew" : false
+    },
+    
+    "Convocation 2021: Registration Instructions":{
+        "description": "Convocation 2021: Registration Instructions",
+        "url": "instructions_convocation2021",
+        "isNew" : false
+    },       
+    
+    "Supplementary Exam Schedule April 2021 ":{
+        "description": "Supplementary Exam Schedule April 2021",
+        "url": "/downloads/notices/SupplementarySchedule_Apr2021.pdf",
+        "isNew" : false
+    },       
+
+    "Revised Fee Structure 2020-21 (Even) - Installment Mode - I year":{
+        "description": "Revised Fee Structure 2020-21 (Even) - Installment Mode - I year",
+        "url": "/downloads/notices/RevisedFeeStructure2020-21_Even-InstallmentMode-Iyear.pdf",
+        "isNew" : false
+    },       
+    
+    "Academic Calendar EVEN Sem (Sem II) 2020-21":{
+        "description": "Academic Calendar EVEN Sem (Sem II) 2020-21",
+        "url": "/downloads/notices/EVEN_Semester_2020-21_FY.pdf",
+        "isNew" : false
+    },       
+
+    "Supplementary exam notice-registration form-May2021":{
+        "description": "Supplementary exam notice-registration form-May2021",
+        "url": "/downloads/notices/Notice-Supply-May2021-merged.pdf",
+        "isNew" : false
+    },
+    
+    "B.Tech (IV,VI and VIII semesters) exam schedule End Semester 2020-21 Even":{
+        "description": "B.Tech (IV,VI and VIII semesters) exam schedule End Semester 2020-21 Even",
+        "url": "/downloads/notices/Exam_Schedule_END_2020-21_EVEN_APRIL2021.pdf",
+        "isNew" : false
+    },
+
+    "PhD exam schedule End Semester 2020-21 Even":{
+        "description": "PhD exam schedule End Semester 2020-21 Even",
+        "url": "/downloads/notices/PhD_Exam_Schedule_END_2020-21_EVEN_APRIL2021.pdf",
+        "isNew" : false
+    },
+
+    "Lab Exam Schedule (EVEN Semester 2020-21)":{
+        "description": "Lab Exam Schedule (EVEN Semester 2020-21)",
+        "url": "/downloads/notices/20-21-S2-ALL-END-LAB-EXAM-SCHEDULE.pdf",
+        "isNew" : false
+    },
+ 
+	"Fee Structure 2020-21 Even Semester (First Year)":{
+        "description": "Fee Structure 2020-21 Even Semester (First Year)",
+        "url": "/downloads/notices/FeeStructure2020-21_Even-I-Year.pdf",
+        "isNew" : false
+    },
+
+    "PhD: CT-II 2020-21 Even Semester":{
+        "description": "PhD: CT-II 2020-21 Even Semester",
+        "url": "/downloads/notices/Exam_Schedule_CT2_2020-21_EVEN_PhD.pdf",
+        "isNew" : false
+    },
+
+    "CT-II 2020-21 Even Semester":{
+        "description": "CT-II 2020-21 Even Semester",
+        "url": "/downloads/notices/Exam_Schedule_CT-II_2020-21_EVEN.pdf",
+        "isNew" : false
+    },
+
+    "Revised: First Year End Semester Exam Schedule ODD 2020-21":{
+        "description": "Revised: First Year End Semester Exam Schedule ODD 2020-21",
+        "url": "/downloads/notices/Exam_Schedule_END_2020-21_ODD.pdf",
+        "isNew" : false
+    },
+    
+    "Timetable Lab Final exam: First semester 20-21":{
+        "description": "Timetable Lab Final exam: First semester 20-21",
+        "url": "/downloads/notices/Timetable_Lab_Final_exam.pdf",
+        "isNew" : false
+    },
+    
+    "CT2 Exam Schedule ODD Semester 2020-21":{
+        "description": "CT2 Exam Schedule ODD Semester 2020-21",
+        "url": "/downloads/notices/First_semester_Exam_Schedule_CT2_2020-21_ODD.pdf",
+        "isNew" : false
+    },
+
+    "Exam Schedule CT1 2020-21 B.Tech Even Semester":{
+        "description": "Exam Schedule CT1 2020-21 B.Tech Even Semester",
+        "url": "/downloads/notices/Exam_Schedule_CT1_2020-21_EVEN.pdf",
+        "isNew" : false
+    },
+    "Exam Schedule CT1 2020-21 Ph.D Even Semester":{
+        "description": "Exam Schedule CT1 2020-21 Ph.D Even Semester",
+        "url": "/downloads/notices/Ph.D_Exam_CT1_2020-21_EVEN.pdf",
+        "isNew" : false
+    },
+
     "72nd Republic Day Celebration - 26.01.2021":{
         "description": "72nd Republic Day Celebration - 26.01.2021",
         "url": "/downloads/notices/CIRCULAR_Republic_day_26012021.pdf",
-        "isNew" : true
+        "isNew" : false
     },
+
+    "Leave Form (Old with oxford address)":{
+        "description": "Leave Form (Old with oxford address)",
+        "url": "/downloads/notices/LeaveForm_new.pdf",
+        "isNew" : false
+    },
+
 
     "CT1 Exam Schedule ODD Semester 2020-21":{
         "description": "CT1 Exam Schedule ODD Semester 2020-21",
@@ -383,10 +611,10 @@
         "url": "/downloads/notices/I-Sem-TimeTable(18-19).pdf",
         "isNew" : false
     },
-    "Leave Form":{
-        "description": "Leave Form",
+    "Leave Form (OLD)":{
+        "description": "Leave Form (OLD)",
         "url": "/downloads/notices/LeaveForm.pdf",
-        "isNew" : true
+        "isNew" : false
     },
     "Shortlisted for written test - MTS":{
         "description": "Shortlisted for written test for the post of Multi-Tasking Staff",
