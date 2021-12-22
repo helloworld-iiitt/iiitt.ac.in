@@ -314,3 +314,14 @@ p {
     width: 40vh;
   }
 }
+
+.new-icon::after {
+  content: "";
+  margin-bottom: -10px;
+  display: inline-block;
+  /* Icon by Iconpacks @ https://iconpacks.net/?utm_source=link-attribution&utm_content=1363 */
+  background: url("./icons/new.svg");
+  background-size: cover;
+  width: 45px;
+  height: 45px;
+}
