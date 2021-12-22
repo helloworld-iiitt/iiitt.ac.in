@@ -1,4 +1,40 @@
 {
+	"New tender notification: For Providing Food Catering Services":{
+        "description": "New tender notification: For Providing Food Catering Services",
+        "url": "tender",
+        "isNew" : true
+    },
+
+	"Tender Cancellation Notice: For Providing Food Catering Services dt. 28-10-2021": {
+        "description": "Tender Cancellation Notice: For Providing Food Catering Services dt. 28-10-2021",
+        "url": "/downloads/tenders/Tender_FCS_Cancellation_Notice_02DEC2021.pdf",
+        "isNew": true
+    },
+
+	"Tender Extension Notice: For Providing Housekeeping services": {
+        "description": "Tender Extension Notice: For Providing Housekeeping services",
+        "url": "/downloads/tenders/Tender_Extension_Notice_02DEC2021.pdf",
+        "isNew": true
+    },
+
+	"Corrigendum: Kitchen Equipment, Food Catering, Housekeeping tenders": {
+        "description": "Corrigendum: Kitchen Equipment, Food Catering, Housekeeping tenders",
+        "url": "/downloads/tenders/CORRIGENDUM_foodcatering_kitchenequipment_housekeeping.pdf",
+        "isNew": true
+    },
+
+    "New tender notifications: Supply of Dining Tables, Supply and installation of hostel furniture":{
+        "description": "New tender notifications: Supply of Dining Tables, Supply and installation of hostel furniture",
+        "url": "tender",
+        "isNew" : true
+    },
+
+    "New tender notifications: Kitchen equipments, Food catering services, Housekeeping services":{
+        "description": "New tender notifications: Kitchen equipments, Food catering services, Housekeeping services",
+        "url": "tender",
+        "isNew" : true
+    },
+    
     "Non-Teaching Recruitment (Aug 21): Assistant Registrar":{
         "description": "Non-Teaching Recruitment (Aug 21): Assistant Registrar",
         "url": "downloads/news/advt-AR-Aug2021.pdf",

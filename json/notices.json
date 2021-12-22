@@ -1,26 +1,140 @@
 ﻿{
+    "End Semester Exam Schedule 2021-22 ODD M.Tech I Semester and Ph.D":{
+        "description": "End Semester Exam Schedule 2021-22 ODD M.Tech I Semester and Ph.D",
+        "url": "/downloads/notices/EndExamSchedule_2021-22_ODD_M.Tech_ISemandPh.D.pdf",
+        "isNew" : true
+    },
+
+    "Lab End Semester Exam Schedule 2021-22 ODD M.Tech I Semester":{
+        "description": "Lab End Semester Exam Schedule 2021-22 ODD M.Tech I Semester",
+        "url": "/downloads/notices/EndLabExamSchedule_2021-22_ODD_M.Tech_ISem.pdf",
+        "isNew" : true
+    },
+    
+    "Fee Structure AY 2021-22 EVEN Semester":{
+        "description": "Fee Structure AY 2021-22 EVEN Semester - Revised",
+        "url": "/downloads/notices/FeeStructureAY2021-22_EVENSEM-revised.pdf",
+        "isNew" : true
+    },        
+    
+    "Guidelines and Application form for Duplicate Certificates":{
+        "description": "Guidelines and Application form for Duplicate Certificates",
+        "url": "/downloads/notices/Guidelines_and_Application_form_for_Duplicate_Certificates.pdf",
+        "isNew" : true
+    },
+
+    "M.Tech CT-II 2021-22 ODD Semester I Exam Schedule":{
+        "description": "M.Tech CT-II 2021-22 ODD Semester I Exam Schedule",
+        "url": "/downloads/notices/CT-II_2021-22_ODD_M.TECH_I-Sem.pdf",
+        "isNew" : true
+    },
+
+    "PhD exam schedule End Semester 2021-22 ODD: Semester I":{
+        "description": "PhD exam schedule End Semester 2021-22 ODD: Semester I",
+        "url": "/downloads/notices/EndExamSchedule_2021-22_ODD_PhD_Sem_1.pdf",
+        "isNew" : true
+    },
+
+    "B.Tech (III semester) End Semester exam schedule 2021-22 ODD":{
+        "description": "B.Tech (III semester) End Semester exam schedule 2021-22 ODD",
+        "url": "/downloads/notices/EndExamSchedule_2021-22_ODD_B.Tech_III_Sem.pdf",
+        "isNew" : true
+    },
+
+    "B.Tech (III semester) Lab End Semester Exam Schedule 2021-22 ODD":{
+        "description": "B.Tech (III semester) Lab End Semester Exam Schedule 2021-22 ODD",
+        "url": "/downloads/notices/EndLabExamSchedule_2021-22_ODD_B.Tech_III_Sem.pdf",
+        "isNew" : true
+    },
+
+    "Circular for Supplementary End Examination (1st and 2nd Year courses) - December 2021":{
+        "description": "Circular for Supplementary End Examination (1st and 2nd Year courses) - December 2021",
+        "url": "/downloads/notices/CircularforSupplementaryExamination-Dec2021__1stand2ndYearCourses.pdf",
+        "isNew" : true
+    },       
+    
+    "Supplementary Exam Schedule 2021-22 ODD B.Tech (V to VIII)":{
+        "description": "Supplementary Exam Schedule 2021-22 ODD B.Tech (V to VIII)",
+        "url": "/downloads/notices/SupplementaryExam_Schedule_2021-22_ODD_B.TechVtoVIII.pdf",
+        "isNew" : true
+    },
+
+    "B.Tech (III semester) exam schedule CT2 2021-22 Odd":{
+        "description": "B.Tech (III semester) exam schedule CT2 2021-22 Odd",
+        "url": "/downloads/notices/CT-II_2021-22_ODD_B.TECH_III_Sem.pdf",
+        "isNew" : false
+    },
+
+    "PhD exam schedule CT2 2021-22 ODD: Semester I":{
+        "description": "PhD exam schedule CT2 2021-22 ODD: Semester I",
+        "url": "/downloads/notices/CT-II_2021-22_ODD_Ph.D_I_Sem.pdf",
+        "isNew" : false
+    },
+
+    "PhD exam schedule End Semester 2021-22 ODD: Semester II":{
+        "description": "PhD exam schedule End Semester 2021-22 ODD: Semester II",
+        "url": "/downloads/notices/EndExamSchedule_2021-22_ODD_SEM_Ph.D.pdf",
+        "isNew" : false
+    },
+
+    "M.Tech CT-I 2021-22 ODD Semester I Exam Schedule":{
+        "description": "M.Tech CT-I 2021-22 ODD Semester I Exam Schedule",
+        "url": "/downloads/notices/CT-I_2021-22_ODD_M.TECH_I_Sem_Exam_Schedule.pdf",
+        "isNew" : false
+    },
+    
+    "B.Tech (V and VII semesters) exam schedule End Semester 2021-22 ODD":{
+        "description": "B.Tech (V and VII semesters) exam schedule End Semester 2021-22 ODD",
+        "url": "/downloads/notices/End_Exam_Oct-Nov_2021-22_ODD_B.Tech_V_VII.pdf ",
+        "isNew" : false
+    },
+
+    "Lab Exam Schedule (ODD Semester 2021-22)":{
+        "description": "Lab Exam Schedule (ODD Semester 2021-22)",
+        "url": "/downloads/notices/End_Lab_Oct_2021-22_ODD_B.Tech_V_VII.pdf",
+        "isNew" : false
+    },
+    
+    "Supplementary Exam Notice November 2021 ":{
+        "description": "Supplementary Exam Notice November 2021",
+        "url": "/downloads/notices/Circular_Supplementary_Examination-Nov_2021.pdf",
+        "isNew" : false
+    },       
+
+    "(pdf) Supplementary exam notice-registration form-November 2021":{
+        "description": "(pdf) Supplementary exam notice-registration form-November 2021",
+        "url": "/downloads/notices/Supplementary_registration_Nov_2021.pdf",
+        "isNew" : false
+    },
+
+    "(doc) Supplementary exam notice-registration form-November 2021":{
+        "description": "(doc) Supplementary exam notice-registration form-November 2021",
+        "url": "/downloads/notices/Supplementary_registration_Nov_2021.doc",
+        "isNew" : false
+    },
+
     "Leave Form - Main campus address":{
         "description": "Leave Form - Main campus address",
         "url": "/downloads/notices/LeaveForm_main.pdf",
         "isNew" : true
     },
 
-    "PhD exam schedule End Semester 2021-22 ODD":{
-        "description": "PhD exam schedule End Semester 2021-22 ODD",
+    "PhD exam schedule Cycle Test 2021-22 ODD":{
+        "description": "PhD exam schedule Cycle Test 2021-22 ODD",
         "url": "/downloads/notices/Ph.D-ExamSchedule_CT-2021-22_ODD.pdf",
-        "isNew" : true
+        "isNew" : false
     },
 
     "B.Tech (III semester) exam schedule CT1 Semester 2021-22 ODD":{
         "description": "B.Tech (III semester) exam schedule CT1 Semester 2021-22 ODD",
         "url": "/downloads/notices/B.TECH-CT1_thirdsem-ExamSchedule_2021-22_ODD.pdf",
-        "isNew" : true
+        "isNew" : false
     },
     
     "Exam Schedule CT2 2021-22 B.Tech ODD Semester":{
         "description": "Exam Schedule CT2 2021-22 B.Tech ODD Semester",
         "url": "/downloads/notices/B.TECH-CTII-ExamSchedule_2021-22_ODD.pdf",
-        "isNew" : true
+        "isNew" : false
     },
 
     "Exam Schedule CT1 2021-22 B.Tech ODD Semester":{

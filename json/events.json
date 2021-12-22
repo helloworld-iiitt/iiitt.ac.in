@@ -1,4 +1,28 @@
 {
+    "Orientation Program Invitation December 2021":{
+        "description": "Orientation Program Invitation December 2021",
+        "url": "downloads/events/orientation_program_Invitation2021.pdf",
+        "isNew" : true
+    }, 
+    
+    "Seventh issue of e-magazine 'AIKYAM' (29 November 2021)":{
+        "description": "Seventh issue of e-magazine 'AIKYAM' (29 November 2021)",
+        "url": "https://drive.google.com/file/d/1El20EmrExcc--A-XtUt4IomEsM3qlQMX/view?usp=sharing",
+        "isNew" : true
+    }, 
+    
+    "AICTE Training and Learning (ATAL) Academy Sponsored Online Faculty Development Programme on 'System-on-Chip Design and Testing' from 22.11.2021 to 26.11.2021":{
+        "description": "AICTE Training and Learning (ATAL) Academy Sponsored Online Faculty Development Programme on 'System-on-Chip Design and Testing' from 22.11.2021 to 26.11.2021",
+        "url": "downloads/events/ATAL_FDP_on_System-on-Chip_Design_and_Testing.pdf",
+        "isNew" : true
+    },
+    
+    "AICTE Training and Learning (ATAL) Academy Sponsored Online Faculty Development Programme on 'Design, Synthesis and Characterization of Novel Materials' from 25.10.2021 to 29.10.2021":{
+        "description": "AICTE Training and Learning (ATAL) Academy Sponsored Online Faculty Development Programme on 'Design, Synthesis and Characterization of Novel Materials' from 25.10.2021 to 29.10.2021",
+        "url": "downloads/events/Brochure-fdp_251021-291021.pdf",
+        "isNew" : false
+    }, 
+
     "Sixth issue of e-magazine 'AIKYAM' (30 September 2021)":{
         "description": "Sixth issue of e-magazine 'AIKYAM' (30 September 2021)",
         "url": "https://drive.google.com/file/d/1WNN3jmUCvXLi5FclB96f09Ia3ZpuVG0a/view?usp=sharing",
@@ -8,7 +32,7 @@
     "हिंदी पखवाड़ा २०२१ (Hindi Pakhwada 2021)":{
         "description": "हिंदी पखवाड़ा २०२१ (Hindi Pakhwada 2021)",
         "url": "downloads/events/hindipakwada2021.jpg",
-        "isNew" : true
+        "isNew" : false
     }, 
 
     "Fifth issue of e-magazine 'AIKYAM' (27 July 2021)":{
@@ -110,7 +134,7 @@
     "AICTE Training and Learning (ATAL) Academy Sponsored Online Faculty Development Programme On '3D Printing and Design from 01.02.2020 to 05.02.2020'":{
         "description": "AICTE Training and Learning (ATAL) Academy Sponsored Online Faculty Development Programme On '3D Printing and Design from 01.02.2021 to 05.02.2021'",
         "url": "downloads/events/Brochure_FDP_3D_printing.pdf",
-        "isNew" : true
+        "isNew" : false
     }, 
     
     "AICTE Training and Learning (ATAL) Academy Sponsored Online Faculty Development Programme On 'Challenges and Opportunities in Data Science - A Research Perspective' from 14.12.2020 to 18.12.2020'":{
