@@ -351,6 +351,8 @@ p {
   display: inline-block;
   /* Icon by Iconpacks @ https://iconpacks.net/?utm_source=link-attribution&utm_content=1363 */
   background: url("./icons/new.svg");
+  background-repeat: no-repeat;
+  background-position: center;
   background-size: cover;
   width: 45px;
   height: 45px;
