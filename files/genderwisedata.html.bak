@@ -3,6 +3,7 @@
 
 <head>
   <!-- Meta Tags-->
+
   <!-- SEO -->
   <meta name="keywords" content="IIIT, IIITT, IIIT Trichy, IIIT Tiruchirappalli, IIITS, IIIT Srirangam, NIT Trichy, IIM Trichy">
   <meta name="description" content='The official website of Indian Institute of Information Technology, Tiruchirappalli (IIITT), an Institute of National Importance, established by MHRD, Government of India'>
@@ -16,25 +17,21 @@
 
   <!-- Meta tags for different devices-->
   <meta name="theme-color" content="#212121">
+
   <meta name="msapplication-navbutton-color" content="#212121">
+
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
   <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
-
   <!--
         Title of the Page
         -->
-  <title>Holidays | IIIT Trichy</title>
-
-  <!--
-        Links
-        ==============
-        -->
+  <title>IIIT Trichy</title>
   <link rel="stylesheet" href="css/bootstrap.min.css" />
   <link href="css/font-awesome-4.6.2/css/font-awesome.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="css/style.css" />
 
   <!-- Javascript -->
   <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -46,10 +43,37 @@
   <script src="js/bootstrap.min.js"></script>
   <script type="text/javascript" src="js/jquery-ui.min.js"></script>
   <script type="text/javascript" src="js/bootstrap.js"></script>
-  <script src="js/script.js"></script>
-
-  <!-- Icon -->
+  <link rel="stylesheet" href="css/style.css" />
   <link id="favicon" rel="shortcut icon" href="images/favicon.ico">
+  <script src="js/script.js"></script>
+  <style>
+    u {
+      border-bottom: 1px dotted #000;
+      text-decoration: none;
+    }
+
+    h4 {
+      font-family: 'PT Sans', sans-serif;
+      font-size: 15px;
+    }
+
+    p {
+      font-size: 13px;
+    }
+
+    .card {
+      cursor: pointer;
+    }
+
+    .para {
+      font-size: 12px;
+      text-align: left;
+    }
+
+    .para1 {
+      font-weight: 700;
+    }
+  </style>
 
 </head>
 
@@ -82,7 +106,7 @@
             <a title="Home" href="/" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-home"></i></a>
           </li>
           <!--
-                    Institute
+                    Institute 
                         ->About IIITT
                         ->Administration
                         ->Location
@@ -182,7 +206,6 @@
               <li><a class="postgraduate-btn" href="/postgraduate" data-toggle="collapse" data-target="#navbar-collapse-menu">Postgraduate</a></li>
               <li><a class="doctorate-btn" href="/doctorate" data-toggle="collapse" data-target="#navbar-collapse-menu">Doctorate</a></li>
               <li><a class="faqs-btn" href="/faqs" data-toggle="collapse" data-target="#navbar-collapse-menu">FAQs</a></li>
-              <li><a class="faqs-btn" href="/studentcouncil" data-toggle="collapse" data-target="#navbar-collapse-menu">Student Council</a></li>
               <li role="separator" class="divider"></li>
             </ul>
           </li>
@@ -208,17 +231,6 @@
             </ul>
           </li>
 
-          <!-- Placement -->
-
-          <li id="btn-home" class="dropdown">
-            <a title="IIIT Placement Portal" href="http://placement.iiitt.ac.in/" role="button" aria-haspopup="true" aria-expanded="false" target="_blank">Placements</a>
-          </li>
-
-          <li id="btn-home" class="dropdown">
-            <a title="Scholarships" href="scholarships" class="menu-btn" role="button" aria-haspopup="true" aria-expanded="false">Scholarships</a>
-          </li>
-
-
           <!-- Contact US-->
 
           <li id="btn-contact" class="dropdown">
@@ -238,32 +250,105 @@
     </div>
     <!-- /.container-fluid -->
   </nav>
+  <main class="content container" style="background-color: lightgray;">
+    <p class="western" lang="en-US" style="margin-bottom: 0cm; line-height: 100%;">&nbsp;</p>
+    <table style="page-break-before: always;" width="643" cellspacing="0" cellpadding="7">
+      <tbody>
+        <tr>
+          <td style="border-top: 1.00pt solid #000000; border-bottom: 1.00pt solid #000000; border-left: 1.00pt solid #000000; border-right: none; padding: 0cm 0cm 0cm 0.19cm;" bgcolor="#ffffff" width="157" height="39">
+            <p class="western" lang="en-US"><span style="font-family: Cambria, serif;"><span style="font-size: small;"><strong>Name of IIIT</strong></span></span></p>
+          </td>
+          <td style="border-top: 1.00pt solid #000000; border-bottom: 1px solid #000000; border-left: 1.00pt solid #000000; border-right: none; padding: 0cm;" colspan="4" bgcolor="#ffffff" width="211">
+            <p class="western" lang="en-US" style="margin-bottom: 0cm;" align="center"><span style="font-family: Cambria, serif;"><span style="font-size: small;"><strong>Enrolment in Tertiary Education</strong></span></span></p>
+            <p class="western" lang="en-US" align="center">&nbsp;</p>
+          </td>
+          <td style="border-top: 1.00pt solid #000000; border-bottom: 1px solid #000000; border-left: 1.00pt solid #000000; border-right: 1.00pt solid #000000; padding: 0cm;" colspan="6" bgcolor="#ffffff" width="231">
+            <p class="western" lang="en-US" style="margin-bottom: 0cm;" align="center"><span style="font-family: Cambria, serif;"><span style="font-size: small;"><strong>Professional and Technical Workers</strong></span></span></p>
+            <p class="western" lang="en-US" align="center">&nbsp;</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="border-top: none; border-bottom: none; border-left: 1.00pt solid #000000; border-right: none; padding: 0cm 0cm 0cm 0.19cm;" rowspan="4" bgcolor="#ffffff" width="157" height="13">
+            <p class="western" lang="en-US" style="margin-left: -0.16cm; text-indent: 0.16cm; margin-bottom: 0cm;"><span style="color: #000000;"><span style="font-family: Cambria, serif;"><span style="font-size: small;">IIIT TIRUCHIRAPPALLI</span></span></span></p>
+            <p class="western" lang="en-US">&nbsp;</p>
+          </td>
+          <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0cm;" colspan="4" bgcolor="#ffffff" width="211">
+            <p class="western" lang="en-US" align="center"><span style="font-family: Cambria, serif;"><span style="font-size: small;">B.Tech.</span></span></p>
+          </td>
+          <td style="border: 1px solid #000000; padding: 0cm;" colspan="6" bgcolor="#ffffff" width="231">
+            <p class="western" lang="en-US" align="center"><span style="font-family: Cambria, serif;"><span style="font-size: small;">Faculty</span></span></p>
+          </td>
+        </tr>
+        <tr>
+          <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0cm;" colspan="2" bgcolor="#ffffff" width="101">
+            <p class="western" lang="en-US" align="center"><span style="font-family: Cambria, serif;"><span style="font-size: small;">CSE</span></span></p>
+          </td>
+          <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0cm;" colspan="2" bgcolor="#ffffff" width="96">
+            <p class="western" lang="en-US" align="center"><span style="font-family: Cambria, serif;"><span style="font-size: small;">ECE</span></span></p>
+          </td>
+          <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0cm 0cm 0cm 0.19cm;" colspan="3" bgcolor="#ffffff" width="108">
+            <p class="western" lang="en-US" align="center"><span style="font-family: Cambria, serif;"><span style="font-size: small;">Regular</span></span></p>
+          </td>
+          <td style="border: 1px solid #000000; padding: 0cm;" colspan="3" bgcolor="#ffffff" width="109">
+            <p class="western" lang="en-US" align="center"><span style="font-family: Cambria, serif;"><span style="font-size: small;">Temporary</span></span></p>
+          </td>
+        </tr>
+        <tr>
+          <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0cm;" bgcolor="#ffffff" width="46">
+            <p class="western" lang="en-US" align="center"><span style="font-family: Cambria, serif;"><span style="font-size: small;">Boys</span></span></p>
+          </td>
+          <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0cm;" bgcolor="#ffffff" width="41">
+            <p class="western" lang="en-US" align="center"><span style="font-family: Cambria, serif;"><span style="font-size: small;">Girls</span></span></p>
+          </td>
+          <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0cm;" bgcolor="#ffffff" width="41">
+            <p class="western" lang="en-US" align="center"><span style="font-family: Cambria, serif;"><span style="font-size: small;">Boys</span></span></p>
+          </td>
+          <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0cm;" bgcolor="#ffffff" width="41">
+            <p class="western" lang="en-US" align="center"><span style="font-family: Cambria, serif;"><span style="font-size: small;">Girls</span></span></p>
+          </td>
+          <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0cm 0cm 0cm 0.19cm;" bgcolor="#ffffff" width="46">
+            <p class="western" lang="en-US" align="center"><span style="font-family: Cambria, serif;"><span style="font-size: small;">Male</span></span></p>
+          </td>
+          <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0cm;" colspan="2" bgcolor="#ffffff" width="48">
+            <p class="western" lang="en-US" align="center"><span style="font-family: Cambria, serif;"><span style="font-size: small;">Female</span></span></p>
+          </td>
+          <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0cm;" bgcolor="#ffffff" width="47">
+            <p class="western" lang="en-US" align="center"><span style="font-family: Cambria, serif;"><span style="font-size: small;">Male</span></span></p>
+          </td>
+          <td style="border: 1px solid #000000; padding: 0cm;" colspan="2" bgcolor="#ffffff" width="48">
+            <p class="western" lang="en-US" align="center"><span style="font-family: Cambria, serif;"><span style="font-size: small;">Female</span></span></p>
+          </td>
+        </tr>
+        <tr>
+          <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0cm;" bgcolor="#ffffff" width="46">
+            <p class="western" lang="en-US" align="center"><span style="font-family: Cambria, serif;"><span style="font-size: small;">85</span></span></p>
+          </td>
+          <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0cm;" bgcolor="#ffffff" width="41">
+            <p class="western" lang="en-US" align="center"><span style="font-family: Cambria, serif;"><span style="font-size: small;">7</span></span></p>
+          </td>
+          <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0cm;" bgcolor="#ffffff" width="41">
+            <p class="western" lang="en-US" align="center"><span style="font-family: Cambria, serif;"><span style="font-size: small;">82</span></span></p>
+          </td>
+          <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0cm;" bgcolor="#ffffff" width="41">
+            <p class="western" lang="en-US" align="center"><span style="font-family: Cambria, serif;"><span style="font-size: small;">9</span></span></p>
+          </td>
+          <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0cm 0cm 0cm 0.19cm;" colspan="2" bgcolor="#ffffff" width="47">
+            <p class="western" lang="en-US" align="center"><span style="font-family: Cambria, serif;"><span style="font-size: small;">8</span></span></p>
+          </td>
+          <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0cm;" bgcolor="#ffffff" width="47">
+            <p class="western" lang="en-US" align="center"><span style="font-family: Cambria, serif;"><span style="font-size: small;">6</span></span></p>
+          </td>
+          <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding: 0cm;" colspan="2" bgcolor="#ffffff" width="47">
+            <p class="western" lang="en-US" align="center"><span style="font-family: Cambria, serif;"><span style="font-size: small;">1</span></span></p>
+          </td>
+          <td style="border: 1px solid #000000; padding: 0cm;" bgcolor="#ffffff" width="48">
+            <p class="western" lang="en-US" align="center"><span style="font-family: Cambria, serif;"><span style="font-size: small;">2</span></span></p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="western" lang="en-US" style="margin-bottom: 0cm; line-height: 100%;">&nbsp;</p>
 
-  <header class="header container">
-    <h1 id="page-header" class="text-center">
-      Academic Holidays
-    </h1>
-    <hr />
-  </header>
-
-  <main class="content container">
-    <h3>
-      <p><strong class="new-icon">ACADEMIC HOLIDAYS &amp; RH - 2022</strong></p>
-    </h3>
-    <a href="downloads/list-of-holidays-2022.pdf" target="_blank"> Academic Holidays and RH - 2022</a>
-    <hr />
-
-    <h3>
-      <p><strong>ACADEMIC HOLIDAYS &amp; RH - 2021</strong></p>
-    </h3>
-    <a href="downloads/list_of_holidays_2021_cy.pdf" target="_blank"> Academic Holidays and RH - 2021</a>
-    <hr />
-
-    <h3>
-      <p><strong>ACADEMIC HOLIDAYS &amp; RH - 2020</strong></p>
-    </h3>
-    <a href="downloads/List_of_holidays_and_RH-2020.pdf" target="_blank"> Academic Holidays and RH - 2020</a>
-    <hr />
   </main>
 
   <footer class="text-center">

@@ -1,9 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Lato:wght@300;400;700&display=swap");
+
 html,
 body {
   height: 100%;
   overflow-x: hidden !important;
   margin: 0;
-  font-family: "Roboto", sans-serif;
+  font-family: "Fira Sans Condensed", sans-serif;
+  font-size: 1rem;
 }
 
 .head-banner {
@@ -35,11 +38,13 @@ body {
   width: 120%;
   height: 110%;
 }
+
 #iiitt-logo-small {
   width: 50px;
   height: 50px;
   /*    background-color: #eee;*/
 }
+
 .iiitname {
   position: absolute;
   padding-top: 5px;
@@ -50,10 +55,12 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   /*    font-family: "Times New Roman", Times, serif;*/
 }
+
 .tam {
   font-size: 17px;
   line-height: 28px;
 }
+
 #iiitt-fullname {
   color: #0e4a57;
   font-size: 25px;
@@ -80,24 +87,30 @@ body {
   border-color: #212121;
   border-radius: 0px;
 }
+
 .navbar-right {
   display: flex;
   justify-content: center;
 }
+
 .dropdown-toggle {
   min-width: 100px;
 }
+
 .active {
   padding: 0px 10px 0px 10px;
 }
+
 li {
   /*    text-align: center;*/
 }
+
 /* Link */
 .navbar-default .navbar-nav > li > a {
   /*    color: #0e4a57;*/
   color: #eeeeee;
 }
+
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
   color: #2e2e2e;
@@ -111,6 +124,7 @@ li {
   background-color: #0e4a57;
   /*    background-color: #212121;*/
 }
+
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
   color: #ffffff;
@@ -128,37 +142,45 @@ li {
   background-color: #efefef;
   /*    background-color: #2E2E2E;*/
 }
+
 /* Caret */
 .navbar-default .navbar-nav > .dropdown > a .caret {
   border-top-color: #212121;
   border-bottom-color: #212121;
 }
+
 .navbar-default .navbar-nav > .dropdown > a:hover .caret,
 .navbar-default .navbar-nav > .dropdown > a:focus .caret {
   border-top-color: #2e2e2e;
   border-bottom-color: #2e2e2e;
 }
+
 .navbar-default .navbar-nav > .open > a .caret,
 .navbar-default .navbar-nav > .open > a:hover .caret,
 .navbar-default .navbar-nav > .open > a:focus .caret {
   border-top-color: #2e2e2e;
   border-bottom-color: #2e2e2e;
 }
+
 /* Mobile version */
 .navbar-default .navbar-toggle {
   border-color: #2e2e2e;
 }
+
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
   background-color: #2e2e2e;
 }
+
 .navbar-default .navbar-toggle .icon-bar {
   background-color: #4caf50;
 }
+
 @media (max-width: 768px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
     color: #eeeeee;
   }
+
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
     color: #ffffff;
@@ -175,10 +197,12 @@ hr,
   padding: 20px;
   /*    padding-bottom: 25px;*/
 }
+
 .photo {
   border: 1px solid #fff;
   border-radius: 50%;
 }
+
 footer {
   color: #fff;
   background-color: #113f65;
@@ -212,6 +236,7 @@ footer {
   /*    color: #4caf50;*/
   color: #1c4f7a;
 }
+
 .dropdown {
   text-align: center;
 }
@@ -229,6 +254,7 @@ footer {
   transition: 0.3s;
   /*    width: 80%;*/
 }
+
 .card img {
   float: left;
   margin: 0 10px 0 -25px;
@@ -236,6 +262,7 @@ footer {
   height: 50%;
   border-radius: 50%;
 }
+
 .card:hover {
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
 }
@@ -287,14 +314,17 @@ p {
   #iiitt-fullname {
     display: none;
   }
+
   .head-banner {
     padding-left: 5vh;
     padding-right: 5vh;
     text-align: right;
   }
+
   .row-flex {
     display: block;
   }
+
   #map {
     height: 45vh;
     width: 60vh;
@@ -313,4 +343,17 @@ p {
     height: 30vh;
     width: 40vh;
   }
+}
+
+.new-icon::after {
+  content: "";
+  margin-bottom: -10px;
+  display: inline-block;
+  /* Icon by Iconpacks @ https://iconpacks.net/?utm_source=link-attribution&utm_content=1363 */
+  background: url("./icons/new.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 45px;
+  height: 45px;
 }
