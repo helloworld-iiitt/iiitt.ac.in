@@ -2,124 +2,113 @@
 <html lang="en">
 
 <head>
-  <!-- Meta Tags-->
+    <!-- Meta Tags-->
 
-  <!-- SEO -->
-  <meta name="keywords" content="IIIT, IIITT, IIIT Trichy, IIIT Tiruchirappalli, IIITS, IIIT Srirangam, NIT Trichy, IIM Trichy">
-  <meta name="description" content='The official website of Indian Institute of Information Technology, Tiruchirappalli (IIITT), an Institute of National Importance, established by MHRD, Government of India'>
-  <meta name='subject' content='Indian Institute of Information Technology, Tiruchirappalli'>
-  <meta name='copyright' content='Indian Institute of Information Technology, Tiruchirappalli'>
-  <meta name="author" content="Web Devs Club">
-  <meta name='language' content='English' />
-  <meta name='robots' content='index,follow'>
-  <meta name='Classification' content='University'>
-  <meta charset="UTF-8">
+    <!-- SEO -->
+    <meta name="keywords" content="IIIT, IIITT, IIIT Trichy, IIIT Tiruchirappalli, IIITS, IIIT Srirangam, NIT Trichy, IIM Trichy">
+    <meta name="description" content='The official website of Indian Institute of Information Technology, Tiruchirappalli (IIITT), an Institute of National Importance, established by MHRD, Government of India'>
+    <meta name='subject' content='Indian Institute of Information Technology, Tiruchirappalli'>
+    <meta name='copyright' content='Indian Institute of Information Technology, Tiruchirappalli'>
+    <meta name="author" content="Web Devs Club">
+    <meta name='language' content='English' />
+    <meta name='robots' content='index,follow'>
+    <meta name='Classification' content='University'>
+    <meta charset="UTF-8">
 
-  <!-- Meta tags for different devices-->
-  <meta name="theme-color" content="#212121">
+    <!-- Meta tags for different devices-->
+    <meta name="theme-color" content="#212121">
 
-  <meta name="msapplication-navbutton-color" content="#212121">
+    <meta name="msapplication-navbutton-color" content="#212121">
 
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
-  <!--
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
+    <!--
         Title of the Page
         -->
-  <title>IIIT Trichy</title>
-  <link rel="stylesheet" href="css/bootstrap.min.css" />
-  <link href="css/font-awesome-4.6.2/css/font-awesome.min.css" rel="stylesheet">
+    <title>IIIT Trichy</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link href="css/font-awesome-4.6.2/css/font-awesome.min.css" rel="stylesheet">
 
-  <!-- Javascript -->
-  <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-  <!--[if lte IE 9]><!-->
-  <script type='text/javascript' src="js/html5shiv.js"></script>
-  <script type='text/javascript' src="js/respond.js"></script>
-  <!-- [endif] -->
-  <script type="text/javascript" src="js/jquery-2.2.3.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script type="text/javascript" src="js/jquery-ui.min.js"></script>
-  <script type="text/javascript" src="js/bootstrap.js"></script>
-  <link rel="stylesheet" href="css/style.css" />
-  <link id="favicon" rel="shortcut icon" href="images/favicon.ico">
-  <script src="js/script.js"></script>
-  <style>
+    <!-- Javascript -->
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lte IE 9]><!-->
+    <script type='text/javascript' src="js/html5shiv.js"></script>
+    <script type='text/javascript' src="js/respond.js"></script>
+    <!-- [endif] -->
+    <script type="text/javascript" src="js/jquery-2.2.3.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.js"></script>
+    <link rel="stylesheet" href="css/style.css" />
+    <link id="favicon" rel="shortcut icon" href="images/favicon.ico">
+    <script src="js/script.js"></script>
+    <style>
     .blink {
-      font-size: 1.2em;
-      /*margin: 2px;*/
-      /*text-align: center;*/
-      margin-top: 5px;
-      font: 400 1.2em Lato, sans-serif;
-      font-weight: bold;
-      animation-name: example;
-      animation-duration: 4s;
-      animation-iteration-count: infinite;
-    }
+font-size: 1.2em;
+/*margin: 2px;*/
+/*text-align: center;*/
+        margin-top: 5px;
+        font :400 1.2em Lato, sans-serif;
+        font-weight: bold;
+animation-name: example;
+animation-duration: 4s;
+animation-iteration-count: infinite;
+}
 
-    @keyframes example {
-      0% {
-        color: red;
-      }
-
-      50% {
-        color: blue;
-      }
-
-      100% {
-        color: limegreen;
-      }
-    }
-
-    .navbar {
-      margin-bottom: 0px;
-    }
-
-    .head-banner {
-      display: block;
-      /*    padding-top: 10px;*/
-      /*  padding-left: 20vh;*/
-      /*    padding-right: 20vh;*/
-      /*    background-color: #dbaa36;*/
-      background-color: #eee;
-      /*    background-color: #2E2E2E;*/
-      /*    height: 90px;    */
-      overflow: hidden;
-    }
-  </style>
+@keyframes example {
+    0%   {color: red;}
+    50%  {color: blue;}
+    100% {color: limegreen;}
+}
+.navbar{
+    margin-bottom: 0px;
+}
+        .head-banner {   
+    display:block;
+/*    padding-top: 10px;*/
+/*  padding-left: 20vh;*/
+/*    padding-right: 20vh;*/
+/*    background-color: #dbaa36;*/
+    background-color: #eee;
+/*    background-color: #2E2E2E;*/
+/*    height: 90px;    */
+    overflow: hidden;
+}
+    </style>
 </head>
-
 <body style="">
-  <div class="head-banner hidden-sm hidden-xs hidden-md">
-    <center>
-      <img src="images/logo-iiit.png" align="center" style=" padding-left:0px; padding-bottom: 20px;" height="120px" width="90%" alt="IIIT Trichy Logo" />
-    </center>
-  </div>
+    <div class="head-banner hidden-sm hidden-xs hidden-md">
+        <center>
+            <img src="images/logo-iiit.png" align="center" style=" padding-left:0px; padding-bottom: 20px;" height="120px" width="90%" alt="IIIT Trichy Logo" />
+        </center>
+    </div>
 
-  <nav class="navbar navbar-default">
-    <div class="container">
-      <!-- Brand and toggle get grouped for better mobile display -->
-      <div class="navbar-header">
-        <span class="hidden-lg hidden-xl ">
-          <img id="iiitt-logo-small" src="images/iiitt-logo.png" alt="IIIT Trichy Logo" />
-          <span style="font-size: 30px; position: absolute; margin-top: 5px; color: #fff;">IIITT</span>
-        </span>
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-menu" aria-expanded="false">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-      </div>
+   <nav class="navbar navbar-default">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <span class="hidden-lg hidden-xl ">
+                    <img id="iiitt-logo-small"  src="images/iiitt-logo.png" alt="IIIT Trichy Logo"/>
+                    <span style="font-size: 30px; position: absolute; margin-top: 5px; color: #fff;">IIITT</span>
+                </span>
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-menu" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
 
-      <!-- Collect the nav links, forms, and other content for toggling -->
-      <div class="collapse navbar-collapse" id="navbar-collapse-menu">
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="navbar-collapse-menu">
 
-        <ul class="nav navbar-nav">
-
-          <!--
+                <ul class="nav navbar-nav">
+                    
+                    <!--
                     Institute 
                         ->About IIITT
                         ->Administration
@@ -129,169 +118,167 @@
                         ->Mentor Director of IIITT
 -->
 
-          <li id="btn-institute" class="dropdown">
-            <a href="#" title="Explore About, Administration, Location, Industry Partners and more about IIIT Trichy." class="menu-btn dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Institute</a>
-            <ul class="dropdown-menu">
-              <li role="separator" class="divider"></li>
-              <li><a class="about-iiitt-btn" href="/about" data-toggle="collapse" data-target="#navbar-collapse-menu">About IIITT</a></li>
-              <li class="dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Administration</a>
-                <ul class="dropdown-menu">
-                  <li><a href="/director">Director</a></li>
-                  <li><a href="/registrar">Registrar</a></li>
-                  <li><a href="/deans">Deans</a></li>
-                </ul>
-              </li>
-              <li><a class="location-btn" href="/bog" data-toggle="collapse" data-target="#navbar-collapse-menu">BoG</a></li>
-              <li><a class="tender-btn" href="/senate" data-toggle="collapse" data-target="#navbar-collapse-menu">Senate</a></li>
-              <li><a class="mentor-director-message" href="/rti" data-toggle="collapse" data-target="#navbar-collapse-menu">RTI</a></li>
-              <li><a class="industry-partners-btn" href="/partners" data-toggle="collapse" data-target="#navbar-collapse-menu">Industry Partners</a></li>
-              <li role="separator" class="divider"></li>
-            </ul>
-          </li>
+                    <li id="btn-institute" class="dropdown">
+                        <a href="#" title="Explore About, Administration, Location, Industry Partners and more about IIIT Trichy." class="menu-btn dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Institute</a>
+                        <ul class="dropdown-menu">
+                            <li role="separator" class="divider"></li>
+                            <li><a class="about-iiitt-btn" href="/about" data-toggle="collapse" data-target="#navbar-collapse-menu">About IIITT</a></li>
+                             <li class="dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Administration</a>
+        						<ul class="dropdown-menu">
+                                    <li><a href="/director">Director</a></li>
+									<li><a href="/registrar">Registrar</a></li>
+									<li><a href="/deans">Deans</a></li>                                                              
+								</ul>
+							</li>
+                            <li><a class="location-btn" href="/bog" data-toggle="collapse" data-target="#navbar-collapse-menu">BoG</a></li>
+                            <li><a class="tender-btn" href="/senate" data-toggle="collapse" data-target="#navbar-collapse-menu">Senate</a></li>
+                            <li><a class="mentor-director-message" href="/rti" data-toggle="collapse" data-target="#navbar-collapse-menu">RTI</a></li>
+                            <li><a class="industry-partners-btn" href="/partners" data-toggle="collapse" data-target="#navbar-collapse-menu">Industry Partners</a></li>
+                            <li role="separator" class="divider"></li>
+                        </ul>
+                    </li>
 
-          <!--
+                    <!--
                     Academics
                         -> Programs
                         -> Departments
                         -> Curriculum
                         -> Calendar
                     -->
-          <li id="btn-academics" class="dropdown">
-            <a title="Explore Programs, Departments, Curriculum, Calender and more about IIIT Trichy." href="#" class="menu-btn dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Academics </a>
-            <ul class="dropdown-menu">
-              <li role="separator" class="divider"></li>
-              <li><a class="programs-btn" href="/programs" data-toggle="collapse" data-target="#navbar-collapse-menu">Programs</a></li>
-              <li><a class="departments-btn" href="/departments" data-toggle="collapse" data-target="#navbar-collapse-menu">Departments</a></li>
-              <li><a class="curriculum-btn" href="/curriculum" data-toggle="collapse" data-target="#navbar-collapse-menu">Curriculum</a></li>
-              <li><a class="calender-btn" href="/calender" data-toggle="collapse" data-target="#navbar-collapse-menu">Calender</a></li>
-              <li role="separator" class="divider"></li>
-            </ul>
-          </li>
+                    <li id="btn-academics" class="dropdown">
+                        <a title="Explore Programs, Departments, Curriculum, Calender and more about IIIT Trichy." href="#" class="menu-btn dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Academics </a>
+                        <ul class="dropdown-menu">
+                            <li role="separator" class="divider"></li>
+                            <li><a class="programs-btn" href="/programs" data-toggle="collapse" data-target="#navbar-collapse-menu">Programs</a></li>
+                            <li><a class="departments-btn" href="/departments" data-toggle="collapse" data-target="#navbar-collapse-menu">Departments</a></li>
+                            <li><a class="curriculum-btn" href="/curriculum" data-toggle="collapse" data-target="#navbar-collapse-menu">Curriculum</a></li>
+                            <li><a class="calender-btn" href="/calender" data-toggle="collapse" data-target="#navbar-collapse-menu">Calender</a></li>
+                            <li role="separator" class="divider"></li>
+                        </ul>
+                    </li>
 
-          <!--
+                   <!--
                     People
                         -> Faculty
                         -> Staff
                     -->
-          <li id="btn-faculty" class="dropdown">
-            <a href="#" class="menu-btn dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">People </a>
-            <ul class="dropdown-menu">
-              <li role="separator" class="divider"></li>
-              <li><a class="career-btn" href="/facultypeople" data-toggle="collapse" data-target="#navbar-collapse-menu">Faculty</a></li>
-              <li><a class="cse-btn" href="/adminpeople" data-toggle="collapse" data-target="#navbar-collapse-menu">Staff</a></li>
-              <li role="separator" class="divider"></li>
-            </ul>
-          </li>
+                    <li id="btn-faculty" class="dropdown">
+                        <a href="#" class="menu-btn dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">People </a>
+                        <ul class="dropdown-menu">
+                            <li role="separator" class="divider"></li>
+                            <li><a class="career-btn" href="/facultypeople" data-toggle="collapse" data-target="#navbar-collapse-menu">Faculty</a></li>
+                            <li><a class="cse-btn" href="/adminpeople" data-toggle="collapse" data-target="#navbar-collapse-menu">Staff</a></li>
+                            <li role="separator" class="divider"></li>
+                        </ul>
+                    </li>
 
-          <!-- Admission-->
+                    <!-- Admission-->
 
-          <li id="btn-student" class="dropdown">
-            <a title="Explore Undergraduate Program, Admission, FAQs and more about IIIT Trichy." href="/admission" class="menu-btn" role="button" aria-haspopup="true" aria-expanded="false">Admission </a>
-          </li>
-
-          <!--
+                    <li id="btn-student" class="dropdown">
+                    <a title="Explore Undergraduate Program, Admission, FAQs and more about IIIT Trichy." href="/admission" class="menu-btn" role="button" aria-haspopup="true" aria-expanded="false">Admission </a>
+                    </li>
+                    
+                    <!--
                     Notifications
                         -> Careers
                         -> Tenders
                     -->
-          <li id="btn-student" class="dropdown">
-            <a title="Explore Tenders and Career Notifications" href="#" class="menu-btn dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Notifications </a>
-            <ul class="dropdown-menu">
-              <li role="separator" class="divider"></li>
-              <li><a class="career-btn" href="/notices" data-toggle="collapse" data-target="#navbar-collapse-menu">General</a></li>
-              <li><a class="tender-btn" href="/tender" data-toggle="collapse" data-target="#navbar-collapse-menu">Tenders</a></li>
-              <li role="separator" class="divider"></li>
-            </ul>
-          </li>
-
-          <!--
+                    <li id="btn-student" class="dropdown">
+                        <a title="Explore Tenders and Career Notifications" href="#" class="menu-btn dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Notifications </a>
+                        <ul class="dropdown-menu">
+                            <li role="separator" class="divider"></li>
+                            <li><a class="career-btn" href="/notices" data-toggle="collapse" data-target="#navbar-collapse-menu">General</a></li>
+                            <li><a class="tender-btn" href="/tender" data-toggle="collapse" data-target="#navbar-collapse-menu">Tenders</a></li>
+                            <li role="separator" class="divider"></li>
+                        </ul>
+                    </li>
+                    
+                    <!--
                     Students
                         -> B. Tech.
                         -> FAQs
                     -->
-          <li id="btn-student" class="dropdown">
-            <a title="Explore Undergraduate Program, Admission, FAQs and more about IIIT Trichy." href="#" class="menu-btn dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Students </a>
-            <ul class="dropdown-menu">
-              <li role="separator" class="divider"></li>
-              <li><a class="undergraduate-btn" href="/undergraduate" data-toggle="collapse" data-target="#navbar-collapse-menu">Undergraduate</a></li>
-              <li><a class="postgraduate-btn" href="/postgraduate" data-toggle="collapse" data-target="#navbar-collapse-menu">Postgraduate</a></li>
-              <li><a class="doctorate-btn" href="/doctorate" data-toggle="collapse" data-target="#navbar-collapse-menu">Doctorate</a></li>
-              <li><a class="faqs-btn" href="/faqs" data-toggle="collapse" data-target="#navbar-collapse-menu">FAQs</a></li>
-              <li role="separator" class="divider"></li>
-            </ul>
-          </li>
+                    <li id="btn-student" class="dropdown">
+                        <a title="Explore Undergraduate Program, Admission, FAQs and more about IIIT Trichy." href="#" class="menu-btn dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Students </a>
+                        <ul class="dropdown-menu">
+                            <li role="separator" class="divider"></li>
+                            <li><a class="undergraduate-btn" href="/undergraduate" data-toggle="collapse" data-target="#navbar-collapse-menu">Undergraduate</a></li>
+                            <li><a class="faqs-btn" href="/faqs" data-toggle="collapse" data-target="#navbar-collapse-menu">FAQs</a></li>
+                            <li role="separator" class="divider"></li>
+                        </ul>
+                    </li>
 
-          <!--
+                    <!--
                     Campus Life
                         -> Festivals
                         -> Clubs
                         -> Facilities
                         -> Hostel ad Mess
                     -->
-          <li id="btn-campus-life" class="dropdown">
-            <a title="Explore Festivals, Clubs, Facilities, Hostel and Mess, and more about IIIT Trichy." href="#" class="menu-btn dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Campus Life </a>
-            <ul class="dropdown-menu">
-              <li role="separator" class="divider"></li>
-              <li><a class="festivals-btn" href="/festivals" data-toggle="collapse" data-target="#navbar-collapse-menu">Festivals </a></li>
-              <li><a class="clubs-btn" href="/clubs" data-toggle="collapse" data-target="#navbar-collapse-menu">Clubs</a></li>
-              <li><a class="facilities-btn" href="/facilities" data-toggle="collapse" data-target="#navbar-collapse-menu">Facilities</a></li>
-              <li><a class="hostel-mess-btn" href="/hostel-mess" data-toggle="collapse" data-target="#navbar-collapse-menu">Hostel and Mess</a></li>
-              <li role="separator" class="divider"></li>
-            </ul>
-          </li>
+                    <li id="btn-campus-life" class="dropdown">
+                        <a title="Explore Festivals, Clubs, Facilities, Hostel and Mess, and more about IIIT Trichy." href="#" class="menu-btn dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Campus Life </a>
+                        <ul class="dropdown-menu">
+                            <li role="separator" class="divider"></li>
+                            <li><a class="festivals-btn" href="/festivals" data-toggle="collapse" data-target="#navbar-collapse-menu">Festivals </a></li>
+                            <li><a class="clubs-btn" href="/clubs" data-toggle="collapse" data-target="#navbar-collapse-menu">Clubs</a></li>
+                            <li><a class="facilities-btn" href="/facilities" data-toggle="collapse" data-target="#navbar-collapse-menu">Facilities</a></li>
+                            <li><a class="hostel-mess-btn" href="/hostel-mess" data-toggle="collapse" data-target="#navbar-collapse-menu">Hostel and Mess</a></li>
+                            <li role="separator" class="divider"></li>
+                        </ul>
+                    </li>
+                    
+                    
+                    
+                    <!-- Contact US-->
 
+                    <li id="btn-contact" class="dropdown">
+                    <a title="Explore Undergraduate Program, Admission, FAQs and more about IIIT Trichy." href="/location" class="menu-btn" role="button" aria-haspopup="true" aria-expanded="false">Contact us </a>
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a title="Follow us on LinkedIn" href="https://www.linkedin.com/school/iiitt/" target="_blank" data-toggle="collapse" data-target="#navbar-collapse-menu"><i class="fa fa-linkedin"></i></a></li>
+                    <li><a title="Like us on Facebook" href="https://facebook.com/IIITTrichy" target="_blank" data-toggle="collapse" data-target="#navbar-collapse-menu"><i class="fa fa-facebook"></i></a></li>
+                    <li><a title="Follow us on Twitter" href="https://twitter.com/IIITTrichy" target="_blank" data-toggle="collapse" data-target="#navbar-collapse-menu"><i class="fa fa-twitter"></i></a></li>
+                    <li><a title="Contact us" href="/contact-us"><i class="fa fa-phone" data-toggle="collapse" data-target="#navbar-collapse-menu"></i></a></li>
+                </ul>
+                
 
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>    
+    <marquee class="blink" > 
+        For hostel allotment, 1st year students should report to K.Ramakrishna College of Engineering, Samayapuram Toll Plaza from 18 Aug' 19 onwards. For Details contact Gokul(Hostel Steward) 9698648868,9489600131. The inaugural function for 1st year will be held on 19.08.2019.
+<!--Institute will Reopen on 13.08.2019 for III,V,VII Semester of AY2019-20... Class Commences on 19.08.2019 for first years...-->
+<!--        <a href ="http://www.iiittrichy.in" target="_blank">IIITT/R/1/2019-20: Notification for Regular Faculty Recruitment 2019</a>-->
+    </marquee>
+        <main class="content container" style="background-color: lightgray;">
+        <div class="row">
+            <div class="col-md-8">
+                <div id="myCarousel" class="carousel slide" data-ride="carousel">
 
-          <!-- Contact US-->
+                    <!-- Indicators -->
+                    <ol class="carousel-indicators">
+                        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                        <li data-target="#myCarousel" data-slide-to="10"></li>
+                        <li data-target="#myCarousel" data-slide-to="1"></li>
+                        <li data-target="#myCarousel" data-slide-to="2"></li>
+                        <li data-target="#myCarousel" data-slide-to="3"></li>
+                        <li data-target="#myCarousel" data-slide-to="4"></li>
+                        <li data-target="#myCarousel" data-slide-to="5"></li>
+                        <li data-target="#myCarousel" data-slide-to="6"></li>
+                        <li data-target="#myCarousel" data-slide-to="7"></li>
+                        <li data-target="#myCarousel" data-slide-to="8"></li>
+                        <li data-target="#myCarousel" data-slide-to="9"></li>
+                        <li data-target="#myCarousel" data-slide-to="11"></li>
+<!--                        <li data-target="#myCarousel" data-slide-to="10"></li>-->
+                    </ol>
 
-          <li id="btn-contact" class="dropdown">
-            <a title="Explore Undergraduate Program, Admission, FAQs and more about IIIT Trichy." href="/location" class="menu-btn" role="button" aria-haspopup="true" aria-expanded="false">Contact us </a>
-          </li>
-        </ul>
-        <ul class="nav navbar-nav navbar-right">
-          <li><a title="Follow us on LinkedIn" href="https://www.linkedin.com/school/iiitt/" target="_blank" data-toggle="collapse" data-target="#navbar-collapse-menu"><i class="fa fa-linkedin"></i></a></li>
-          <li><a title="Like us on Facebook" href="https://facebook.com/IIITTrichy" target="_blank" data-toggle="collapse" data-target="#navbar-collapse-menu"><i class="fa fa-facebook"></i></a></li>
-          <li><a title="Follow us on Twitter" href="https://twitter.com/IIITTrichy" target="_blank" data-toggle="collapse" data-target="#navbar-collapse-menu"><i class="fa fa-twitter"></i></a></li>
-          <li><a title="Contact us" href="/contact-us"><i class="fa fa-phone" data-toggle="collapse" data-target="#navbar-collapse-menu"></i></a></li>
-        </ul>
-
-
-      </div>
-      <!-- /.navbar-collapse -->
-    </div>
-    <!-- /.container-fluid -->
-  </nav>
-  <marquee class="blink">
-    For hostel allotment, 1st year students should report to K.Ramakrishna College of Engineering, Samayapuram Toll Plaza from 18 Aug' 19 onwards. For Details contact Gokul(Hostel Steward) 9698648868,9489600131. The inaugural function for 1st year will be held on 19.08.2019.
-    <!--Institute will Reopen on 13.08.2019 for III,V,VII Semester of AY2019-20... Class Commences on 19.08.2019 for first years...-->
-    <!--        <a href ="http://www.iiittrichy.in" target="_blank">IIITT/R/1/2019-20: Notification for Regular Faculty Recruitment 2019</a>-->
-  </marquee>
-  <main class="content container" style="background-color: lightgray;">
-    <div class="row">
-      <div class="col-md-8">
-        <div id="myCarousel" class="carousel slide" data-ride="carousel">
-
-          <!-- Indicators -->
-          <ol class="carousel-indicators">
-            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-            <li data-target="#myCarousel" data-slide-to="10"></li>
-            <li data-target="#myCarousel" data-slide-to="1"></li>
-            <li data-target="#myCarousel" data-slide-to="2"></li>
-            <li data-target="#myCarousel" data-slide-to="3"></li>
-            <li data-target="#myCarousel" data-slide-to="4"></li>
-            <li data-target="#myCarousel" data-slide-to="5"></li>
-            <li data-target="#myCarousel" data-slide-to="6"></li>
-            <li data-target="#myCarousel" data-slide-to="7"></li>
-            <li data-target="#myCarousel" data-slide-to="8"></li>
-            <li data-target="#myCarousel" data-slide-to="9"></li>
-            <li data-target="#myCarousel" data-slide-to="11"></li>
-            <!--                        <li data-target="#myCarousel" data-slide-to="10"></li>-->
-          </ol>
-
-          <!-- Wrapper for slides -->
-          <div class="carousel-inner">
-
-            <!--
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner">
+                        
+<!--
                         <figure class="item active">
                             <a href="event"><img class="img-responsive img-center" src="images/pariksha-banner.jpg" style="height: 405px;" alt="Pariksha Pe Charcha 2.0"></a>
                             <figcaption class="text-center carousel-caption">
@@ -300,74 +287,74 @@
                         </figure>
 -->
 
-
-            <figure class="item active">
-              <img class="img-responsive img-center" src="images/slide/01.jpg" style="height: 405px; width: 720px;" alt="">
-              <figcaption class="text-center carousel-caption">
-                Aahladh'19
-              </figcaption>
-            </figure>
-            <figure class="item ">
-              <img class="img-responsive img-center" src="images/slide/8.jpg" style="height: 405px; width: 720px;" alt="IIIT Trichy at IIITDMJ Fest">
-              <figcaption class="text-center carousel-caption">
-                Transit Campus - IIITT
-              </figcaption>
-            </figure>
-            <figure class="item">
-              <img class="img-responsive img-center" src="images/slide/02.jpg" style="height: 405px; width: 720px;" alt="">
-              <figcaption class="text-center carousel-caption">
-                Aahladh Face Painting
-              </figcaption>
-            </figure>
-            <figure class="item">
-              <img class="img-responsive img-center" src="images/slide/03.jpg" style="height: 405px; width: 720px;" alt="">
-              <figcaption class="text-center carousel-caption">
-
-              </figcaption>
-            </figure>
-            <figure class="item">
-              <img class="img-responsive img-center" src="images/slide/04.jpg" style="height: 405px; width: 720px;" alt="">
-              <figcaption class="text-center carousel-caption">
-
-              </figcaption>
-            </figure>
-            <figure class="item">
-              <img class="img-responsive img-center" src="images/slide/05.jpg" style="height: 405px; width: 720px;" alt="">
-              <figcaption class="text-center carousel-caption">
-
-              </figcaption>
-            </figure>
-            <figure class="item">
-              <img class="img-responsive img-center" src="images/slide/06.jpg" style="height: 405px; width: 720px;" alt="">
-              <figcaption class="text-center carousel-caption">
-
-              </figcaption>
-            </figure>
-            <figure class="item">
-              <img class="img-responsive img-center" src="images/slide/07.jpg" style="height: 405px; width: 720px;" alt="">
-              <figcaption class="text-center carousel-caption">
-
-              </figcaption>
-            </figure>
-            <figure class="item">
-              <img class="img-responsive img-center" src="images/slide/08.jpg" style="height: 405px; width: 720px;" alt="">
-              <figcaption class="text-center carousel-caption">
-
-              </figcaption>
-            </figure>
-            <figure class="item">
-              <img class="img-responsive img-center" src="images/slide/09.jpg" style="height: 405px; width: 720px;" alt="">
-              <figcaption class="text-center carousel-caption">
-
-              </figcaption>
-            </figure>
-            <figure class="item">
-              <img class="img-responsive img-center" src="images/slide/010.jpg" style="height: 405px; width: 720px;" alt="">
-              <figcaption class="text-center carousel-caption">
-
-              </figcaption>
-            </figure>
-            <!--
+                        
+                        <figure class="item active">
+                            <img class="img-responsive img-center" src="images/slide/01.jpg" style="height: 405px; width: 720px;" alt="">
+                            <figcaption class="text-center carousel-caption">
+                                Aahladh'19
+                            </figcaption>
+                        </figure>
+                        <figure class="item ">
+                            <img class="img-responsive img-center" src="images/slide/8.jpg" style="height: 405px; width: 720px;" alt="IIIT Trichy at IIITDMJ Fest">
+                            <figcaption class="text-center carousel-caption">
+                                Transit Campus - IIITT
+                            </figcaption>
+                        </figure>
+                        <figure class="item">
+                            <img class="img-responsive img-center" src="images/slide/02.jpg" style="height: 405px; width: 720px;" alt="">
+                            <figcaption class="text-center carousel-caption">
+                                Aahladh Face Painting
+                            </figcaption>
+                        </figure>
+                        <figure class="item">
+                            <img class="img-responsive img-center" src="images/slide/03.jpg" style="height: 405px; width: 720px;" alt="">
+                            <figcaption class="text-center carousel-caption">
+                                
+                            </figcaption>
+                        </figure>
+                        <figure class="item">
+                            <img class="img-responsive img-center" src="images/slide/04.jpg" style="height: 405px; width: 720px;" alt="">
+                            <figcaption class="text-center carousel-caption">
+                                
+                            </figcaption>
+                        </figure>
+                        <figure class="item">
+                            <img class="img-responsive img-center" src="images/slide/05.jpg" style="height: 405px; width: 720px;" alt="">
+                            <figcaption class="text-center carousel-caption">
+                                
+                            </figcaption>
+                        </figure>
+                        <figure class="item">
+                            <img class="img-responsive img-center" src="images/slide/06.jpg" style="height: 405px; width: 720px;" alt="">
+                            <figcaption class="text-center carousel-caption">
+                                
+                            </figcaption>
+                        </figure>
+                        <figure class="item">
+                            <img class="img-responsive img-center" src="images/slide/07.jpg" style="height: 405px; width: 720px;" alt="">
+                            <figcaption class="text-center carousel-caption">
+                                
+                            </figcaption>
+                        </figure>
+                        <figure class="item">
+                            <img class="img-responsive img-center" src="images/slide/08.jpg" style="height: 405px; width: 720px;" alt="">
+                            <figcaption class="text-center carousel-caption">
+                                
+                            </figcaption>
+                        </figure>
+                        <figure class="item">
+                            <img class="img-responsive img-center" src="images/slide/09.jpg" style="height: 405px; width: 720px;" alt="">
+                            <figcaption class="text-center carousel-caption">
+                                
+                            </figcaption>
+                        </figure>
+                        <figure class="item">
+                            <img class="img-responsive img-center" src="images/slide/010.jpg" style="height: 405px; width: 720px;" alt="">
+                            <figcaption class="text-center carousel-caption">
+                                
+                            </figcaption>
+                        </figure>
+<!--
                         <figure class="item">
                             <img class="img-responsive img-center" src="images/slide/9.jpg" style="height: 405px;" alt="Twaran - IIITM Gwalior">
                             <figcaption class="text-center carousel-caption">
@@ -375,8 +362,8 @@
                             </figcaption>
                         </figure>
 -->
-
-            <!--
+                        
+<!--
                         <figure class="item">
                             <img class="img-responsive img-center" src="images/slide/13.JPG" style="height: 405px; width: 720px;">
                             <figcaption class="text-center carousel-caption">
@@ -384,7 +371,7 @@
                             </figcaption>
                         </figure>
 -->
-            <!--
+<!--
                         <figure class="item">
                             <img class="img-responsive img-center" src="images/slide/10.JPG" style="height: 405px;" alt="Twaran - IIITM Gwalior">
                             <figcaption class="text-center carousel-caption">
@@ -392,16 +379,16 @@
                             </figcaption>
                         </figure>
 -->
-            <figure class="item">
-              <img class="img-responsive img-center" src="images/slide/11.JPG" style="height: 405px;" alt="">
-              <figcaption class="text-center carousel-caption">
-                <!--
+                        <figure class="item">
+                            <img class="img-responsive img-center" src="images/slide/11.JPG" style="height: 405px;" alt="">
+                            <figcaption class="text-center carousel-caption">
+                                <!--
                                     Feliz Club, IIIT Trichy's most caring Club.<br/>
                                     "God bless you all!", said the lovely old people.
 -->
-              </figcaption>
-            </figure>
-            <!--
+                            </figcaption>
+                        </figure>
+<!--
                         <figure class="item">
                             <img class="img-responsive img-center" src="/images/slide/3.1.jpg" style="height: 405px; width: 720px;" alt="">
                             <figcaption class="text-center carousel-caption">
@@ -409,7 +396,7 @@
                             </figcaption>
                         </figure>
 -->
-            <!--
+<!--
                         <figure class="item">
                             <img class="img-responsive img-center" src="images/slide/12.JPG" style="height: 405px; width: 720px;">
                             <figcaption class="text-center carousel-caption">
@@ -417,7 +404,7 @@
                             </figcaption>
                         </figure>
 -->
-            <!--
+<!--
                         <figure class="item">
                             <img class="img-responsive img-center" src="/images/slide/4.1.jpg" style="height: 405px; width: 720px;" alt="">
                             <figcaption class="text-center carousel-caption">
@@ -426,7 +413,7 @@
                         </figure>
 -->
 
-            <!--
+<!--
                         <figure class="item">
                             <img class="img-responsive img-center" src="images/slide/5.1.jpg" style="height: 405px; width: 720px;" alt="">
                             <figcaption class="text-center carousel-caption">
@@ -435,7 +422,7 @@
                         </figure>
 -->
 
-            <!--
+<!--
                         <figure class="item">
                             <img class="img-responsive img-center" src="images/slide/6.2.jpg" style="height: 405px; " alt="">
                             <figcaption class="text-center carousel-caption">
@@ -447,52 +434,52 @@
                             </figcaption>
                         </figure>
 -->
-          </div>
+                    </div>
 
-          <!-- Left and right controls -->
-          <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-            <span class="glyphicon glyphicon-chevron-left"></span>
-            <span class="sr-only">Previous</span>
-          </a>
-          <a class="right carousel-control" href="#myCarousel" data-slide="next">
-            <span class="glyphicon glyphicon-chevron-right"></span>
-            <span class="sr-only">Next</span>
-          </a>
+                    <!-- Left and right controls -->
+                    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                            <span class="glyphicon glyphicon-chevron-left"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                            <span class="glyphicon glyphicon-chevron-right"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <h3 class="mission-vision-header"><strong>Vision</strong></h3>
+                <hr/>
+                <p>To achieve "World Class Excellence in Information and Communication Technology".</p>
+                <h3 class="mission-vision-header"><strong>Mission</strong></h3>
+                <hr/>
+                <ul>
+                    <li style="text-align: justify; font-size: medium;">To impart Information Technology education to students and future leaders.</li>
+                    <li style="text-align: justify; font-size: medium;">To establish Center of Excellences in Information Technology.</li>
+                    <li style="text-align: justify; font-size: medium;">To engage in cutting edge technology research to meet the current needs and future challenges of India and the world at large.</li>
+                </ul>
+            </div>
         </div>
-      </div>
-      <div class="col-md-4">
-        <h3 class="mission-vision-header"><strong>Vision</strong></h3>
-        <hr />
-        <p>To achieve "World Class Excellence in Information and Communication Technology".</p>
-        <h3 class="mission-vision-header"><strong>Mission</strong></h3>
-        <hr />
-        <ul>
-          <li style="text-align: justify; font-size: medium;">To impart Information Technology education to students and future leaders.</li>
-          <li style="text-align: justify; font-size: medium;">To establish Center of Excellences in Information Technology.</li>
-          <li style="text-align: justify; font-size: medium;">To engage in cutting edge technology research to meet the current needs and future challenges of India and the world at large.</li>
-        </ul>
-      </div>
-    </div>
-    <br />
-    <div class="row row-flex">
-      <div id="events" class="col-md-4">
-        <a title="Explore more Events" href="/events" style="text-decoration: none;">
-          <h5 class="card-name">
-            Events
-          </h5>
-        </a>
-        <hr />
-        <div id="events-card">
-        </div>
-      </div>
-      <div id="news" class="col-md-4">
-        <a title="Explore more News" href="/news" style="text-decoration: none;">
-          <h5 class="card-name">
-            News
-          </h5>
-        </a>
-        <hr />
-        <!-- <div>
+        <br/>
+        <div class="row row-flex">
+            <div id="events" class="col-md-4">
+                <a title="Explore more Events" href="/events" style="text-decoration: none;">
+                    <h5 class="card-name">
+                        Events
+                    </h5>
+                </a>
+                <hr/>
+                <div id="events-card">
+                </div>
+            </div>
+            <div id="news" class="col-md-4">
+                <a title="Explore more News" href="/news" style="text-decoration: none;">
+                    <h5 class="card-name">
+                        News
+                    </h5>
+                </a>
+                <hr/>
+                <!-- <div>
                         <a style="text-decoration: none;" href="downloads/iiitt-rank.pdf" target="_blank" >
                         <h5 style="text-align: left; color: #4caf50;">
                             Opening and Closing Ranks in IIIT Tiruchirappalli
@@ -503,25 +490,25 @@
                         </a>
                     </div>
                     <hr/>-->
-        <div id="news-card">
+                <div id="news-card">
+                </div>
+            </div>
+            <div id="notices" class="col-md-4">
+                <a title="Explore more Notices" href="/notices" style="text-decoration: none;">
+                    <h5 class="card-name">
+                        Notices
+                    </h5>
+                </a>
+                <hr/>
+                <div id="notices-card"></div>
+            </div>
         </div>
-      </div>
-      <div id="notices" class="col-md-4">
-        <a title="Explore more Notices" href="/notices" style="text-decoration: none;">
-          <h5 class="card-name">
-            Notices
-          </h5>
-        </a>
-        <hr />
-        <div id="notices-card"></div>
-      </div>
-    </div>
-    <br />
-  </main>
+        <br/>
+    </main>
 
-  <footer class="text-center">
-    Copyright &copy; by Web Devs Club, IIITT
-  </footer>
+    <footer class="text-center">
+        Copyright &copy; by Web Devs Club, IIITT
+    </footer>
 
 </body>
 

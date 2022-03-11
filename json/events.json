@@ -1,5 +1,26 @@
 {
-    "Orientation Program Invitation December 2021":{
+    "A Faculty Development Programme (FDP) on 'Understanding Research and Statistical Analysis Using SPSS - Online Mode' from 7th - 16th March, 2022 organized by Electronics and ICT Academy, NIT Warangal in association with Indian Institute of Information Technology Tiruchirappalli":{
+        "description": "A Faculty Development Programme (FDP) on 'Understanding Research and Statistical Analysis Using SPSS - Online Mode' from 7th - 16th March, 2022 organized by Electronics and ICT Academy, NIT Warangal in association with Indian Institute of Information Technology Tiruchirappalli",
+        "url": "downloads/events/EICTBROCHURE2022-IIITT-Revised-RINSHU.pdf",
+        "isNew" : true
+    }, 
+    
+    "Eigth issue of e-magazine 'AIKYAM' (13 January 2022)":{
+        "description": "Eigth issue of e-magazine 'AIKYAM' (13 January 2022)",
+        "url": "https://drive.google.com/file/d/1wQJl5jCV1aLQcUFy00d686LdvB_GXs7l/view?usp=sharing",
+        "isNew" : true
+    }, 
+	"AIKYAM - New Year Calendar 2022":{
+        "description": "AIKYAM - New Year Calendar 2022",
+        "url": "downloads/calendar/New_Year_Calendar_2022.pdf",
+        "isNew" : true
+    },
+	"Workshop on Advanced Industrial Automation Training for Engineering Education and Research (Online Mode)":{
+        "description": "Workshop on Advanced Industrial Automation Training for Engineering Education and Research (Online Mode)",
+        "url": "downloads/events/Advanced_Industrial_Automation_Training_Workshop.pdf",
+        "isNew" : true
+    },
+	"Orientation Program Invitation December 2021":{
         "description": "Orientation Program Invitation December 2021",
         "url": "downloads/events/orientation_program_Invitation2021.pdf",
         "isNew" : true

@@ -1,6 +1,114 @@
 {
-	"New tender notification: For Providing Food Catering Services":{
-        "description": "New tender notification: For Providing Food Catering Services",
+  	"Tender Extension Notice: For Providing  Food Catering  services": {
+        "description": "Tender Extension Notice: For Providing  Food Catering  services",
+        "url": "/downloads/tenders/Tender_Extension_Notice_04MAR2022.pdf",
+        "isNew": true
+    },
+
+	"New Tender Notification: FOR HIRING OF VEHICLE":{
+        "description": "New Tender Notification: FOR HIRING OF VEHICLE",
+        "url": "tender",
+        "isNew" : true
+    },
+
+	"New Tender Notification: For purchasing Lab Equipment - ECE Department":{
+        "description": "New Tender Notification: For purchasing Lab Equipment - ECE Department",
+        "url": "tender",
+        "isNew" : true
+    },
+	
+	"New Tender Notification: For Providing Food Catering Services":{
+        "description": "New Tender Notification: For Providing Food Catering Services",
+        "url": "tender",
+        "isNew" : true
+    },
+
+	"New Tender Notification: For purchasing Desktop Computers - CSE Department":{
+        "description": "New Tender Notification: For purchasing Desktop Computers - CSE Department",
+        "url": "tender",
+        "isNew" : true
+    },
+
+	"New Tender Notification: For supplying Hostel Furniture":{
+        "description": "New Tender Notification: For supplying Hostel Furniture",
+        "url": "tender",
+        "isNew" : true
+    },
+
+	"New Tender Notification: For purchasing Lab Furniture - MECH Department":{
+        "description": "New Tender Notification: For purchasing Lab Furniture - MECH Department",
+        "url": "tender",
+        "isNew" : true
+    },
+
+	"Tender Cancellation Notice": {
+        "description": "Tender Cancellation Notice ",
+        "url": "/downloads/tenders/Tender_Cancellation_Notice_08FEB2022.pdf",
+        "isNew": true
+    },
+
+	"Tender Extension Notice: For Providing Hostel Furniture": {
+        "description": "Tender Extension Notice: For Providing Hostel Furniture",
+        "url": "/downloads/tenders/Tender_Extension_Notice_02FEB2022.pdf",
+        "isNew": true
+    },
+
+	"Tender Extension Notice: For Providing Hostel Furniture and Desktop Computers": {
+        "description": "Tender Extension Notice: For Providing Hostel Furniture and Desktop Computers",
+        "url": "/downloads/tenders/Tender_Extension_Notice_27JAN2022.pdf",
+        "isNew": true
+    },
+
+	"NOTIFICATION FOR THE RECRUITMENT OF NON-TEACHING POSITIONS (On Deputation)": {
+    "description": "NOTIFICATION FOR THE RECRUITMENT OF NON-TEACHING POSITIONS (On Deputation)",
+    "url": "/downloads/notices/NOTIFICATION_RECRUITMENT_NON_TEACHING_POSITIONS_(On Deputation).pdf",
+    "isNew": true
+    },
+    
+    "New Tender Notification: For supplying Lab Furniture":{
+        "description": "New Tender Notification: For supplying Lab Furniture",
+        "url": "tender",
+        "isNew" : true
+    },
+	
+	"New Tender Notification: For purchasing Lab Equipment - Physics Department":{
+        "description": "New Tender Notification: For purchasing Lab Equipment - Physics Department",
+        "url": "tender",
+        "isNew" : true
+    },
+
+	"New Tender Notification: For supplying Hostel Furniture":{
+        "description": "New Tender Notification: For supplying Hostel Furniture",
+        "url": "tender",
+        "isNew" : true
+    },
+
+	"New Tender Notification: For purchasing Lab Furniture - MECH Department":{
+        "description": "New Tender Notification: For purchasing Lab Furniture - MECH Department",
+        "url": "tender",
+        "isNew" : true
+    },
+
+	"New Tender Notification: For purchasing Lab Equipment - ECE Department":{
+        "description": "New Tender Notification: For purchasing Lab Equipment - ECE Department",
+        "url": "tender",
+        "isNew" : true
+    },
+
+	"New Tender Notification: For purchasing Desktop Computers - CSE Department":{
+        "description": "New Tender Notification: For purchasing Desktop Computers - CSE Department",
+        "url": "tender",
+        "isNew" : true
+    },
+	
+	"Tender Cancellation Notice: For Providing Hostel Furniture dt. 27-11-2021": {
+        "description": "Tender Cancellation Notice: For Providing Hostel Furniture dt. 17-11-2021",
+        "url": "/downloads/tenders/Tender_HF_Cancellation_Notice_24DEC2021.pdf",
+        "isNew": true
+    },
+	
+	"New Tender Notification: For Providing Food Catering Services":{
+        "description": "New Tender Notification: For Providing Food Catering Services",
         "url": "tender",
         "isNew" : true
     },

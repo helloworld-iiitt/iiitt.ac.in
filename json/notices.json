@@ -1,8 +1,44 @@
 ﻿{
-  "End Semester Exam Schedule 2021-22 ODD M.Tech I Semester and Ph.D": {
-    "description": "End Semester Exam Schedule 2021-22 ODD M.Tech I Semester and Ph.D",
-    "url": "/downloads/notices/EndExamSchedule_2021-22_ODD_M.Tech_ISemandPh.D.pdf",
+    "Exam Schedule CT2 2021-22 B.Tech ODD Semester I for 2021-25 Batch": {
+    "description": "Exam Schedule CT2 2021-22 B.Tech ODD Semester I for 2021-25 Batch",
+    "url": "/downloads/notices/CT2_ExamSchedule2021-22_ODD-BTech1styear.pdf",
     "isNew": true
+  },
+
+    "CT1 Exam Schedule 2021-22 EVEN Semester PhD": {
+	"description": "CT1 Exam Schedule 2021-22 EVEN Semester PhD",
+	"url": "/downloads/notices/CT1-ExamSchedule2021-22_EVEN-PhD.pdf",
+	"isNew": true
+    },
+ 
+ 	"CT1 Exam Schedule 2021-22 EVEN Semester MTech": {
+	"description": "CT1 Exam Schedule 2021-22 EVEN Semester MTech",
+	"url": "/downloads/notices/CT1-ExamSchedule2021-22_EVEN-MTech.pdf",
+	"isNew": true
+    },
+ 
+ 	"CT1 Exam Schedule 2021-22 EVEN Semester BTech": {
+	"description": "CT1 Exam Schedule 2021-22 EVEN Semester BTech",
+	"url": "/downloads/notices/CT1-ExamSchedule2021-22_EVEN-BTech.pdf",
+	"isNew": true
+    },
+
+    "Exam Schedule CT1 2021-22 B.Tech ODD Semester I for 2021-25 Batch": {
+    "description": "Exam Schedule CT1 2021-22 B.Tech ODD Semester I for 2021-25 Batch",
+    "url": "/downloads/notices/ExamSchedule_CT12021-22_ODDAY2021-25.pdf",
+    "isNew": false
+  },
+    
+    "Revised UG Fee Structure AY 2021-22 EVEN Semester": {
+    "description": "Revised UG Fee Structure AY 2021-22 EVEN Semester",
+    "url": "/downloads/notices/Revised_UG_Fee_Structure_AY_2021_22_EVEN_SEM.pdf",
+    "isNew": true
+  },
+    
+    "End Semester Exam Schedule 2021-22 ODD M.Tech I Semester and Ph.D": {
+	"description": "End Semester Exam Schedule 2021-22 ODD M.Tech I Semester and Ph.D",
+	"url": "/downloads/notices/EndExamSchedule_2021-22_ODD_M.Tech_ISemandPh.D.pdf",
+	"isNew": true
   },
 
   "Lab End Semester Exam Schedule 2021-22 ODD M.Tech I Semester": {
