@@ -1,127 +1,162 @@
 {
+	"Notification for the engagement of Auditor": {
+        "description": "Notification for the engagement of Auditor",
+        "url": "/downloads/tenders/Tender_Notifice_Auditor_23FEB2023.pdf",
+        "isNew":false
+     },
+
+	"Tender Notification for purchasing THERMAL EVAPORATOR – PHYSICS": {
+        "description": "Tender Notification for purchasing THERMAL EVAPORATOR – PHYSICS",
+        "url": "/downloads/tenders/Tender_notification_PhysicsLab_Equipment.pdf",
+        "isNew":false
+     },
 	 	
+	"New Tender for hiring of Vehicle": {
+        "description": "New Tender for hiring of vehicle",
+        "url": "",
+        "isNew":false
+    },
+
+	 "Tender Cancellation Notice: For hiring of vehicle dated 18-07-2022": {
+        "description": "Tender Cancellation Notice: For hiring of vehicle dated 18-07-2022",
+        "url": "",
+        "isNew":false
+    }, 
+
+	"New Tender for hiring of Vehicle": {
+        "description": "New Tender for hiring of vehicle",
+        "url": "",
+        "isNew": false
+    },	
+	
+	"New Tender for providing Food Catering Services at IIIT Tiruchirappalli, Tamil Nadu": {
+        "description": "New Tender for providing Food Catering Services at IIIT Tiruchirappalli, Tamil Nadu",
+        "url": "",
+        "isNew": false
+    },
+
 	"Tender for hiring of vehicle at IIIT Tiruchirappalli, Tamil Nadu": {
         "description": "Tender for hiring of vehicle at IIIT Tiruchirappalli, Tamil Nadu",
-        "url": "/downloads/tenders/Tender_Notice_Vehicle_11FEB2022.pdf",
+        "url": "",
         "isNew": false
     },
 
 	"Tender for purchasing Lab Equipment - ECE department at IIIT Tiruchirappalli, Tamil Nadu": {
         "description": "Tender for purchasing Lab Equipment - ECE department at IIIT Tiruchirappalli, Tamil Nadu",
-        "url": "/downloads/tenders/Tender_Notice_Lab_Equipment_ECE_11FEB2022.pdf",
+        "url": "",
         "isNew": false
     },
 	"Tender for purchasing Desktop Computers - CSE department at IIIT Tiruchirappalli, Tamil Nadu": {
         "description": "Tender for purchasing Desktop Computers - CSE department at IIIT Tiruchirappalli, Tamil Nadu",
-        "url": "/downloads/tenders/Tender_Notice_Desktop_Computers_CSE_11FEB2022.pdf",
+        "url": "",
         "isNew": false
     },
 
 	"Tender for supplying Hostel Furniture at IIIT Tiruchirappalli, Tamil Nadu": {
         "description": "Tender for supplying Hostel Furniture at IIIT Tiruchirappalli, Tamil Nadu",
-        "url": "/downloads/tenders/Tender_Notice_Hostel_Furniture_11FEB2022.pdf",
+        "url": "",
         "isNew": false
     },
     
 	"Tender for purchasing Lab Furniture - MECH department at IIIT Tiruchirappalli, Tamil Nadu": {
         "description": "Tender for purchasing Lab Furniture - MECH department at IIIT Tiruchirappalli, Tamil Nadu",
-        "url": "/downloads/tenders/Tender_Notice_Lab_Furniture_Mech_11FEB2022.pdf",
+        "url": "",
         "isNew": false
     },
 
 	"Tender for purchasing Lab Equipment - Physics department at IIIT Tiruchirappalli, Tamil Nadu": {
         "description": "Tender for purchasing Lab Equipment - Physics department at IIIT Tiruchirappalli, Tamil Nadu",
-        "url": "/downloads/tenders/Tender_Notice_Lab_Equipment_Physics_25DEC2021.pdf",
+        "url": "",
         "isNew": false
     },
 
 	"Tender for supplying Lab Furniture at IIIT Tiruchirappalli, Tamil Nadu": {
         "description": "Tender for supplying Lab Furniture at IIIT Tiruchirappalli, Tamil Nadu",
-        "url": "/downloads/tenders/Tender_Notice_Lab_Furniture_25DEC2021.pdf",
+        "url": "",
         "isNew": false
     },
 
 	"Tender for Medical Insurance for employees at IIIT Tiruchirappalli, Tamil Nadu": {
         "description": "Tender for Medical Insurance for employees at IIIT Tiruchirappalli, Tamil Nadu",
-        "url": "/downloads/tenders/Tender_notification_Employees_Medical_Insurance_24122021.pdf",
+        "url": "",
         "isNew": false
     },
 
 	"Tender for providing Food Catering Services at IIIT Tiruchirappalli, Tamil Nadu": {
         "description": "Tender for providing Food Catering Services at IIIT Tiruchirappalli, Tamil Nadu",
-        "url": "/downloads/tenders/Tender_notification_Food_Catering_Services_02122021.pdf",
+        "url": "",
         "isNew": false
     },
 
     "FOR PROVIDING FOOD CATERING SERVICES AT IIIT TIRUCHIRAPPALLI CAMPUS, SETHURAPATTI, TIRUCHIRAPPALLI": {
         "description": "FOR PROVIDING FOOD CATERING SERVICES AT IIIT TIRUCHIRAPPALLI CAMPUS, SETHURAPATTI, TIRUCHIRAPPALLI",
-        "url": "/downloads/tenders/Tender_notification_Food_Catering_Services_28102021.pdf",
+        "url": "",
         "isNew": false
     },
 
 	"Tender for purchasing Lab Equipment - ECE department at IIIT Tiruchirappalli, Tamil Nadu": {
         "description": "Tender for purchasing Lab Equipment - ECE department at IIIT Tiruchirappalli, Tamil Nadu",
-        "url": "/downloads/tenders/Tender_Notice_Lab_Equipment_ECE_24DEC2021.pdf",
+        "url": "",
         "isNew": false
     },
 
 	"Tender for purchasing Desktop Computers - CSE department at IIIT Tiruchirappalli, Tamil Nadu": {
         "description": "Tender for purchasing Desktop Computers - CSE department at IIIT Tiruchirappalli, Tamil Nadu",
-        "url": "/downloads/tenders/Tender_Notice_Desktop_Computers_CSE_24DEC2021.pdf",
+        "url": "",
         "isNew": false
     },
 
 	"Tender for supplying Hostel Furniture at IIIT Tiruchirappalli, Tamil Nadu": {
         "description": "Tender for supplying Hostel Furniture at IIIT Tiruchirappalli, Tamil Nadu",
-        "url": "/downloads/tenders/Tender_Notice_Hostel_Furniture_24DEC2021.pdf",
+        "url": "",
         "isNew": false
     },
     
 	"Tender for purchasing Lab Furniture - MECH department at IIIT Tiruchirappalli, Tamil Nadu": {
         "description": "Tender for purchasing Lab Furniture - MECH department at IIIT Tiruchirappalli, Tamil Nadu",
-        "url": "/downloads/tenders/Tender_Notice_Lab_Furniture_Mech_24DEC2021.pdf",
+        "url": "",
         "isNew": false
     },
 
 	"Corrigendum: Kitchen Equipment, Food Catering, Housekeeping tenders": {
         "description": "Corrigendum: Kitchen Equipment, Food Catering, Housekeeping tenders",
-        "url": "/downloads/tenders/CORRIGENDUM_foodcatering_kitchenequipment_housekeeping.pdf",
+        "url": "",
         "isNew": false
     },
     
     "Tender for supply of Dining Tables at IIIT Tiruchirappalli, Tamil Nadu": {
         "description": "Tender for supply of Dining Tables at IIIT Tiruchirappalli, Tamil Nadu",
-        "url": "/downloads/tenders/Tender_for_supply_of_Dining_Tables_IIITT.pdf",
+        "url": "",
         "isNew": false
     },
 
     "Tender for supply, installation, placing and positioning and making operational of hostel furniture (steel cot, study table and metal chair) at IIIT Tiruchirappalli, Tamil Nadu": {
         "description": "Tender for supply, installation, placing and positioning and making operational of hostel furniture (steel cot, study table and metal chair) at IIIT Tiruchirappalli, Tamil Nadu",
-        "url": "/downloads/tenders/Tender_for_supply_of_Hostel_Furniture_IIITT.pdf",
+        "url": "",
         "isNew": false
     },
     
     "FOR SUPPLY, INSTALLATION, TESTING AND COMMISSIONING OF KITCHEN EQUIPMENT AT IIIT TIRUCHIRAPPALLI, TAMIL NADU": {
         "description": "FOR SUPPLY, INSTALLATION, TESTING AND COMMISSIONING OF KITCHEN EQUIPMENT AT IIIT TIRUCHIRAPPALLI, TAMIL NADU",
-        "url": "/downloads/tenders/Tender_for_supply_installation_testing_and_commissioning_of_Kitchen_equipment_IIITT_29102021.pdf",
+        "url": "",
         "isNew": false
     },
 
     "FOR PROVIDING HOUSEKEEPING SERVICES AT IIIT TIRUCHIRAPPALLI CAMPUS, SETHURAPATTI, TIRUCHIRAPPALLI": {
         "description": "FOR PROVIDING HOUSEKEEPING SERVICES AT IIIT TIRUCHIRAPPALLI CAMPUS, SETHURAPATTI, TIRUCHIRAPPALLI",
-        "url": "/downloads/tenders/Tender_providing_Housekeeping_Services_29_10_2021.pdf",
+        "url": "",
         "isNew": false
     },
 
     "Custom made Medical Insurance Policy for the students of IIITT: Extension Notice: Last Date: 22/Sept/2021 5:00PM": {
         "description": "Custom made Medical Insurance Policy for the students of IIITT: Extension Notice: Last Date: 22/Sept/2021 5:00PM",
-        "url": "/downloads/tenders/extension_notice_med_ins_stud_27Aug21_tender.pdf",
+        "url": "",
         "isNew": false
     },    
 
     "Custom made Medical Insurance Policy for the students of IIITT: Last Date: 16/Sept/2021 5:00PM": {
         "description": "Custom made Medical Insurance Policy for the students of IIITT: Last Date: 16/Sept/2021 5:00PM",
-        "url": "/downloads/tenders/med_ins_stud_27Aug21_tender.pdf",
+        "url": "",
         "isNew": false
     },
     

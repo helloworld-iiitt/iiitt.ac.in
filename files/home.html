@@ -26,6 +26,7 @@
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
   <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
+
   <!--
         Title of the Page
         -->
@@ -44,8 +45,10 @@
   <script type="text/javascript" src="js/jquery-ui.min.js"></script>
   <script type="text/javascript" src="js/bootstrap.js"></script>
   <link rel="stylesheet" href="css/style.css" />
+<link rel="stylesheet" href="css/flipdown.css" />
   <link id="favicon" rel="shortcut icon" href="images/favicon.ico">
   <script src="js/script.js"></script>
+<script src="js/flipdown.js"></script>
   <style>
     .blink {
       font-size: 1.2em;
@@ -88,6 +91,15 @@
       /*    height: 90px;    */
       overflow: hidden;
     }
+  /*
+  .p {
+  text-align: center;
+  font-size: 40px;
+  margin-top: 0px;
+  color:white;
+  
+  }
+*/
   </style>
 </head>
 
@@ -146,7 +158,8 @@
               <li><a class="tender-btn" href="/fc" data-toggle="collapse" data-target="#navbar-collapse-menu">FC</a></li>
               <li><a class="tender-btn" href="/bwc" data-toggle="collapse" data-target="#navbar-collapse-menu">BwC</a></li>
               <li><a class="mentor-director-message" href="/rti" data-toggle="collapse" data-target="#navbar-collapse-menu">RTI</a></li>
-              <li><a class="industry-partners-btn" href="/partners" data-toggle="collapse" data-target="#navbar-collapse-menu">Industry Partners</a></li>
+            <li><a class="tender-btn" href="/pio" data-toggle="collapse" data-target="#navbar-collapse-menu">PIO</a></li>  
+            <li><a class="industry-partners-btn" href="/partners" data-toggle="collapse" data-target="#navbar-collapse-menu">Industry Partners</a></li>
               <li role="separator" class="divider"></li>
             </ul>
           </li>
@@ -238,6 +251,7 @@
               <li role="separator" class="divider"></li>
               <li><a class="festivals-btn" href="/festivals" data-toggle="collapse" data-target="#navbar-collapse-menu">Festivals </a></li>
               <li><a class="clubs-btn" href="/clubs" data-toggle="collapse" data-target="#navbar-collapse-menu">Clubs</a></li>
+            <li><a class="clubs-btn" href="/hostel" data-toggle="collapse" data-target="#navbar-collapse-menu">Hostel</a></li>
               <!--
                             <li><a class="facilities-btn" href="/facilities" data-toggle="collapse" data-target="#navbar-collapse-menu">Facilities</a></li>
                             <li><a class="hostel-mess-btn" href="/hostel-mess" data-toggle="collapse" data-target="#navbar-collapse-menu">Hostel and Mess</a></li>
@@ -264,7 +278,24 @@
             <a title="Faculty Development Program" href="/vla" role="button" aria-haspopup="true" aria-expanded="false">Virtual Academy</a>
           </li>
         </ul>
-        <ul class="nav navbar-nav navbar-right">
+      <!--
+      <br>
+      <br>
+      <center>      
+      <h1> <a href="/Convocation2022"> Convocation 2022</a></h1> 
+      
+      <div id="flipdown" class="flipdown" ></div></center>
+         <script>
+// Set the date we're counting down to
+var countDownDate = new Date("Oct 15, 2022 11:00:00").getTime();
+var flipdown = new FlipDown(countDownDate);
+         flipdown.start();
+         flipdown.ifEnded(() => {
+  console.log('The countdown has ended!');
+});
+</script>
+          -->
+       <ul class="nav navbar-nav navbar-right">
           <li><a title="Follow us on LinkedIn" href="https://www.linkedin.com/school/iiitt/" target="_blank" data-toggle="collapse" data-target="#navbar-collapse-menu"><i class="fa fa-linkedin"></i></a></li>
           <li><a title="Like us on Facebook" href="https://facebook.com/IIITTrichy" target="_blank" data-toggle="collapse" data-target="#navbar-collapse-menu"><i class="fa fa-facebook"></i></a></li>
           <li><a title="Follow us on Twitter" href="https://twitter.com/IIITTrichy" target="_blank" data-toggle="collapse" data-target="#navbar-collapse-menu"><i class="fa fa-twitter"></i></a></li>
@@ -280,13 +311,62 @@
     <!-- /.container-fluid -->
   </nav>
   <marquee class="blink">
-    <!--<a class="blink" href="downloads/notices/NOTIFICATION_RECRUITMENT_NON_TEACHING_POSITIONS_(On Deputation).pdf"> NOTIFICATION FOR THE RECRUITMENT OF NON-TEACHING POSITIONS (On Deputation) |</a>-->
+   <a class="blink" href="downloads/news/ICSSR_RA_Anoop.pdf"> Call for the interview under ICSSR Sponsored Project | </a>
+  <a class="blink" href="downloads/notices/Conv2023_registrationform.pdf"> Convocation 2023 - Instructions for registration | </a>
+  <a class="blink" href="downloads/notices/PhD_JULY2023_Shortlisted.pdf"> Ph.D. Admission July 2023 - Shortlisted candidates | </a>
+    <a class="blink" href="downloads/tenders/Tender_Extension_Notice_14JULY2023.pdf"> Tender Extension Notice | </a>
+  <a class="blink" href="downloads/tenders/Tender_Notification_OWCMachine_21JUN2023.pdf"> Tender Notification for providing Organic Waste Composting Machine | </a>
+   <a class="blink" href="downloads/tenders/Tender_Notification_Mess_JUN2023_Corrigendum.pdf"> Tender Notification for Mess Services - Corrigendum | </a>
+  <a class="blink" href="downloads/tenders/Tender_Notification_Mess_JUN2023_revised.pdf"> Tender Notification for Mess Services | </a>
+  <!--
+  <a class="blink" href="downloads/tenders/Tender_Extension_Notice_30MAY2023.pdf"> Tender Extension Notice | </a>
+    <a class="blink" href="downloads/tenders/Tender_Notice_GH_Elevator_09MAY2023.pdf"> Tender Notification for Elevator | </a>
+      <a class="blink" href="downloads/tenders/Tender_Notification_Cafeteria_Stationery_APR2023.pdf"> Tender Notification for Cafeteria and Stationery | </a>
+  <a class="blink" href="downloads/tenders/Tender_Notification_Furnitures_APR2023.pdf"> Tender Notification for purchasing Furnitures | </a>
+    <a class="blink" href="downloads/tenders/Tender_Notification_Conference_Table_APR2023.pdf"> Tender Notification for purchasing Conference Table | </a>-->
+ <!-- <a class="blink" href="/downloads/events/SERB_AV_ECE_JULY2023.pdf">SERB sponsored High-End Workshop (Kaaryashala) under “ABHYAAS” on “Machine Learning based high performance & low power VLSI System Design and Testing using FPGA (10-07-2023 to 16-07-2023) </a>-->
+  <!--<a class="blink" href="downloads/tenders/Tender_Extension_Notice_22MAR2023.pdf"> Tender Extension Notice for the engagement of Auditor | </a>
+  <a class="blink" href="/downloads/news/Advertisement_ICSSR_RA.pdf"> Call for the interview under ICSSR Sponsored Project | </a>
+  <a class="blink" href="/downloads/tenders/Tender_Notifice_Auditor_23FEB2023.pdf"> Notification for the engagement of Auditor | </a>
+   <a class="blink" href="/downloads/events/Research_Facility_Training_23Mar2023.pdf">DST-SERB Sponsored One Day Research Facility Training on “Metal 3D Printing” (Date: 23.03.2023) |  </a>
+   <a class="blink" href="/downloads/events/Faculty_Workshop_24Mar2023.pdf">DST-SERB Sponsored One Day Workshop on “3D Printing of Smart Materials”(Date: 24.03.2023) </a>-->
+  <!--<a class="blink" href="downloads/tenders/Tender_Extension_Notice_06FEB2023.pdf"> Tender Extension Notice for purchasing THERMAL EVAPORATOR – PHYSICS LAB | </a>-->
+   <!--<a class="blink" href="/downloads/events/RepublicDayCelebration26JAN2023.pdf"> Republic Day Celebration - Circular |</a>-->
+  <!-- <a class="blink" href="/downloads/news/SCHEDULE_WT_INTERVIEW_website_copy.pdf">Faculty Recruitment - Provisionally shortlisted candidates for Written test/Seminar/Interview - </a>
+  <a class="blink" href="/downloads/news/FR2023_WrittenTest_Syllabus.pdf">Syllabus for the Written test |</a>-->
+ <!-- <a class="blink" href="downloads/events/Brochure_Malware_workshop.pdf">DST-SERB ACCELERATE VIGYAN SCHEME Sponsored High End Workshop On “Machine Learning For Cyber Security” from 18-01-2023 to 24-01-2023 |</a>-->
+ <!-- <a class="blink" href="/downloads/tenders/Tender_notification_PhysicsLab_Equipment.pdf">Tender Notification for purchasing THERMAL EVAPORATOR – PHYSICS |</a>-->
+  
+  
+   <!-- <a class="blink" href="http://phdadmission.iiitt.ac.in">PhD Applications (Last Date: 31 May 2022 23:59pm) | </a>-->
+ <!--<a class="blink" href="downloads/notices/TF_walk_in_interview_02OCT2022.pdf">WALK-IN-INTERVIEW FOR TEMPORARY FACULTY - </a>-->
+ <!-- <a class="blink" href="downloads/events/Batch2022_26_Orientation_schedule.pdf">Orientation Programme Schedule for I year B.Tech. students | </a>
+  <a class="blink" href="downloads/admission/BTech_Reporting_Details_2022_23.pdf"> B.Tech. ONLINE Reporting Details 2022-23 - Last Date for ONLINE REPORTING - 09-11-2022 |</a>-->
+ <!-- <a class="blink" href="downloads/news/Rolling_IIITT_FacAdvt_NOV2022.pdf"> ROLLING ADVERTISEMENT FOR FACULTY RECRUITMENT (Advt. No. IIITT/Rect./Faculty/2022/11-01)|</a> -->
+  <!--<a class="blink" href="downloads/news/NOTIFICATION_RECRUITMENT_REGISTRAR_On_Deputation.pdf">NOTIFICATION FOR THE RECRUITMENT OF REGISTRAR (On Deputation)|</a> -->
+  <!-- <a class="blink" href="downloads/notices/Physics_JRF_Shortlisted_Interview.pdf">Physics - SERB-SPG Sponsored Project - Online Interview for JRF Position |</a>-->
+  <!--<a class="blink" href="downloads/admission/Additional_instructions_first_year2022_23.pdf">Additional Instructions for B.Tech. ONLINE REPORTING 2022-23 ( CSAB Special Round )|</a>-->
+  <!--<a class="blink" href="downloads/IIITT_Placement_Batch2023.pdf"> Placement Details of Batch 2023 </a>-->
+  <!--<a class="blink" href="downloads/events/Unity_Run.pdf"> Unity Run 2022 |</a>-->
+  <!--
+  <a class="blink" href="/HarGharTrianga"> IIITT - Har Ghar Trianga 13th-15th August 2022 |</a>
+  <a class="blink" href="downloads/events/Circular_76th_Independence_Day_Celebration.pdf"> Azadi ka Amrit Mahotsav-Independence Day Celebration @IIITT |</a>
+ 
+  <a class="blink" href="downloads/admission/MTech_online_reporting_details_2022.pdf">M.Tech Online reporting details |</a>
+  <a class="blink" href="downloads/events/IYD22_invitation.pdf"> Celebration of International Yoga Day 2022 |</a>
+  <a class="blink" href="downloads/events/Yoga_workshop_June2022.pdf"> "Enlighten Within" - A 7-day yoga workshop |</a>
+  <a class="blink" href="https://ccmt.admissions.nic.in/"> CCMT 2022 | </a>
+  <a class="blink" href="https://csab.nic.in/"> CSAB 2022 | </a>
+  <a class="blink" href="downloads/notices/PhD_July2022_selected_candidates.pdf"> Ph.D Admission July 2022 - List of selected candidates</a>
+-->
+  <!--   <a class="blink" href="downloads/notices/NOTIFICATION_RECRUITMENT_NON_TEACHING_POSITIONS_(On Deputation)_04APR2022.pdf"> NOTIFICATION FOR THE RECRUITMENT OF NON-TEACHING POSITIONS (On Deputation) |</a>-->
   <!--<a class="blink" href="downloads/tenders/Tender_Cancellation_Notice_08FEB2022.pdf"> Tender Cancellation Notice |</a>  -->
   <!--<a class="blink" href="downloads/tenders/Tender_Extension_Notice_02FEB2022.pdf"> Tender Extension notice for Hostel Furniture |</a>  -->
-  <a class="blink" href="downloads/tenders/Tender_Extension_Notice_04MAR2022.pdf"> Tender extension notice for providing food catering services |</a>
+      <!--  <a class="blink" href="https://www.youtube.com/watch?v=FLrObSpHB5U"> IIITT  celebrates #RedFortFestival #BharatBhagyaVidhata, world’s largest cultural extravaganza March 25 until April 3, 2022 at the Red Fort | </a>-->
+    <!--<a class="blink" href="/tender"> New Tender notification for hiring of vehicle|</a>-->
     <!--<a class="blink" href="tender"> New tender notification for Medical Insurance, Lab Equipments, Hostel Furniture, Lab Furniture |</a>-->
-    <a class="blink" href="/downloads/notices/IIITT_Placement_Details_Batch2022.pdf">Placement details of current final year students</a>
-    <!--<a class="blink" href="downloads/admission/BTechReporting_details_2021-22-updated71221.pdf">Details of ONLINE Reporting Process for I semester (2021-22) |</a>  -->
+    <!--<a class="blink" href="/downloads/notices/IIITT_Placement_Details_Batch2022.pdf">Placement details of current final year students</a>-->
+    <!--<a class="blink" href="downloads/admission/BTechReporting_details_2021-22-update71221.pdf">Details of ONLINE Reporting Process for I semester (2021-22) |</a>  -->
     <!-- <a class="blink" href="downloads/events/Brochure-fdp_251021-291021.pdf">Design, Synthesis and Characterization of Novel Materials - FDP </a> -->
     <!-- <a class="blink" href="downloads/news/advt-AR-Aug2021.pdf">Non-Teaching Recruitment (Aug 21): Assistant Registrar | </a> -->
     <!-- <a class="blink" href="/downloads/admission/M.Tech_Admission_Notice_2021.pdf">Online PI Reporting for M.Tech. provisional admission through CCMT-2021</a> -->
@@ -297,7 +377,6 @@
     <!-- <a class="blink" href="https://ccmt.nic.in/">CCMT-2021 | </a> -->
     <!-- <a class="blink" href="http://couns-promo.mnit.ac.in">CCMT-CCMN-CSAB-DASA Promotions | </a> -->
     <!-- <a class="blink" href="tender">NIT for Engagement of Auditor (Last Date: 21/June/2021 5:00pm | </a> -->
-    <!-- <a class="blink" href="http://phdadmission.iiitt.ac.in">Last date for PhD Applications (21 June 2021 5:00pm, extended due to lockdown) | </a> -->
     <!-- <a class="blink" href="instructions_convocation2021">Convocation registration open now | </a> -->
     <!-- <a class="blink" href="downloads/news/Non-TeachingRecruitment-IIITT_2021May04.pdf">Non-Teaching Recruitment: Registrar and Assistant Registrar | </a> -->
     <!-- <a class="blink" href="downloads/news/COVID-19_Vaccine.pdf">Team IIITT encourages all the students and faculty to take the Jab and win the fight over COVID-19</a> -->
@@ -384,8 +463,10 @@
             <li data-target="#myCarousel" data-slide-to="32"></li>
             <li data-target="#myCarousel" data-slide-to="33"></li>
             <li data-target="#myCarousel" data-slide-to="34"></li>
-
-            <!--                        <li data-target="#myCarousel" data-slide-to="10"></li>-->
+	    <li data-target="#myCarousel" data-slide-to="35"></li>
+	    <li data-target="#myCarousel" data-slide-to="36"></li>
+	    <li data-target="#myCarousel" data-slide-to="37"></li>
+                                   <!--<li data-target="#myCarousel" data-slide-to="10"></li>-->
           </ol>
 
           <!-- Wrapper for slides -->
@@ -406,7 +487,183 @@
             <!--        Free vaccination for all -->
             <!--     </figcaption> -->
             <!-- </figure> -->
- 			<figure class="item active">
+          <!--
+          <div class="container" style="display: inline-block;">  
+  <figure class="item active">
+  <div style="float: left; padding: 1px;">
+    <img src='images/newslide/International_yoga_day_2022.jpeg' width="500" height="500" align="center"/>
+    
+  </div>
+
+  <div style="float: right; padding: 1px;">
+    <img src='images/newslide/IYD22_celebration_photos.png' width="220" height="500" align="center"/>
+    
+  </div>
+  </figure>
+</div>
+     -->
+          <figure class="item active"> 
+           <!-- <figcaption class="text-center carousel-caption">-->
+          <p> <center><h4>NITTTR Chennai signs MoU with IIIT Trichy for strengthening the collaboration during the AkhilBhartiyaShiksha Samagam-2023</center></h4></p>
+          <!-- </figcaption>-->
+            <img class="img-responsive img-center" src="images/IIITT_NITTR_MOU.jpg" style="height: 518px;width: 500px" >           
+          </figure>
+          
+           <figure class="item"> 
+           <!-- <figcaption class="text-center carousel-caption">-->
+          <p> <center><h4>Three Years of NEP-2020- Joint press meet on NEP Anniversary by the Directors and Senior Officials of CEIs and CFTIs- Tamilnadu</center></h4></p>
+          <!-- </figcaption>-->
+            <img class="img-responsive img-center" src="images/NEP_PressMeet2023.jpg" style="height: 518px;width: 800px" >
+           
+          </figure>
+          <figure class="item">
+            
+            <img class="img-responsive img-center" src="images/newslide/ShortVideoCompetition.jpg" style="height: 518px;width: 800px" >
+          </figure>
+          <figure class="item">
+            
+            <img class="img-responsive img-center" src="images/newslide/IYD2023.jpg" style="height: 518px;width: 800px" >
+          </figure>
+          <figure class="item">
+            
+            <img class="img-responsive img-center" src="images/newslide/InstituteDay.png" style="height: 518px;width: 400px" >
+          </figure>
+           <figure class="item">
+            
+            <img class="img-responsive img-center" src="images/newslide/IYM_EBSB.png" style="height: 518px;width: 800px" >
+          </figure>
+          <figure class="item">
+            
+            <img class="img-responsive img-center" src="downloads/events/IF_GH_Handingover.jpeg" style="height: 518px;width: 500px" >
+          </figure>
+          <figure class="item">
+            
+            <img class="img-responsive img-center" src="downloads/events/IF_GH_collage.jpg" style="height: 518px;width: 500px" >
+          </figure>
+          
+          <figure class="item">
+            
+            <img class="img-responsive img-center" src="downloads/events/IF_interaction.jpg" style="height: 518px;width: 500px" >
+          </figure>
+          
+          <figure class="item">
+            
+            <img class="img-responsive img-center" src="images/newslide/EduMinister.jpeg" style="height: 518px;width: 1395px" >
+          </figure>
+          
+          <figure class="item">
+            
+            <img class="img-responsive img-center" src="images/newslide/Newyear2023_greetings.jpg" style="height: 518px;width: 1395px" >
+          </figure>
+          
+            <figure class="item">
+            <b> IIITT celebrates #ParikshaPeCharcha-2023 (PPC-2023)</b>
+            <img class="img-responsive img-center" src="images/newslide/ParikshaPeCharcha2023.jpg" style="height: 518px;width: 1395px" >
+          </figure>
+          
+           <figure class="item">
+            <img class="img-responsive img-center" src="images/MinisterVisitNov2022/Minister_Visit_1.jpeg" style="height: 518px;width: 864px" >
+          </figure>
+          
+          <figure class="item">
+            <img class="img-responsive img-center" src="images/MinisterVisitNov2022/Minister_Visit_2.jpeg" style="height: 518px;width: 864px" >
+          </figure>
+          
+          <figure class="item">
+            <img class="img-responsive img-center" src="images/MinisterVisitNov2022/Minister_Visit_3.jpeg" style="height: 518px;width: 864px" >
+          </figure>
+          
+          <figure class="item">
+            <img class="img-responsive img-center" src="images/MinisterVisitNov2022/Minister_Visit_4.jpeg" style="height: 518px;width: 432px" >
+          </figure>
+          
+          <figure class="item">
+            <img class="img-responsive img-center" src="images/MinisterVisitNov2022/Minister_Visit_5.jpeg" style="height: 518px;width: 864px" >
+          </figure>
+          
+          <figure class="item">
+            <img class="img-responsive img-center" src="images/Convocation2022/1.jpeg" style="height: 518px;width: 864px" >
+          <figcaption class="text-center carousel-caption">
+             Concovation 2022
+               </figcaption>
+          </figure>
+           <figure class="item">
+            <img class="img-responsive img-center" src="images/Convocation2022/2.jpeg" style="height: 518px;width: 864px" >
+          <figcaption class="text-center carousel-caption">
+             Concovation 2022
+               </figcaption>
+          </figure>
+           <figure class="item">
+            <img class="img-responsive img-center" src="images/Convocation2022/3.jpeg" style="height: 518px;width: 864px" >
+          <figcaption class="text-center carousel-caption">
+             Concovation 2022
+               </figcaption>
+          </figure>
+           <figure class="item">
+            <img class="img-responsive img-center" src="images/Convocation2022/4.jpeg" style="height: 518px;width: 864px" >
+          <figcaption class="text-center carousel-caption">
+             Concovation 2022
+               </figcaption>
+          </figure>
+           <figure class="item">
+            <img class="img-responsive img-center" src="images/Convocation2022/5.jpeg" style="height: 518px;width: 864px" >
+          <figcaption class="text-center carousel-caption">
+             Concovation 2022
+               </figcaption>
+          </figure>
+           <figure class="item">
+            <img class="img-responsive img-center" src="images/Convocation2022/6.jpeg" style="height: 518px;width: 864px" >
+          <figcaption class="text-center carousel-caption">
+             Concovation 2022
+               </figcaption>
+          </figure>
+           <figure class="item">
+            <img class="img-responsive img-center" src="images/Convocation2022/7.jpeg" style="height: 518px;width: 864px" >
+          <figcaption class="text-center carousel-caption">
+             Concovation 2022
+               </figcaption>
+          </figure>
+        <!--  
+          <figure class="item">
+            <img class="img-responsive img-center" src="images/newslide/Precaution_Dose_Eng.jpg" style="height: 518px;width: 864px" >
+            <figcaption class="text-center carousel-caption">
+             Celebrating Azadi ka Amrit Mahotsav-COVID Vaccination Amrit Mahotsav (15th July-30th September)
+               </figcaption>
+            </figure>
+
+          <figure class="item">
+            <img class="img-responsive img-center" src="images/newslide/IYD22_celebration_photos.png" style="height: 573px;width: 412px" >
+            <figcaption class="text-center carousel-caption">
+             IIITT - International Yoga Day 2022 Celebration
+               </figcaption>
+            </figure>
+          
+          <figure class="item">
+            <img class="img-responsive img-center" src="images/newslide/International_yoga_day_2022.jpeg" style="height: 467px;width: 1395px" >
+            <figcaption class="text-center carousel-caption">
+             International Yoga Day 2022
+               </figcaption>
+            </figure>
+          
+          
+
+	  <figure class="item">
+            <img class="img-responsive img-center" src="images/newslide/BBV-3.PNG" style="height: 573px;width: 412px" >
+            <figcaption class="text-center carousel-caption">
+              <a href="https://static.pib.gov.in/WriteReadData/specificdocs/documents/2022/mar/doc202232429001.pdf">#RedFortFestival #BharatBhagyaVidhata</a>
+               </figcaption>
+            </figure>
+
+           <figure class="item">
+            <a href="https://innovateindia.mygov.in/ppc-2022/"> Pariksha Pe Charcha 2022 </a>
+               <img class="img-responsive img-center" src="images/newslide/catch_the_rain_banner.jpg" style="height: 565px;width: 1197px" >
+               <figcaption class="text-center carousel-caption">
+               Save Water
+                 <a href="https://innovateindia.mygov.in/ppc-2022/"> Pariksha Pe Charcha 2022 </a>
+               </figcaption>
+            </figure>
+          
+ 			<figure class="item">
             <a href="https://innovateindia.mygov.in/ppc-2022/"> Pariksha Pe Charcha 2022 </a>
                <img class="img-responsive img-center" src="images/newslide/Pariksha_Pe_Charcha.jpg" style="height: 565px;width: 1197px" alt="Pariksha Pe Charcha 2022">
                <figcaption class="text-center carousel-caption">
@@ -455,7 +712,7 @@
                 Azadi kaa Amrit Mahotsav-Let's Sing the National Anthem
               </figcaption>
             </figure>
-
+-->
             <figure class="item">
               <img class="img-responsive img-center" src="images/newslide/mainbuilding.png" style="height: 405px; width: 901px;" alt="">
               <figcaption class="text-center carousel-caption">
@@ -476,7 +733,7 @@
                 Mess Block
               </figcaption>
             </figure>
-
+<!--
             <figure class="item">
               <img class="img-responsive img-center" src="images/newslide/swachhbharat2021.jpg" style="height: 405px; width: 901px;" alt="">
               <figcaption class="text-center carousel-caption">
@@ -659,6 +916,7 @@
                 Sports
               </figcaption>
             </figure>
+          
             <!-- <figure class="item"> -->
             <!--   <img class="img-responsive img-center" src="images/newslide/29.jpg" style="height: 405px; width: 720px;" alt=""> -->
             <!--   <figcaption class="text-center carousel-caption"> -->
@@ -965,7 +1223,7 @@
   </main>
 
   <footer class="text-center">
-    Last Updated: 9:21pm 15/02/2022 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Copyright &copy; by Web Devs Club, IIITT
+    Copyright &copy; by Web Devs Club, IIITT
   </footer>
 
 </body>

@@ -1,26 +1,438 @@
-﻿{
+{
+	"Ph.D. Admission July 2023 - Shortlisted candidates": {
+	"description": "Ph.D. Admission July 2023 - Shortlisted candidates",
+	"url": "/downloads/notices/PhD_JULY2023_Shortlisted.pdf",
+	"isNew": true
+    },
+
+	"Fee Structure - 2023-24 ODD Sem - B.Tech (II yr)": {
+	"description": "Fee Structure  - 2023-24 ODD Sem - B.Tech (II yr)",
+	"url": "/downloads/notices/2023_24_ODD_BTech_II_FeeStructure.pdf",
+	"isNew": true
+    },
+
+	"CT-2 Redo Exam schedule": {
+	"description": "CT-2 Redo Exam schedule",
+	"url": "/downloads/notices/2023_24_Redo_CT2_schedule.pdf",
+	"isNew": true
+    },
+
+	"Ph.D. Admission July 2023 - List of candidates shortlisted for Written Test": {
+	"description": "Ph.D. Admission July 2023 - List of candidates shortlisted for Written Test",
+	"url": "/downloads/notices/PhD_JUL2023_Written_Shortlisted.pdf",
+	"isNew": true
+    },
+
+	"Supplementary Examination Schedule - 2022-23 EVEN Sem B.Tech (I Year)": {
+	"description": "Supplementary Examination Schedule - 2022-23 EVEN Sem B.Tech (I Year)",
+	"url": "/downloads/notices/2022_23_EVEN_BTech(I year)_SUPPLEXAM_Schedule.pdf",
+	"isNew": true
+    },
+
+	"End Semester Examination Schedule - 2022-23 EVEN Sem B.Tech (I Year)": {
+	"description": "End Semester Examination Schedule - 2022-23 EVEN Sem B.Tech (I Year)",
+	"url": "/downloads/notices/2022_23_EVEN_BTech(I year)_ENDSEM_Schedule.pdf",
+	"isNew": true
+    },
+
+	"End Semester Lab Examination Schedule - 2022-23 EVEN Sem B.Tech (I Year)": {
+	"description": "End Semester Lab Examination Schedule - 2022-23 EVEN Sem B.Tech (I Year)",
+	"url": "/downloads/notices/2022_23_EVEN_BTech(I year)_ENDLAB_Schedule.pdf",
+	"isNew": true
+    },
+
+	"CT-1 Redo Exam schedule": {
+	"description": "CT-1 Redo Exam schedule",
+	"url": "/downloads/notices/2023_24_CT1_Redo_scehdule.pdf",
+	"isNew": true
+    },
+
+    "Supplementary Exam Circular - June 2023": {
+	"description": "Supplementary Exam Circular - June 2023",
+	"url": "/downloads/notices/SuppleExam_June2023_circular.pdf",
+	"isNew": true
+    },
+
+	"Fee Structure - 2023-24 ODD Sem ": {
+	"description": "Fee Structure  - 2023-24 ODD Sem",
+	"url": "/downloads/notices/2023_24_ODD_SEM_FeeStructure.pdf",
+	"isNew": true
+    },
+ 
+	"CT2 Schedule - 2022-23 EVEN Sem B.Tech (I Year)": {
+	"description": "CT2 Schedule - 2022-23 EVEN Sem B.Tech (I Year)",
+	"url": "/downloads/notices/2022_23_EVEN_BTech(I year)_CT2_Schedule.pdf",
+	"isNew": true
+    },
+
+	"Academic Calendar - Redo Course 2023-24": {
+	"description": "Academic Calendar - Redo Course 2023-24",
+	"url": "/downloads/notices/Academic_Calendar_Redo_May2023.pdf",
+	"isNew": true
+    },
+
+	"Academic Calendar - 2023-24 ODD Sem ": {
+	"description": "Academic Calendar - 2023-24 ODD Sem",
+	"url": "/downloads/notices/Academic_Calendar_2023_24.pdf",
+	"isNew": true
+    },
+
+	"Redo Course Registration - 2022-23 EVEN Sem ": {
+	"description": "Redo Course Registration - 2022-23 EVEN Sem",
+	"url": "/downloads/notices/2022-23_EVEN_RedoExam_Circular.pdf",
+	"isNew": true
+    },
+
+	"Supplementary Exam Schedule - 2022-23 EVEN Sem ": {
+	"description": "Supplementary Exam Schedule - 2022-23 EVEN Sem",
+	"url": "/downloads/notices/2022_23_EVEN_SuppleExam_Schedule.pdf",
+	"isNew": true
+    },
+
+	"End Sem Exam Schedule - 2022-23 EVEN Sem Ph.D.": {
+	"description": "End Sem Exam Schedule - 2022-23 EVEN Sem Ph.D.",
+	"url": "/downloads/notices/2022_23_EVEN_PhD_EndSem_Schedule.pdf",
+	"isNew": true
+    },
+
+	"End Sem Exam Schedule - 2022-23 EVEN Sem B.Tech (II, III, IV Year)": {
+	"description": "End Sem Exam Schedule - 2022-23 EVEN Sem B.Tech (II, III, IV Year)",
+	"url": "/downloads/notices/2022_23_EVEN_BTech(II,III,IV year)_EndSem_Schedule.pdf",
+	"isNew": true
+    },
+
+	"Ph.D. Viva-Voce Notification of Mr. Balakrishnan K, Full-Time Research Scholar (202315), is scheduled on 03.05.2023": {
+	"description": "Ph.D. Viva-Voce Notification of Mr. Balakrishnan K, Full-Time Research Scholar (202315), is scheduled on 03.05.2023",
+	"url": "/downloads/notices/Viva_Voce_Notification_MAY2023.pdf",
+	"isNew": true
+    },
+
+	"End Sem Project Exam Schedule - 2022-23 EVEN Sem B.Tech (IV Year) & MTech (II year)": {
+	"description": "End Sem Project Exam Schedule - 2022-23 EVEN Sem B.Tech (IV Year) & MTech (II year)",
+	"url": "/downloads/notices/2022_23_EVEN_Project_Schedule.pdf",
+	"isNew": true
+    },
+
+	"CT1 Schedule - 2022-23 EVEN Sem B.Tech (I Year)": {
+	"description": "CT1 Schedule - 2022-23 EVEN Sem B.Tech (I Year)",
+	"url": "/downloads/notices/2022_23_EVEN_BTech(I year)_CT1_Schedule.pdf",
+	"isNew": true
+    },
+
+	"End Sem Lab Exam Schedule - 2022-23 EVEN Sem B.Tech (II, III, IV Year)": {
+	"description": "End Sem Lab Exam Schedule - 2022-23 EVEN Sem B.Tech (II, III, IV Year)",
+	"url": "/downloads/notices/2022_23_EVEN_BTech(II,III,IV year)_LabExam_Schedule.pdf",
+	"isNew": true
+    },
+    "Supplementary Exam Circular - 2022-23 EVEN Sem": {
+	"description": "Supplementary Exam Circular - 2022-23 EVEN Sem",
+	"url": "/downloads/notices/Supplementary_Exam_Circular_April2023.pdf",
+	"isNew": true
+    },
+
+	"CT2 Schedule - 2022-23 EVEN Sem PhD": {
+	"description": "CT2 Schedule - 2022-23 EVEN Sem PhD",
+	"url": "/downloads/notices/2022_23_EVEN_PHD_CT2_Schedule.pdf",
+	"isNew": true
+    },
+
+	"CT2 Schedule - 2022-23 EVEN Sem B.Tech (II, III, IV Year)": {
+	"description": "CT2 Schedule - 2022-23 EVEN Sem B.Tech (II, III, IV Year)",
+	"url": "/downloads/notices/2022_23_EVEN_BTech(II,III,IV year)_CT2_Schedule.pdf",
+	"isNew": true
+    },
+
+	"Fee structure - 2022-23 EVEN Sem (B.Tech I Year)": {
+	"description": "Fee structure - 2022-23 EVEN Sem (B.Tech I Year)",
+	"url": "/downloads/notices/2022_23_EVEN_BTech(I year)_FeeStructure.pdf",
+	"isNew": true
+    }, 
+
+	"Holi Holiday - Circular": {
+	"description": "Holi Holiday - Circular",
+	"url": "/downloads/notices/HolyCircular_06Mar2023.pdf",
+	"isNew": true
+    },
+
+	"CT1 Schedule - 2022-23 EVEN Sem B.Tech (II, III, IV Year)": {
+	"description": "CT1 Schedule - 2022-23 EVEN Sem B.Tech (II, III, IV Year)",
+	"url": "/downloads/notices/2022_23_EVEN_BTech(II,III,IV year)_CT1_Schedule.pdf",
+	"isNew": true
+    },
+
+	"CT1 Schedule - 2022-23 EVEN Sem PhD": {
+	"description": "CT1 Schedule - 2022-23 EVEN Sem PhD",
+	"url": "/downloads/notices/2022_23_EVEN_PHD_CT1_Schedule.pdf",
+	"isNew": true
+    },
+	
+	"End Semester Exam Schedule - 2022-23 ODD Sem B.Tech (I Year)": {
+	"description": "End Semester Exam Schedule - 2022-23 ODD Sem B.Tech (I Year)",
+	"url": "/downloads/notices/2022_23_ODD_BTech(I year)_EndExam_Schedule.pdf",
+	"isNew": true
+    },
+
+	"Supplementary Lab Exam Schedule - 2022-23 ODD Sem B.Tech (I Year)": {
+	"description": "Supplementary Lab Exam Schedule - 2022-23 ODD Sem B.Tech (I Year)",
+	"url": "/downloads/notices/2022_23_ODD_BTech(I year)_SuppleLabExam_Schedule.pdf",
+	"isNew": true
+    },
+
+	"Supplementary Exam Schedule - 2022-23 ODD Sem B.Tech (I Year)": {
+	"description": "Supplementary Exam Schedule - 2022-23 ODD Sem B.Tech (I Year)",
+	"url": "/downloads/notices/2022_23_ODD_BTech(I year)_SuppleExam_Schedule.pdf",
+	"isNew": true
+    },
+
+	"Lab Exam Schedule - 2022-23 ODD Sem B.Tech (I Year)": {
+	"description": "Lab Exam Schedule - 2022-23 ODD Sem B.Tech (I Year)",
+	"url": "/downloads/notices/2022_23_ODD_BTech(I year)_LabExam_Schedule.pdf",
+	"isNew": true
+    },
+
+	"Supplementary Exam Circular - 2022-23 ODD Sem B.Tech (I Year)": {
+	"description": "Supplementary Exam Circular - 2022-23 ODD Sem B.Tech (I Year)",
+	"url": "/downloads/notices/2022_23_ODD_BTech(I year)_SuppleExam_Circular.pdf",
+	"isNew": true
+    },
+
+	"CT-II Exam Schedule - 2022-23 ODD Sem B.Tech (I Year)": {
+	"description": "CT-II Exam Schedule - 2022-23 ODD Sem B.Tech (I Year)",
+	"url": "/downloads/notices/2022-23_I_Year_CTII_schedule.pdf",
+	"isNew": true
+    },
+
+	"Fee structure - 2022-23 EVEN Sem": {
+	"description": "Fee structure - 2022-23 EVEN Sem ",
+	"url": "/downloads/notices/Fees_Structure_Even_Semester_2022_23.pdf",
+	"isNew": true
+    }, 	
+
+	"CT-I Exam Schedule - 2022-23 ODD Sem B.Tech (I Year)": {
+	"description": "CT-I Exam Schedule - 2022-23 ODD Sem B.Tech (I Year)",
+	"url": "/downloads/notices/2022_23_ODD_BTech(I year)CT1Exam_Schedule.pdf",
+	"isNew": true
+    },
+
+	"EndSem Exam Schedule - 2022-23 ODD Sem B.Tech (III,V,VII)": {
+	"description": "EndSem Exam Schedule - 2022-23 ODD Sem B.Tech (III,V,VII)",
+	"url": "/downloads/notices/2022_23_ODD_BTech(III_V_VII)_EndSem_Supplementary_Exam_Schedule.pdf",
+	"isNew": true
+    }, 	
+
+	"EndSem Exam Schedule - 2022-23 ODD Sem Ph.D": {
+	"description": "EndSem Exam Schedule - 2022-23 ODD Sem Ph.D",
+	"url": "/downloads/notices/2022_23_ODD_PhD_EndExam_Schedule.pdf",
+	"isNew": true
+    }, 	
+
+	"End Semester Lab Exam Schedule - 2022-23 ODD Sem": {
+	"description": "End Semester Lab Exam Schedule - 2022-23 ODD Sem",
+	"url": "/downloads/notices/2022_23_ODD_EndLabExamSchedule.pdf",
+	"isNew": true
+    },
+ 
+ 	"Supplementary Exam Registration Nov 2022": {
+	"description": "Supplementary Exam Registration Nov 2022",
+	"url": "/downloads/notices/2022_23_ODD_BTech_Supplementary_Exam.pdf",
+	"isNew": true
+    },	
+ 
+ 	"IIITT - Medium of Instruction": {
+    "description": "IIITT - Medium of Instruction",
+    "url": "/downloads/notices/IIITT_Medium_of_Instruction.pdf",
+    "isNew": true
+  	},
+ 
+ 	"CT-II Exam Schedule - 2022-23 ODD Sem B.Tech (III,V,VII)": {
+	"description": "CT-II Exam Schedule - 2022-23 ODD Sem B.Tech (III,V,VII)",
+	"url": "/downloads/notices/2022_23_ODD_BTech(III_V_VII)_CT2_Exam_Schedule.pdf",
+	"isNew": true
+    },
+ 
+ 	"CT-II Exam Schedule - 2022-23 ODD Sem Ph.D": {
+	"description": "CT-II Exam Schedule - 2022-23 ODD Sem Ph.D",
+	"url": "/downloads/notices/2022_23_ODD_Ph.D_CT2_Exam_Schedule.pdf",
+	"isNew": true
+    },
+ 	
+ 	"B.Tech Online Reporting Details 2022-23 - Last Date for ONLINE REPORTING - 09-11-2022": {
+	"description": "B.Tech Online Reporting Details 2022-23 - Last Date for ONLINE REPORTING - 09-11-2022",
+	"url": "downloads/admission/BTech_Reporting_Details_2022_23.pdf",
+	"isNew": true
+    },
+ 
+ 	"CT-I Exam Schedule - 2022-23 ODD Sem B.Tech (III,V,VII)": {
+	"description": "CT-I Exam Schedule - 2022-23 ODD Sem B.Tech (III,V,VII)",
+	"url": "/downloads/notices/2022_23_ODD_BTech(III_V_VII)CT1Exam_Schedule.pdf",
+	"isNew": true
+    },
+ 
+ 	"CT-I Exam Schedule - 2022-23 ODD Sem Ph.D": {
+	"description": "CT-I Exam Schedule - 2022-23 ODD Sem Ph.D",
+	"url": "/downloads/notices/2022_23_ODD_Ph.D_CT1Exam_Schedule.pdf",
+	"isNew": true
+    },
+ 
+ 	"Instructions for Convocation 2022": {
+    "description": "Instructions for Convocation 2022",
+    "url": "/instructions_convocation2022",
+    "isNew": true
+  	},
+ 
+ 	
+ 	"Updated Fee Circular AY 2022-23 ODD Semester": {
+    "description": "Updated Fee Circular AY 2022-23 ODD Semester",
+    "url": "/downloads/notices/Updated_Fee_Circular_AY_2022_23_ODD_Semester.pdf",
+    "isNew": true
+  	},
+ 
+ 	"Supplementary Exam_Schedule_2021-22_ODD_B.Tech-1st year": {
+	"description": "Supplementary Exam_Schedule_2021-22_ODD_B.Tech-1st year",
+	"url": "/downloads/notices/Supplementary Exam_Schedule_2021-22_ODD_B.Tech-1st year.pdf",
+	"isNew": true
+    },
+ 	
+ 	"END Exam Schedule 2021-22 EVEN Semester B.Tech 1st-year": {
+	"description": "END Exam Schedule 2021-22 EVEN Semester B.Tech 1st-year",
+	"url": "/downloads/notices/2021_22_EVEN_BTech_IISem_End_Exam_Schedule.pdf",
+	"isNew": true
+    },
+ 
+ 	"END Lab Exam Schedule 2021-22 EVEN Semester B.Tech 1st-year": {
+	"description": "END Lab Exam Schedule 2021-22 EVEN Semester B.Tech 1st-year",
+	"url": "/downloads/notices/2021_22_EVEN_BTech_IISem_End_Lab_Exam_Schedule.pdf",
+	"isNew": true
+    },
+ 
+	"Supplementary Exam (Aug 2022) circular": {
+	"description": "Supplementary Exam (Aug 2022) circular",
+	"url": "/downloads/notices/Supplementary_Examination_Aug_2022.pdf",
+	"isNew": true
+    },
+ 
+ 	"PhD Admission July 2022: List of selected candidates": {
+	"description": "PhD Admission July 2022: List of selected candidates",
+    "url": "/downloads/notices/PhD_July2022_selected_candidates.pdf",
+    "isNew": true
+  	},
+    
+    "PhD Admission July 2022: List of shortlisted candidates for interview": {
+	"description": "PhD Admission July 2022: List of shortlisted candidates for interview",
+    "url": "/downloads/notices/PhD_July2022_interview_shortlisted.pdf",
+    "isNew": true
+  	}, 
+ 
+ 	"CT2 Exam Schedule 2021-22 EVEN Semester B.Tech 1st-year": {
+	"description": "CT2 Exam Schedule 2021-22 EVEN Semester B.Tech 1st-year",
+	"url": "/downloads/notices/CTII_Examschedule2021_22_EVEN_BTech_II_Sem.pdf",
+	"isNew": true
+    },  
+ 
+ 	"PhD Admission July 2022: List of shortlisted candidates for written test": {
+    "description": "PhD Admission July 2022: List of shortlisted candidates for written test",
+    "url": "/downloads/notices/PhD_all_shortlisted-July2022.pdf",
+    "isNew": true
+  	},
+ 
+ 	"CT1 Exam Schedule 2021-22 EVEN Semester B.Tech 1st-year": {
+	"description": "CT1 Exam Schedule 2021-22 EVEN Semester B.Tech 1st-year",
+	"url": "/downloads/notices/CT1ExamSchedule2021-22_EVEN-1st-year.pdf",
+	"isNew": true
+    },
+    
+    "End Semester Supplementary Examination for B.Tech (III to VIII Sem, EVEN Semester, 2021-2022)": {
+      "description": "End Semester Supplementary Examination for B.Tech (III to VIII Sem, EVEN Semester, 2021-2022)",
+      "url": "/downloads/notices/SupplementaryExam_Schedule_2021-22_Even_B.Tech_IIItoVIII.pdf",
+      "isNew": false
+  },
+
+    "Circular for Supplementary Examination - Apr 2022": {
+      "description": "Circular for Supplementary Examination - Apr 2022",
+      "url": "/downloads/notices/CircularforSupplementaryExamination-Apr2022.pdf",
+      "isNew": false
+  },
+
+    "End - Exam Schedule (2021-22_EVEN) - B.Tech(IV,VI,VIII Sem)": {
+      "description": "End - Exam Schedule (2021-22_EVEN) - B.Tech(IV,VI,VIII Sem)",
+      "url": "/downloads/notices/End-ExamSchedule2021-22_EVEN-B.Tech_IV_VI_VIIISem.pdf",
+      "isNew": false
+  },
+
+    "End - Exam Schedule (2021-22_EVEN) - MTech": {
+      "description": "End - Exam Schedule (2021-22_EVEN) - MTech",
+      "url": "/downloads/notices/End-ExamSchedule-2021-22_EVEN-MTech.pdf",
+      "isNew": false
+  },
+
+    "End - Exam Schedule (2021-22_EVEN) - PhD": {
+      "description": "End - Exam Schedule (2021-22_EVEN) - PhD",
+      "url": "/downloads/notices/End-ExamSchedule-2021-22_EVEN-PhD.pdf",
+      "isNew": false
+  },
+
+    "End - Lab Exam Schedule_2021-22_Even_B.Tech & M.Tech": {
+      "description": "End - Lab Exam Schedule_2021-22_Even_B.Tech & M.Tech",
+      "url": "/downloads/notices/EndLabExamSchedule_2021-22_Even_BTech_MTech.pdf",
+      "isNew": false
+  },
+    
+    "I - B.Tech - Fee Structure for AY 2021-22 EVEN Semester": {
+      "description": "I - B.Tech - Fee Structure for AY 2021-22 EVEN Semester",
+      "url": "/downloads/notices/UPDATEDFeeStructure-I-B.TechAY2021-22_EVENSEM.pdf",
+      "isNew": false
+  },
+    
+    "B.Tech (Semesters IV, VI, VIII) CT2 Exam Schedule 2021-22 EVEN Semester": {
+	"description": "B.Tech (Semesters IV, VI, VIII) CT2 Exam Schedule 2021-22 EVEN Semester",
+	"url": "/downloads/notices/CT2-ExamSchedule2021-22_EVEN-B.TechIV_VI_VIIISem.pdf",
+	"isNew": false
+    },
+    "M.Tech CT2 Exam Schedule 2021-22 EVEN Semester": {
+	"description": "M.Tech CT2 Exam Schedule 2021-22 EVEN Semester",
+	"url": "/downloads/notices/CT2-ExamSchedule2021-22_EVEN-MTech.pdf",
+	"isNew": false
+    },
+    "PhD CT2 Exam Schedule 2021-22 EVEN Semester": {
+	"description": "PhD CT2 Exam Schedule 2021-22 EVEN Semester",
+	"url": "/downloads/notices/CT2-ExamSchedule_2021-22_EVEN-PhD.pdf",
+	"isNew": false
+    },
+    
+    "(Updated) B.Tech (I semester) End Semester exam schedule 2021-22 ODD": {
+	"description": "(Updated) B.Tech (I semester) End Semester exam schedule 2021-22 ODD",
+	"url": "/downloads/notices/UPDATED_End_ExamSchedule2021-22_ODD-B.Tech__I_Sem.pdf",
+	"isNew": false
+    },
+    
+    "B.Tech (I semester) Lab End Semester Exam Schedule 2021-22 ODD": {
+	"description": "B.Tech (I semester) Lab End Semester Exam Schedule 2021-22 ODD",
+	"url": "/downloads/notices/EndLabExamSchedule_2021-22_ODD_B.Tech__I_Sem.pdf",
+	"isNew": false
+    },
+
     "Exam Schedule CT2 2021-22 B.Tech ODD Semester I for 2021-25 Batch": {
     "description": "Exam Schedule CT2 2021-22 B.Tech ODD Semester I for 2021-25 Batch",
     "url": "/downloads/notices/CT2_ExamSchedule2021-22_ODD-BTech1styear.pdf",
-    "isNew": true
+    "isNew": false
   },
 
     "CT1 Exam Schedule 2021-22 EVEN Semester PhD": {
-	"description": "CT1 Exam Schedule 2021-22 EVEN Semester PhD",
+	"description": "CT1 Exam Schedule 2021-22 EVEN Semester PhD",	
 	"url": "/downloads/notices/CT1-ExamSchedule2021-22_EVEN-PhD.pdf",
-	"isNew": true
+	"isNew": false
     },
  
  	"CT1 Exam Schedule 2021-22 EVEN Semester MTech": {
 	"description": "CT1 Exam Schedule 2021-22 EVEN Semester MTech",
 	"url": "/downloads/notices/CT1-ExamSchedule2021-22_EVEN-MTech.pdf",
-	"isNew": true
+	"isNew": false
     },
  
  	"CT1 Exam Schedule 2021-22 EVEN Semester BTech": {
 	"description": "CT1 Exam Schedule 2021-22 EVEN Semester BTech",
 	"url": "/downloads/notices/CT1-ExamSchedule2021-22_EVEN-BTech.pdf",
-	"isNew": true
+	"isNew": false
     },
 
     "Exam Schedule CT1 2021-22 B.Tech ODD Semester I for 2021-25 Batch": {
@@ -32,25 +444,25 @@
     "Revised UG Fee Structure AY 2021-22 EVEN Semester": {
     "description": "Revised UG Fee Structure AY 2021-22 EVEN Semester",
     "url": "/downloads/notices/Revised_UG_Fee_Structure_AY_2021_22_EVEN_SEM.pdf",
-    "isNew": true
+    "isNew": false
   },
     
     "End Semester Exam Schedule 2021-22 ODD M.Tech I Semester and Ph.D": {
 	"description": "End Semester Exam Schedule 2021-22 ODD M.Tech I Semester and Ph.D",
 	"url": "/downloads/notices/EndExamSchedule_2021-22_ODD_M.Tech_ISemandPh.D.pdf",
-	"isNew": true
+	"isNew": false
   },
 
   "Lab End Semester Exam Schedule 2021-22 ODD M.Tech I Semester": {
     "description": "Lab End Semester Exam Schedule 2021-22 ODD M.Tech I Semester",
     "url": "/downloads/notices/EndLabExamSchedule_2021-22_ODD_M.Tech_ISem.pdf",
-    "isNew": true
+    "isNew": false
   },
 
   "Fee Structure AY 2021-22 EVEN Semester": {
     "description": "Fee Structure AY 2021-22 EVEN Semester - Revised",
     "url": "/downloads/notices/FeeStructureAY2021-22_EVENSEM-revised.pdf",
-    "isNew": true
+    "isNew": false
   },
 
   "Guidelines and Application form for Duplicate Certificates": {
@@ -62,13 +474,13 @@
   "M.Tech CT-II 2021-22 ODD Semester I Exam Schedule": {
     "description": "M.Tech CT-II 2021-22 ODD Semester I Exam Schedule",
     "url": "/downloads/notices/CT-II_2021-22_ODD_M.TECH_I-Sem.pdf",
-    "isNew": true
+    "isNew": false
   },
 
   "PhD exam schedule End Semester 2021-22 ODD: Semester I": {
     "description": "PhD exam schedule End Semester 2021-22 ODD: Semester I",
     "url": "/downloads/notices/EndExamSchedule_2021-22_ODD_PhD_Sem_1.pdf",
-    "isNew": true
+    "isNew": false
   },
 
   "B.Tech (III semester) End Semester exam schedule 2021-22 ODD": {
@@ -855,6 +1267,11 @@
   "Railway Concession": {
     "description": "Issue of Railway Concession Form",
     "url": "/downloads/IIITT_Railway_Concession_Notice_Form.pdf",
+    "isNew": false
+  },
+ "Ph.D. Course Registration Form": {
+    "description": "Ph.D. Course Registration Form for IIIT Trichy Research Scholars.",
+    "url": "/downloads/PhD_COURSE_WORK_REGISTRATION_FORM.pdf",
     "isNew": false
   },
   "Course Registration Form": {

@@ -1,10 +1,46 @@
 {
- 	
-	"New Tender for providing Food Catering Services at IIIT Tiruchirappalli, Tamil Nadu": {
-        "description": "New Tender for providing Food Catering Services at IIIT Tiruchirappalli, Tamil Nadu",
-        "url": "/downloads/tenders/Tender_Notice_Food_Catering_Services_11FEB2022.pdf",
-        "isNew": false
-    }
+	"Tender Notification for providing Mess Services - Corrigendum": {
+        "description": "Tender Notification for providing Mess Services - Corrigendum",
+        "url": "/downloads/tenders/Tender_Notification_Mess_JUN2023_Corrigendum.pdf",
+        "isNew":false
+     },
 
-	  
+	"Tender Notification for providing Mess Services": {
+        "description": "Tender Notification for providing Mess Services",
+        "url": "/downloads/tenders/Tender_Notification_Mess_JUN2023_revised.pdf",
+        "isNew":false
+     },	
+
+	"Tender Notification for providing Organic Waste Composting Machine": {
+        "description": "Tender Notification for providing Organic Waste Composting Machine",
+        "url": "/downloads/tenders/Tender_Notification_OWCMachine_21JUN2023.pdf",
+        "isNew":false
+     },	
+
+	"Tender Notification for Elevator": {
+        "description": "Tender Notification for Elevator",
+        "url": "/downloads/tenders/Tender_Notice_GH_Elevator_09MAY2023.pdf",
+        "isNew":false
+     },
+
+	"Tender Notification for Cafeteria and Stationery": {
+        "description": "Tender Notification for Cafeteria and Stationery",
+        "url": "/downloads/tenders/Tender_Notification_Cafeteria_Stationery_APR2023.pdf",
+        "isNew":false
+     },
+
+	"Tender Notification for purchasing Furnitures": {
+        "description": "Tender Notification for purchasing Furnitures",
+        "url": "/downloads/tenders/Tender_Notification_Furnitures_APR2023.pdf",
+        "isNew":false
+     },
+	
+ 	"Tender Notification for purchasing Conference Table": {
+        "description": "Tender Notification for purchasing Conference Table",
+        "url": "/downloads/tenders/Tender_Notification_Conference_Table_APR2023.pdf",
+        "isNew":false
+     }
+
+	
+	
 }
