@@ -1,16 +1,85 @@
 {
+"Tender Notification for DC Lab components": {
+        "description": "Tender Notification for DC Lab components",
+        "url": "/downloads/tenders/Tender_notification_DCLab_components_2024.pdf",
+        "isNew": false
+    },
+"Tender Notification for ECE Lab components": {
+        "description": "Tender Notification for ECE Lab components",
+        "url": "/downloads/tenders/Tender_notification_ECElab_components_2024.pdf",
+        "isNew": false
+    },
+"Tender Notification for DSP Trainer Kit": {
+        "description": "Tender Notification for DSP Trainer Kit",
+        "url": "/downloads/tenders/Tender_notification_DSP_components_2024.pdf",
+        "isNew": false
+    },
+"Corrigendum for Providing Housekeeping services": {
+        "description": "Corrigendum for Housekeeping services",
+        "url": "/downloads/tenders/Tender_Housekeeping_Corrigendum.pdf",
+        "isNew": false
+    },
+"Tender Notification for Providing Housekeeping services": {
+        "description": "Tender Notification for Housekeeping services",
+        "url": "/downloads/tenders/Tender_Housekeeping_24JUN2024.pdf",
+        "isNew": false
+    },
+"Tender Notification for Providing Stationery shop": {
+        "description": "Tender Notification for Stationery shop",
+        "url": "/downloads/tenders/Tender_Stationery_2024.pdf",
+        "isNew": false
+    },
+"Tender Notification for Providing cafeteria": {
+        "description": "Tender Notification for Providing cafeteria",
+        "url": "/downloads/tenders/Tender_Cafeteria_2024.pdf",
+        "isNew": false
+    },
+"Tender Notification for Providing Mess Services": {
+        "description": "Tender Notification for Providing Mess Services",
+        "url": "/downloads/tenders/Tender_Notification_for_ Providing_Mess_Services_JUNE_2024.pdf",
+        "isNew": false
+    },
+"Tender Notification for providing Housekeeping services": {
+        "description": "Tender Notification for Housekeeping services",
+        "url": "/downloads/tenders/Tender_Housekeeping_04MAR2024.pdf",
+        "isNew": false
+    },
+"Tender Notification for Hiring of Vehicle": {
+        "description": "Tender Notification for Vehicle",
+        "url": "/downloads/tenders/Tender_Notice_Vehicle_04MAR2024.pdf",
+        "isNew": false
+    },
+"Tender Notification for Photoluminescence Spectrometer": {
+        "description": "Tender Notification for Photoluminescence Spectrometer",
+        "url": "/downloads/tenders/Tender_Notice_Physics_14MAR2024.pdf",
+        "isNew": false
+    },
+
+	"Tender Notification for ECE Lab Components": {
+        "description": "Tender Notification for ECE Lab Components",
+        "url": "/downloads/tenders/Tender_notification_ECElab_components_03JAN2024.pdf",
+        "isNew":false
+     },	 
+
+	"Tender Notification for providing Mess Services": {
+        "description": "Tender Notification for providing Mess Services",
+        "url": "/downloads/tenders/Tender_Notification_Catering_10OCT2023.pdf",
+        "isNew":false
+     },	
+
+	"Tender Notification for the supply of wooden shelves": {
+        "description": "Tender Notification for the supply of wooden shelves",
+        "url": "/downloads/tenders/Tender_notification_woodenshelves_almirah_18AUG2023.pdf",
+        "isNew":false
+     },	
+
 	"Tender Notification for providing Mess Services - Corrigendum": {
         "description": "Tender Notification for providing Mess Services - Corrigendum",
         "url": "/downloads/tenders/Tender_Notification_Mess_JUN2023_Corrigendum.pdf",
         "isNew":false
      },
 
-	"Tender Notification for providing Mess Services": {
-        "description": "Tender Notification for providing Mess Services",
-        "url": "/downloads/tenders/Tender_Notification_Mess_JUN2023_revised.pdf",
-        "isNew":false
-     },	
-
+	
 	"Tender Notification for providing Organic Waste Composting Machine": {
         "description": "Tender Notification for providing Organic Waste Composting Machine",
         "url": "/downloads/tenders/Tender_Notification_OWCMachine_21JUN2023.pdf",

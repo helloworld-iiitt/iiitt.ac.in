@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aahladh'23</title>
+    <style>
+        * {
+            margin: 0;
+            box-sizing: border-box;
+            background-color: #0d0d0d;
+            
+        }
+        .aahladh-heading{
+            position: relative;
+            text-align: center;
+            height: 100vh;
+            width: 80vw;
+            overflow: hidden;
+            margin-left: 130px;
+        }
+
+        .aahladh-text {
+            position: absolute;
+            top: 92%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: transparent;
+            color: white;
+            font-size: 22px;
+            text-decoration: none;
+            z-index: 1; 
+            letter-spacing: 2px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+        .aahladh-text:hover {
+            color: rgb(226, 147, 43);
+        }
+        .aahladh-image{
+            width: 100%;
+            height: 100%;
+            
+        }
+
+        @media (max-width:568px) {
+            .aahladh-heading{
+                height: 60vh !important;
+                width: 100vw;
+                position: relative;
+                top: 20%;
+                right: 10%;
+            }
+            .aahladh-text{
+                font-size: 12px !important;
+            }
+        }
+        @media (max-width:768px) {
+            .aahladh-heading{
+                height: 60vh !important;
+                width: 80vw;
+                margin-left: 80px;
+                position: absolute;
+                top: 20%;
+            }
+            .aahladh-text{
+                font-size: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="aahladh-heading">
+        <img src="/images/aahladhposter.png" alt="Invitation" class="aahladh-image">
+        <a href="https://aahladh23.netlify.app/" class="aahladh-text">click here to visit the website</a> 
+    </div>
+</body>
+</html>

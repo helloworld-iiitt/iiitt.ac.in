@@ -1,31 +1,11 @@
 {
-"One Day Workshop on Intellectual Property Rights (Patent Drafting and Filing) (IPR-PDF 2024) - 20/12/2024":{
-        "description": "One Day Workshop on Intellectual Property Rights (Patent Drafting and Filing) (IPR-PDF 2024) - 20/12/2024 ",
-        "url": "downloads/events/IPR_workshop_brochure.pdf",
-        "isNew" : true
-    }, 
-"AICTE QIP sponsored PG certificate course on “3D Printing and Additive Manufacturing” (16-28th December 2024) ":{
-        "description": "AICTE QIP sponsored PG certificate course on “3D Printing and Additive Manufacturing” (16-28th December 2024) ",
-        "url": "downloads/events/AICTE_QIP_PhaseII_brochure.pdf",
-        "isNew" : true
-    }, 
-"Industrial Lecture on VLSI":{
-        "description": "Industrial Lecture on VLSI ",
-        "url": "downloads/events/Industrial_lecture_VLSI.pdf",
-        "isNew" : true
-    }, 
-"SERB Sponsored High End Workshop (Karyasala) on AI Driven Hyperspectral Image Analysis For GIS Applications (AiHiA-2024) (01-07-2024 to 07-07-2024) ":{
-        "description": "SERB Sponsored High End Workshop (Karyasala) on AI Driven Hyperspectral Image Analysis For GIS Applications (AiHiA-2024) (01-07-2024 to 07-07-2024) ",
-        "url": "downloads/events/AiHiA_2024_Flyer.pdf",
-        "isNew" : true
-    },
 "SERB sponsored National Workshop on Transfer Learning for Deployable AI: Techniques and Applications (11-12-2023 to 15-12-2023) ":{
         "description": "SERB sponsored National Workshop on Transfer Learning for Deployable AI: Techniques and Applications (11-12-2023 to 15-12-2023) ",
         "url": "downloads/events/CSE_SERB_WS_2023.pdf",
-        "isNew" : false
-    },
+        "isNew" : true
+    }, 
 
-"Tenth issue of e-magazine 'AIKYAM' (December 2022) ":{
+	"Tenth issue of e-magazine 'AIKYAM' (December 2022) ":{
         "description": "Tenth issue of e-magazine 'AIKYAM' (December 2022) ",
         "url": "https://drive.google.com/file/d/19HF7VQUEntmVThP2PhrkF3K7ILclLN7D/view?usp=sharing",
         "isNew" : false
@@ -65,80 +45,82 @@
         "description": "Orientation Programme Schedule for I year B.Tech. students ",
         "url": "downloads/events/downloads/events/Batch2022_26_Orientation_schedule.pdf",
         "isNew" : false
-    },"Robotics Club organizes Seminar on Robotics ":{
+    },
+
+	"Robotics Club organizes Seminar on Robotics ":{
         "description": "Robotics Club organizes Seminar on Robotics",
         "url": "downloads/events/IIITT_RoboticsClub_Robot_arm_demostration.pdf",
-        "isNew" : false
+        "isNew" : true
     }, 
 
 	"Azadi ka Amrit Mahotsav-Independence Day Celebration @IIITT ":{
         "description": "Azadi ka Amrit Mahotsav-Independence Day Celebration @IIITT",
         "url": "downloads/events/Circular_76th_Independence_Day_Celebration.pdf",
-        "isNew" : false
+        "isNew" : true
     }, 
 	
 	"SERB Accelerate Vigyan (AV) Sponsored One Week workshop on 'Design and Development of 3D Printing Machines for Manufacturing the Engineering Products' from 25.07.2022 to 31.07.2022 in off-line mode ":{
         "description": "SERB Accelerate Vigyan (AV) Sponsored One Week workshop on 'Design and Development of 3D Printing Machines for Manufacturing the Engineering Products' from 25.07.2022 to 31.07.2022 in off-line mode",
         "url": "downloads/events/SERB_Workshop_IIITT_Mech.pdf",
-        "isNew" : false
+        "isNew" : true
     },
 
 	"SERB (Accelerate Vigyan) seven day workshop (kaaryashala) on 'Understanding Statistical Modelling and its Applications in Healthcare using R/Python/SPSS/STATA' 25-07-2022 to 31-07-2022 (25-31 July, 2022, offline mode)":{
         "description": "SERB (Accelerate Vigyan) seven day workshop (kaaryashala) on 'Understanding Statistical Modelling and its Applications in Healthcare using R/Python/SPSS/STATA' 25-07-2022 to 31-07-2022 (25-31 July, 2022, offline mode)",
         "url": "downloads/events/Final-AV-SERB-DSH-July2022.pdf",
-        "isNew" : false
+        "isNew" : true
     },
 
     
       "SERB Sponsored High-End Workshop (Kaaryashala) on “IoT and Machine learning for Automation” under the SERB Accelerate Vigyan Scheme (A SERB initiative) is scheduled between 18-July-2022 to 24-July-2022, offline mode":{
         "description": "SERB Sponsored High-End Workshop (Kaaryashala) on “IoT and Machine learning for Automation” under the SERB Accelerate Vigyan Scheme (A SERB initiative) is scheduled between 18-July-2022 to 24-July-2022, offline mode",
         "url": "downloads/events/SERB_AV_IoT_ML_Automation_brochure.pdf",
-        "isNew" : false
+        "isNew" : true
     },
 
 	"Ninth issue of e-magazine 'AIKYAM' (28 March 2022) (access restricted to iiitt.ac.in email addresses)":{
         "description": "Ninth issue of e-magazine 'AIKYAM' (28 March 2022) (access restricted to iiitt.ac.in email addresses)",
         "url": "https://drive.google.com/file/d/1HmnUNMRtcO6FN_Zgx2C1Idl6LBWfj2X6/view?usp=sharing",
-        "isNew" : false
+        "isNew" : true
     }, 
     
     "A Faculty Development Programme (FDP) on 'Understanding Research and Statistical Analysis Using SPSS - Online Mode' from 7th - 16th March, 2022 organized by Electronics and ICT Academy, NIT Warangal in association with Indian Institute of Information Technology Tiruchirappalli":{
         "description": "A Faculty Development Programme (FDP) on 'Understanding Research and Statistical Analysis Using SPSS - Online Mode' from 7th - 16th March, 2022 organized by Electronics and ICT Academy, NIT Warangal in association with Indian Institute of Information Technology Tiruchirappalli",
         "url": "downloads/events/EICTBROCHURE2022-IIITT-Revised-RINSHU.pdf",
-        "isNew" : false
+        "isNew" : true
     }, 
     
     "Eigth issue of e-magazine 'AIKYAM' (13 January 2022)":{
         "description": "Eigth issue of e-magazine 'AIKYAM' (13 January 2022)",
         "url": "https://drive.google.com/file/d/19HF7VQUEntmVThP2PhrkF3K7ILclLN7D/view?usp=sharing",
-        "isNew" : false
+        "isNew" : true
     }, 
 	"AIKYAM - New Year Calendar 2022":{
         "description": "AIKYAM - New Year Calendar 2022",
         "url": "downloads/calendar/New_Year_Calendar_2022.pdf",
-        "isNew" : false
+        "isNew" : true
     },
 	"Workshop on Advanced Industrial Automation Training for Engineering Education and Research (Online Mode)":{
         "description": "Workshop on Advanced Industrial Automation Training for Engineering Education and Research (Online Mode)",
         "url": "downloads/events/Advanced_Industrial_Automation_Training_Workshop.pdf",
-        "isNew" : false
+        "isNew" : true
     },
 	"Orientation Program Invitation December 2021":{
         "description": "Orientation Program Invitation December 2021",
         "url": "downloads/events/orientation_program_Invitation2021.pdf",
-        "isNew" : false
+        "isNew" : true
     }, 
     
     "Seventh issue of e-magazine 'AIKYAM' (29 November 2021)":{
         "description": "Seventh issue of e-magazine 'AIKYAM' (29 November 2021)",
         "url": "https://drive.google.com/file/d/1El20EmrExcc--A-XtUt4IomEsM3qlQMX/view?usp=sharing",
-        "isNew" : false
+        "isNew" : true
     }, 
     
     "AICTE Training and Learning (ATAL) Academy Sponsored Online Faculty Development Programme on 'System-on-Chip Design and Testing' from 22.11.2021 to 26.11.2021":{
         "description": "AICTE Training and Learning (ATAL) Academy Sponsored Online Faculty Development Programme on 'System-on-Chip Design and Testing' from 22.11.2021 to 26.11.2021",
         "url": "downloads/events/ATAL_FDP_on_System-on-Chip_Design_and_Testing.pdf",
-        "isNew" : false
+        "isNew" : true
     },
     
     "AICTE Training and Learning (ATAL) Academy Sponsored Online Faculty Development Programme on 'Design, Synthesis and Characterization of Novel Materials' from 25.10.2021 to 29.10.2021":{
@@ -150,7 +132,7 @@
     "Sixth issue of e-magazine 'AIKYAM' (30 September 2021)":{
         "description": "Sixth issue of e-magazine 'AIKYAM' (30 September 2021)",
         "url": "https://drive.google.com/file/d/1WNN3jmUCvXLi5FclB96f09Ia3ZpuVG0a/view?usp=sharing",
-        "isNew" : false
+        "isNew" : true
     }, 
     
     "हिंदी पखवाड़ा २०२१ (Hindi Pakhwada 2021)":{
@@ -162,7 +144,7 @@
     "Fifth issue of e-magazine 'AIKYAM' (27 July 2021)":{
         "description": "Fifth issue of e-magazine 'AIKYAM' (27 July 2021)",
         "url": "https://drive.google.com/file/d/1F_64W4xeFXCf_hf3vFIAuln3_97Mr41Q/view?usp=sharing",
-        "isNew" : false
+        "isNew" : true
     }, 
     
     "International Yoga Day 2021 - June 21, 2021":{
@@ -174,7 +156,7 @@
     "Fourth issue of e-magazine 'AIKYAM' (23 Mar 2021)":{
         "description": "Fourth issue of e-magazine 'AIKYAM' (23 Mar 2021)",
         "url": "https://drive.google.com/file/d/1w6oBg_nUVD6TiSHiF9K4p2UTpIfihjbb/view?usp=sharing",
-        "isNew" : false
+        "isNew" : true
     }, 
 
         "Celebration of 75th anniversary -Azadi ka Amrut Mahotsav":{
@@ -204,13 +186,13 @@
     "eCalendar 2021 - IIIT Tiruchirappalli":{
         "description": "eCalendar 2021 - IIIT Tiruchirappalli",
         "url": "https://drive.google.com/file/d/12gxyhkRho-UT9hC-lXgGBUNgjy9E8BQW/view?usp=sharing",
-        "isNew" : false
+        "isNew" : true
     }, 
 
     "Third issue of e-magazine 'AIKYAM' (21 Jan 2021)":{
         "description": "Third issue of e-magazine 'AIKYAM' (21 Jan 2021)",
         "url": "https://drive.google.com/file/d/1QQudXKYk5c8Gp0V0MfGuz5HVCEUBsfcN/view?usp=sharing",
-        "isNew" : false
+        "isNew" : true
     }, 
     
     "National Mathematics Day-Invitation 22/12/2020":{
@@ -252,7 +234,7 @@
     "Second issue of e-magazine 'AIKYAM' (17 Nov 2020)":{
         "description": "Second issue of e-magazine 'AIKYAM' (17 Nov 2020)",
         "url": "https://drive.google.com/file/d/1AqUWKFRSpjYP7zgXnTsjfI7UTmX5gvc3/view?usp=sharing",
-        "isNew" : false
+        "isNew" : true
     }, 
 
     "AICTE Training and Learning (ATAL) Academy Sponsored Online Faculty Development Programme On '3D Printing and Design from 01.02.2020 to 05.02.2020'":{
@@ -306,18 +288,18 @@
  "Fee structure for Even Semester  AY 2019-20 ":{
         "description": "Fee structure for Even Semester  AY 2019-20",
         "url": "/downloads/notices/Fee-Structure-(Even-Semester).pdf",
-        "isNew" : false
+        "isNew" : true
     }, 
 
     "Fee Structure for the AY 2019-20 ":{
         "description": "Fee Structure for Higher Semesters (III, V, VII) for the AY 2019-20",
         "url": "/downloads/notices/FeeStructure19-20.pdf",
-        "isNew" : false
+        "isNew" : true
     },  
     "Fee Structure for the AY 2019-20 (1 semester) ":{
         "description": "Fee Structure for the AY 2019-20 (I semester) ",
         "url": "/downloads/notices/Fee Structure 2019-20.pdf",
-        "isNew" : false
+        "isNew" : true
     },  
     "Fee Structure (2018 - 19) ": {
         "description": "Fee Structure (2018 - 19)",
@@ -364,6 +346,4 @@
         "url":"http://iiitdmjfest.org/",
         "isNew": false
     }
-
-
 }
